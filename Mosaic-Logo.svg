@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="275.16" y="211.2" width="90.46" height="90.46" transform="translate(-87.48 301.66) rotate(-45)"/>
+  <rect class="cls-1" x="531.02" y="83.27" width="90.46" height="90.46" transform="translate(77.92 445.11) rotate(-45)"/>
+  <rect class="cls-1" x="658.95" y="211.2" width="90.46" height="90.46" transform="translate(24.93 573.04) rotate(-45)"/>
+  <rect class="cls-1" x="786.88" y="339.13" width="90.46" height="90.46" transform="translate(-28.06 700.96) rotate(-45)"/>
+  <rect class="cls-1" x="403.09" y="211.2" width="90.46" height="90.46" transform="translate(-50.01 392.12) rotate(-45)"/>
+  <rect class="cls-1" x="147.23" y="339.13" width="90.46" height="90.46" transform="translate(-215.41 248.67) rotate(-45)"/>
+  <rect class="cls-1" x="275.16" y="339.13" width="90.46" height="90.46" transform="translate(-177.94 339.13) rotate(-45)"/>
+  <polygon class="cls-1" points="960.04 448.32 896.07 512.29 832.11 448.32 768.14 512.29 704.18 448.32 640.21 512.29 576.25 448.32 512.29 512.29 448.32 448.32 384.36 512.29 320.39 448.32 256.43 512.29 192.46 448.32 128.5 512.29 64.54 448.32 .57 512.29 64.54 576.25 128.5 640.21 192.46 704.18 256.43 768.14 320.39 832.11 384.36 896.07 448.32 960.04 512.29 1024 576.25 960.04 640.21 896.07 704.18 832.11 768.14 768.14 832.11 704.18 896.07 640.21 960.04 576.25 1024 512.29 960.04 448.32"/>
+  <rect class="cls-1" x="658.95" y="339.13" width="90.46" height="90.46" transform="translate(-65.53 610.51) rotate(-45)"/>
+  <rect class="cls-1" x="403.09" y="339.13" width="90.46" height="90.46" transform="translate(-140.47 429.59) rotate(-45)"/>
+  <rect class="cls-1" x="531.02" y="339.13" width="90.46" height="90.46" transform="translate(-103 520.05) rotate(-45)"/>
+</svg>

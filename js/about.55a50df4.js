@@ -1,2 +1,0 @@
-"use strict";(self["webpackChunkprac2"]=self["webpackChunkprac2"]||[]).push([[594],{866:function(e,l,s){s.r(l),s.d(l,{default:function(){return c}});var r=function(){var e=this;e._self._c;return e._m(0)},t=[function(){var e=this,l=e._self._c;return l("div",{staticClass:"about py-4"},[l("h2",[e._v("Sobre el Mosaic")]),l("p",[e._v("El Mosaic Casteller és un recull de dades sobre les diferentes colles castelleres de catalunya,")])])}],a=s(656),n={},u=(0,a.A)(n,r,t,!1,null,null,null),c=u.exports}}]);
-//# sourceMappingURL=about.55a50df4.js.map

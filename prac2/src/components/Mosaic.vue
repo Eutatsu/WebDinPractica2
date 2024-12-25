@@ -5,11 +5,10 @@
             <div 
             v-if="colla.codi_color!=='#ffffff'"
             class="casella" 
-            :id="'colla'+index"
-            :style="{backgroundColor:colla.codi_color}"
-            >
+            :id="'colla-'+index"
+            :style="{backgroundColor:colla.codi_color}">
             </div>
-            <b-popover :target="'colla'+index" triggers="hover" placement="bottom">
+            <b-popover :target="'colla-'+index" triggers="hover" placement="bottom">
                <p>{{colla.nom}}<br>{{ colla.color_camisa }}</p>
             </b-popover>
         </div>
@@ -17,9 +16,12 @@
             <div 
             v-if="colla.codi_color=='#ffffff'"
             class="casella" 
-            :style="{backgroundColor:colla.codi_color}"
-            v-b-popover.hover.bottom="colla.nom<br>colla.nom_color">
+            :id="'colla-desconeguda-'+index"
+            :style="{backgroundColor:colla.codi_color}">
             </div>
+            <b-popover :target="'colla-desconeguda-'+index" triggers="hover" placement="bottom">
+               <p>{{colla.nom}}<br>{{ colla.color_camisa }}</p>
+            </b-popover>
         </div>
     </div>
     </div>
