@@ -18,6 +18,7 @@
             class="casella" 
             :id="'colla-desconeguda-'+index"
             :style="{backgroundColor:colla.codi_color}">
+            x
             </div>
             <b-popover :target="'colla-desconeguda-'+index" triggers="hover" placement="bottom">
                <p>{{colla.nom}}<br>{{ colla.color_camisa }}</p>
