@@ -8,7 +8,7 @@
 
     <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav >
-        <b-nav-item href="\mosaic">Mosaic</b-nav-item>
+        <b-nav-item href=".\">Mosaic</b-nav-item>
         <b-nav-item-dropdown right>
           <!-- Using 'button-content' slot -->
           <template #button-content>
