@@ -661,7 +661,7 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Quadres negres i liles",
-        "codi_color": "#242424"
+        "codi_color": "#660d81"
     },
     {
         "nom": "Malfargats de Pallars",
@@ -676,8 +676,8 @@
         "url": "Nul",
         "tipus": "convencional",
         "estat": "formacio",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Ratllada blanc i blava",
+        "codi_color": "#1f4590"
     },
     {
         "nom": "Colla Castellera de Cerdanya",
@@ -700,8 +700,8 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Castellera_de_Vacarisses&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "formacio",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Argila",
+        "codi_color": "#d82d01"
     },
     {
         "nom": "Castellers del Foix de Cubelles",
@@ -724,7 +724,7 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Granollers&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Blau Fort",
         "codi_color": "#ffffff"
     },
     {
@@ -733,7 +733,7 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Groc blat",
-        "codi_color": "#ffffff"
+        "codi_color": "#fdc402"
     },
     {
         "nom": "Angelets del Vallespir",
@@ -781,14 +781,14 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Marró teula",
-        "codi_color": "#ffffff"
+        "codi_color": "#a36930"
     },
     {
         "nom": "Castellers de Martorell",
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Martorell&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Lila",
         "codi_color": "#ffffff"
     },
     {
@@ -796,7 +796,7 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Montmel%C3%B3&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Blau fort",
         "codi_color": "#ffffff"
     },
     {
@@ -813,7 +813,7 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Negre",
-        "codi_color": "#ffffff"
+        "codi_color": "#242424"
     },
     {
         "nom": "Castellers de Sitges",
@@ -853,7 +853,7 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau marí",
-        "codi_color": "#ffffff"
+        "codi_color": "#0779f9"
     },
     {
         "nom": "Colla Castellera Nyerros de la Plana",
@@ -861,7 +861,7 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Gris",
-        "codi_color": "#ffffff"
+        "codi_color": "#cccccc"
     },
     {
         "nom": "Colla dels Xiquets de Valls",
@@ -876,7 +876,7 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Jove_de_Castellers_de_Cubelles&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Verd",
         "codi_color": "#ffffff"
     },
     {
@@ -892,7 +892,7 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Jove_del_Vendrell&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Blau turquesa",
         "codi_color": "#ffffff"
     },
     {
@@ -916,7 +916,7 @@
         "url": "https://ca.wikipedia.org/wiki/Cos_de_Castellers_de_Ballets_de_Catalunya",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "vermell",
+        "color_camisa": "Vermell",
         "codi_color": "#ffffff"
     },
     {
@@ -925,14 +925,14 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Lila morat",
-        "codi_color": "#ffffff"
+        "codi_color": "#512884"
     },
     {
         "nom": "Joves des Raiguer",
         "url": "https://ca.wikipedia.org/w/index.php?title=Joves_des_Raiguer&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Blau marí",
         "codi_color": "#ffffff"
     },
     {
@@ -940,7 +940,7 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Marrecs_del_Catllar&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Blau grisós",
         "codi_color": "#ffffff"
     },
     {
@@ -980,7 +980,7 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Xiquets_de_Gav%C3%A0&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Blau fort",
         "codi_color": "#ffffff"
     },
     {
@@ -996,7 +996,7 @@
         "url": "https://ca.wikipedia.org/wiki/Xiquets_de_l%27Erampruny%C3%A0",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Blau",
+        "color_camisa": "Blau fort",
         "codi_color": "#ffffff"
     },
     {
@@ -1012,16 +1012,16 @@
         "url": "https://ca.wikipedia.org/wiki/Xiquets_de_la_Vila_d%27Alcover",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Granat",
+        "codi_color": "#721a33"
     },
     {
         "nom": "Xiquets d'Alcover",
         "url": "https://ca.wikipedia.org/wiki/Xiquets_d%27Alcover",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Verd Oliva",
+        "codi_color": "#449654"
     },
     {
         "nom": "Los Xics Caleros",
@@ -1029,7 +1029,7 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Ratllada blanc i blava",
-        "codi_color": "#ffffff"
+        "codi_color": "#89aadd"
     },
     {
         "nom": "Arreplegats de la Zona Universitària",
@@ -1076,8 +1076,8 @@
         "url": "https://ca.wikipedia.org/wiki/Grillats_del_CBL",
         "tipus": "universitaria",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Vi",
+        "codi_color": "#741e38"
     },
     {
         "nom": "Llunàtics de la UPC de Vilanova",
@@ -1140,16 +1140,17 @@
         "url": "https://ca.wikipedia.org/wiki/Gambirots_de_la_UIB",
         "tipus": "universitaria",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Blau fluix",
+        "codi_color": "#c6d6f1"
     },
     {
         "nom": "Mangoners de la Universitat de Perpinyà",
         "url": "https://ca.wikipedia.org/wiki/Mangoners_de_la_Universitat_de_Perpiny%C3%A0",
         "tipus": "universitaria",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Morat o Taronja",
+        "codi_color": "#ff6b21",
+        "codi_color2": "#beb4f5"
     },
     {
         "nom": "Mineuetts de la Salle",
@@ -1164,16 +1165,16 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_Berlin",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Groc",
+        "codi_color": "#fcbf43"
     },
     {
         "nom": "Castellers de Lausanne",
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_Lausanne",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Verd",
+        "codi_color": "#15a850"
     },
     {
         "nom": "Castellers de Lo Prado",
@@ -1197,15 +1198,15 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Blau",
-        "codi_color": "#ffffff"
+        "codi_color": "#2b6cb0"
     },
     {
         "nom": "Castellers d'Estocolm",
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_d%27Estocolm&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Groc",
+        "codi_color": "#ffde59"
     },
     {
         "nom": "Castellers de Sydney",
@@ -1220,24 +1221,24 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Tokyo&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Granat",
+        "codi_color": "#a02c4c"
     },
     {
         "nom": "Castellers de Tolosa",
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Tolosa&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Vermell Totxo",
+        "codi_color": "#d8583f"
     },
     {
         "nom": "Castellers de Zürich",
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Z%C3%BCrich&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Blanc Provisional",
+        "codi_color": "#fffffe"
     },
     {
         "nom": "Castellers of London",
@@ -1245,7 +1246,7 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#ffffff"
+        "codi_color": "#cf1817"
     },
     {
         "nom": "Colla Castellera d'Edinburgh",
@@ -1253,7 +1254,7 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Blau marí",
-        "codi_color": "#ffffff"
+        "codi_color": "#010080"
     },
     {
         "nom": "Colla Castellera de Madrid",
@@ -1261,15 +1262,15 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#ffffff"
+        "codi_color": "#c80000"
     },
     {
         "nom": "Euskal Herriko Casteller Taldea",
         "url": "https://ca.wikipedia.org/w/index.php?title=Euskal_Herriko_Casteller_Taldea&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Morat",
+        "codi_color": "#592744"
     },
     {
         "nom": "Koales de Melbourne",
@@ -1284,7 +1285,7 @@
         "url": "https://ca.wikipedia.org/wiki/Mannekes_de_Brussel%C2%B7les",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "groc",
+        "color_camisa": "Groc",
         "codi_color": "#F9F20E"
     },
     {
@@ -1292,16 +1293,16 @@
         "url": "https://ca.wikipedia.org/wiki/Mataresos_de_l%27Alguer",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Vermell",
+        "codi_color": "#fe4040"
     },
     {
         "nom": "Xiquets de Copenhagen",
         "url": "https://ca.wikipedia.org/wiki/Xiquets_Copenhagen",
         "tipus": "internacional",
         "estat": "activa",
-        "color_camisa": "blau marí",
-        "codi_color": "#ffffff"
+        "color_camisa": "Blau marí",
+        "codi_color": "#2d3a66"
     },
     {
         "nom": "Califòrnia Kids",
@@ -1316,16 +1317,16 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Cerro_Navia&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Vermell",
+        "codi_color": "#fa0100"
     },
     {
         "nom": "Castellers de la Usach",
         "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_la_Usach&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Blau",
+        "codi_color": "#06429d"
     },
     {
         "nom": "Castellers de Talca",
@@ -1344,11 +1345,11 @@
         "codi_color": "#ffffff"
     },
     {
-        "nom": "Colla Castellera Les Quatre Barres",
+        "nom": "Colla Castellera de Castelar",
         "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Castellera_Les_Quatre_Barres&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Blau Cel",
         "codi_color": "#ffffff"
     },
     {
@@ -1356,7 +1357,7 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Castellera_del_Casal_Virolai_de_Quer%C3%A9taro&action=edit&redlink=1",
         "tipus": "internacional",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
+        "color_camisa": "Lila",
         "codi_color": "#ffffff"
     },
     {
@@ -1365,7 +1366,7 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Rosat",
-        "codi_color": "#ffffff"
+        "codi_color": "#e60180"
     },
     {
         "nom": "Xiquets de l'Alster",

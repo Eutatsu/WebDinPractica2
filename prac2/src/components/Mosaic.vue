@@ -1,6 +1,6 @@
 <template>
     <div id="mosaic">
-    <div class="container d-flex flex-wrap my-4" id="contenidor_mosaic">
+    <div class="container d-flex flex-wrap my-4 justify-content-center" id="contenidor_mosaic">
         <div v-for="(colla,index) in data" :key="index">
             <div 
             v-if="colla.codi_color!=='#ffffff'"
@@ -8,8 +8,12 @@
             :id="'colla-'+index"
             :style="{backgroundColor:colla.codi_color}">
             </div>
-            <b-popover :target="'colla-'+index" triggers="hover" placement="bottom">
-               <p>{{colla.nom}}<br>{{ colla.color_camisa }}</p>
+            <b-popover custom-class="text-center" :title=colla.nom :target="'colla-'+index" triggers="hover" placement="bottom" >
+                <p>
+                {{ colla.color_camisa }}<br>
+                    
+                <strong>Tipus:</strong> {{ colla.tipus }}<br>
+                <strong>Estat:</strong> {{ colla.estat }}</p>
             </b-popover>
         </div>
         <div v-for="(colla,index) in data" :key="index">
@@ -20,8 +24,12 @@
             :style="{backgroundColor:colla.codi_color}">
             x
             </div>
-            <b-popover :target="'colla-desconeguda-'+index" triggers="hover" placement="bottom">
-               <p>{{colla.nom}}<br>{{ colla.color_camisa }}</p>
+            <b-popover class="justify-center" :title=colla.nom :target="'colla-desconeguda-'+index" triggers="hover" placement="bottom">
+                <p>
+                {{ colla.color_camisa }}<br>
+                    
+                <strong>Tipus:</strong> {{ colla.tipus }}<br>
+                <strong>Estat:</strong> {{ colla.estat }}</p>
             </b-popover>
         </div>
     </div>
@@ -43,8 +51,8 @@ export default{
 
 
  .casella{
-    width: 80px;
-    height: 80px;
+    width: 5rem;
+    height: 5rem;
  }
  
 </style>
