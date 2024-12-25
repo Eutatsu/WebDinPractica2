@@ -284,8 +284,8 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_Vilafranca",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Verd",
+        "codi_color": "#00cc99"
     },
     {
         "nom": "Castellers del Poble Sec",
@@ -660,7 +660,7 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_l%27Adroc",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Quadres negres      i liles",
+        "color_camisa": "Quadres negres i liles",
         "codi_color": "#242424"
     },
     {
@@ -668,8 +668,8 @@
         "url": "https://ca.wikipedia.org/w/index.php?title=Malfargats_de_Pallars&action=edit&redlink=1",
         "tipus": "convencional",
         "estat": "formacio",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "color_camisa": "Groc",
+        "codi_color": "#ffdc55"
     },
     {
         "nom": "Xiquets de Torredembarra",

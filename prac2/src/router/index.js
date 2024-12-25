@@ -29,7 +29,7 @@ const routes = [
 
 const router = new VueRouter({
   mode: "history",
-  base: '/WebDinPractica2/', /*nombre de la carpeta donde se dirigirá github */
+  base: '/WebDinPractica2/', 
   routes
   })
   
