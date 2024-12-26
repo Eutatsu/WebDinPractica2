@@ -1873,12 +1873,12 @@
         ]
     },
     {
-        "nom": "Mineuetts de la Salle",
-        "url": "https://ca.wikipedia.org/w/index.php?title=Mineuetts_de_la_Salle&action=edit&redlink=1",
+        "nom": "Mineyuetts de la Salle",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Minyeuetts_de_la_Salle",
         "tipus": "universitaria",
         "estat": "desapareguda",
-        "color_camisa": "Desconegut",
-        "codi_color": "#ffffff",
+        "color_camisa": "Blanc Provisional",
+        "codi_color": "#fefefe",
         "color_hsv": [
             0,
             0,
@@ -2234,6 +2234,19 @@
             169,
             45,
             80
+        ]
+    },
+    {
+        "nom": "Descargolats de l'EEBE",
+        "url": "Nul",
+        "tipus": "universitaria",
+        "estat": "formació",
+        "color_camisa": "Rosa",
+        "codi_color": "#ea4e97",
+        "color_hsv": [
+            332,
+            67,
+            92
         ]
     }
 ]
