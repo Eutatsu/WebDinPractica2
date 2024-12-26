@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <div>
-  <b-navbar toggleable="lg" type="dark" variant="danger">
+  <b-navbar toggleable="lg" type="dark" class="vermell">
     <b-navbar-brand href="\"><img src="./assets/Mosaic-Logo.png" width="50rem" class="mx-3">Mosaic Casteller</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
@@ -38,7 +38,7 @@
   </b-navbar>
 </div>
     <router-view/>
-  <footer class="bg-danger text-white pt-4">
+  <footer class="vermell text-white pt-4">
     <div class="row">
       <div class="col-sm">
       <h5>Creat per:</h5>
@@ -91,5 +91,9 @@ footer p{
 
 footer a{
   color:rgba(255, 255, 255, 0.5);
+}
+
+.vermell{
+    background-color:#dd1725
 }
 </style>

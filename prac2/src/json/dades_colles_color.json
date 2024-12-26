@@ -5,7 +5,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd fosc",
-        "codi_color": "#2e8785"
+        "codi_color": "#2e8785",
+        "color_hsv": [
+            179,
+            66,
+            53
+        ]
     },
     {
         "nom": "Bordegassos de Vilanova",
@@ -13,7 +18,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Groc terrós",
-        "codi_color": "#fdc402"
+        "codi_color": "#fdc402",
+        "color_hsv": [
+            46,
+            99,
+            99
+        ]
     },
     {
         "nom": "Brivalls de Cornudella",
@@ -21,7 +31,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau marí",
-        "codi_color": "#2f317c"
+        "codi_color": "#2f317c",
+        "color_hsv": [
+            238,
+            62,
+            49
+        ]
     },
     {
         "nom": "Capgrossos de Mataró",
@@ -29,7 +44,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau marí",
-        "codi_color": "#20418b"
+        "codi_color": "#20418b",
+        "color_hsv": [
+            221,
+            77,
+            55
+        ]
     },
     {
         "nom": "Carallots de Sant Vicenç dels Horts",
@@ -37,7 +57,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Taronja",
-        "codi_color": "#ed7715"
+        "codi_color": "#ed7715",
+        "color_hsv": [
+            27,
+            91,
+            93
+        ]
     },
     {
         "nom": "Castellers d'Altafulla",
@@ -45,7 +70,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Lila",
-        "codi_color": "#6f3a88"
+        "codi_color": "#6f3a88",
+        "color_hsv": [
+            281,
+            57,
+            53
+        ]
     },
     {
         "nom": "Castellers d'Andorra",
@@ -53,7 +83,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Bordeus",
-        "codi_color": "#721e35"
+        "codi_color": "#721e35",
+        "color_hsv": [
+            344,
+            74,
+            45
+        ]
     },
     {
         "nom": "Castellers d'Esparreguera",
@@ -61,7 +96,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Bordeus",
-        "codi_color": "#9f161d"
+        "codi_color": "#9f161d",
+        "color_hsv": [
+            357,
+            86,
+            62
+        ]
     },
     {
         "nom": "Castellers de Badalona",
@@ -69,7 +109,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Micaco (nespre)",
-        "codi_color": "#fbbe49"
+        "codi_color": "#fbbe49",
+        "color_hsv": [
+            39,
+            71,
+            98
+        ]
     },
     {
         "nom": "Castellers de Barcelona",
@@ -77,7 +122,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#D9001D"
+        "codi_color": "#D9001D",
+        "color_hsv": [
+            352,
+            100,
+            85
+        ]
     },
     {
         "nom": "Castellers de Berga",
@@ -85,7 +135,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau fosc[1]",
-        "codi_color": "#3e497f"
+        "codi_color": "#3e497f",
+        "color_hsv": [
+            230,
+            51,
+            50
+        ]
     },
     {
         "nom": "Castellers de Caldes de Montbui",
@@ -93,7 +148,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd ampolla",
-        "codi_color": "#026061"
+        "codi_color": "#026061",
+        "color_hsv": [
+            181,
+            98,
+            38
+        ]
     },
     {
         "nom": "Castellers de Castellar del Vallès",
@@ -101,7 +161,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Bordeus",
-        "codi_color": "#88171a"
+        "codi_color": "#88171a",
+        "color_hsv": [
+            358,
+            83,
+            53
+        ]
     },
     {
         "nom": "Castellers de Castelldefels",
@@ -109,7 +174,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Groc",
-        "codi_color": "#e5d01e"
+        "codi_color": "#e5d01e",
+        "color_hsv": [
+            54,
+            87,
+            90
+        ]
     },
     {
         "nom": "Castellers de Cerdanyola",
@@ -117,7 +187,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd",
-        "codi_color": "#33a28a"
+        "codi_color": "#33a28a",
+        "color_hsv": [
+            167,
+            69,
+            64
+        ]
     },
     {
         "nom": "Castellers de Cornellà",
@@ -125,7 +200,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Lila",
-        "codi_color": "#58167d"
+        "codi_color": "#58167d",
+        "color_hsv": [
+            278,
+            82,
+            49
+        ]
     },
     {
         "nom": "Castellers de l'Alt Maresme",
@@ -133,7 +213,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vermell maduixa      [1]",
-        "codi_color": "#ea1033"
+        "codi_color": "#ea1033",
+        "color_hsv": [
+            350,
+            93,
+            92
+        ]
     },
     {
         "nom": "Colla Castellera de l'Esquerra de l'Eixample",
@@ -141,7 +226,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Lila",
-        "codi_color": "#91409f"
+        "codi_color": "#91409f",
+        "color_hsv": [
+            291,
+            60,
+            62
+        ]
     },
     {
         "nom": "Castellers de la Sagrada Família",
@@ -149,7 +239,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd",
-        "codi_color": "#18bc9c"
+        "codi_color": "#18bc9c",
+        "color_hsv": [
+            168,
+            87,
+            74
+        ]
     },
     {
         "nom": "Castellers de la Vila de Gràcia",
@@ -157,7 +252,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau marí",
-        "codi_color": "#003e97"
+        "codi_color": "#003e97",
+        "color_hsv": [
+            215,
+            100,
+            59
+        ]
     },
     {
         "nom": "Castellers de les Roquetes",
@@ -165,7 +265,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Gris",
-        "codi_color": "#7f828b"
+        "codi_color": "#7f828b",
+        "color_hsv": [
+            225,
+            9,
+            55
+        ]
     },
     {
         "nom": "Castellers de Lleida",
@@ -173,7 +278,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Bordeus",
-        "codi_color": "#8b1733"
+        "codi_color": "#8b1733",
+        "color_hsv": [
+            346,
+            83,
+            55
+        ]
     },
     {
         "nom": "Castellers de Mallorca",
@@ -181,7 +291,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Grana",
-        "codi_color": "#911305"
+        "codi_color": "#911305",
+        "color_hsv": [
+            6,
+            97,
+            57
+        ]
     },
     {
         "nom": "Castellers de Mediona",
@@ -189,7 +304,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau texà[1]",
-        "codi_color": "#0967a5"
+        "codi_color": "#0967a5",
+        "color_hsv": [
+            204,
+            95,
+            65
+        ]
     },
     {
         "nom": "Castellers de Mollet",
@@ -197,7 +317,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd claret[1]",
-        "codi_color": "#91d6ac"
+        "codi_color": "#91d6ac",
+        "color_hsv": [
+            143,
+            32,
+            84
+        ]
     },
     {
         "nom": "Castellers de Montcada i Reixac",
@@ -205,7 +330,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Teula",
-        "codi_color": "#c80d0f"
+        "codi_color": "#c80d0f",
+        "color_hsv": [
+            359,
+            94,
+            78
+        ]
     },
     {
         "nom": "Castellers de Rubí",
@@ -213,7 +343,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#de1022"
+        "codi_color": "#de1022",
+        "color_hsv": [
+            355,
+            93,
+            87
+        ]
     },
     {
         "nom": "Castellers de Sabadell",
@@ -221,7 +356,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd",
-        "codi_color": "#016354"
+        "codi_color": "#016354",
+        "color_hsv": [
+            171,
+            99,
+            39
+        ]
     },
     {
         "nom": "Castellers de Sant Cugat",
@@ -229,7 +369,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd Collserola[1]",
-        "codi_color": "#005c41"
+        "codi_color": "#005c41",
+        "color_hsv": [
+            162,
+            100,
+            36
+        ]
     },
     {
         "nom": "Castellers de Sant Feliu",
@@ -237,7 +382,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Magenta",
-        "codi_color": "#db2d86"
+        "codi_color": "#db2d86",
+        "color_hsv": [
+            329,
+            79,
+            86
+        ]
     },
     {
         "nom": "Castellers de Santa Coloma",
@@ -245,7 +395,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau cel",
-        "codi_color": "#38b6ff"
+        "codi_color": "#38b6ff",
+        "color_hsv": [
+            202,
+            78,
+            100
+        ]
     },
     {
         "nom": "Castellers de Santpedor",
@@ -253,7 +408,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Daurat",
-        "codi_color": "#e1ae04"
+        "codi_color": "#e1ae04",
+        "color_hsv": [
+            46,
+            98,
+            88
+        ]
     },
     {
         "nom": "Castellers de Sants",
@@ -261,7 +421,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Gris brut",
-        "codi_color": "#7e7e7e"
+        "codi_color": "#7e7e7e",
+        "color_hsv": [
+            0,
+            0,
+            49
+        ]
     },
     {
         "nom": "Castellers de Terrassa",
@@ -269,7 +434,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau turquesa",
-        "codi_color": "#00b8e5"
+        "codi_color": "#00b8e5",
+        "color_hsv": [
+            192,
+            100,
+            90
+        ]
     },
     {
         "nom": "Castellers de Viladecans",
@@ -277,7 +447,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd clar",
-        "codi_color": "#a8e71e"
+        "codi_color": "#a8e71e",
+        "color_hsv": [
+            79,
+            87,
+            91
+        ]
     },
     {
         "nom": "Castellers de Vilafranca",
@@ -285,7 +460,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd",
-        "codi_color": "#00cc99"
+        "codi_color": "#00cc99",
+        "color_hsv": [
+            165,
+            100,
+            80
+        ]
     },
     {
         "nom": "Castellers del Poble Sec",
@@ -293,7 +473,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau cel",
-        "codi_color": "#9aceff"
+        "codi_color": "#9aceff",
+        "color_hsv": [
+            209,
+            40,
+            100
+        ]
     },
     {
         "nom": "Castellers del Prat de Llobregat",
@@ -301,7 +486,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau pota blava[1]",
-        "codi_color": "#536aae"
+        "codi_color": "#536aae",
+        "color_hsv": [
+            225,
+            52,
+            68
+        ]
     },
     {
         "nom": "Castellers del Riberal",
@@ -309,7 +499,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd",
-        "codi_color": "#4d9a64"
+        "codi_color": "#4d9a64",
+        "color_hsv": [
+            138,
+            50,
+            60
+        ]
     },
     {
         "nom": "Colla Castellera de Figueres",
@@ -317,7 +512,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Lila vi empordanès",
-        "codi_color": "#5f3b79"
+        "codi_color": "#5f3b79",
+        "color_hsv": [
+            275,
+            51,
+            47
+        ]
     },
     {
         "nom": "Colla Castellera de Sant Pere i Sant Pau",
@@ -325,7 +525,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd",
-        "codi_color": "#00bda2"
+        "codi_color": "#00bda2",
+        "color_hsv": [
+            171,
+            100,
+            74
+        ]
     },
     {
         "nom": "Colla Castellera Jove de Barcelona",
@@ -333,7 +538,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Grana",
-        "codi_color": "#700d17"
+        "codi_color": "#700d17",
+        "color_hsv": [
+            354,
+            88,
+            44
+        ]
     },
     {
         "nom": "Colla de Castellers d'Esplugues",
@@ -341,7 +551,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau elèctric",
-        "codi_color": "#10549b"
+        "codi_color": "#10549b",
+        "color_hsv": [
+            211,
+            90,
+            61
+        ]
     },
     {
         "nom": "Colla Jove de Castellers de Sitges",
@@ -349,7 +564,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vi - burdeus",
-        "codi_color": "#532033"
+        "codi_color": "#532033",
+        "color_hsv": [
+            338,
+            61,
+            33
+        ]
     },
     {
         "nom": "Colla Jove de l'Hospitalet",
@@ -357,7 +577,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd carxofa",
-        "codi_color": "#013624"
+        "codi_color": "#013624",
+        "color_hsv": [
+            160,
+            98,
+            21
+        ]
     },
     {
         "nom": "Colla Jove Xiquets de Tarragona",
@@ -365,7 +590,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Lila",
-        "codi_color": "#b588f2"
+        "codi_color": "#b588f2",
+        "color_hsv": [
+            265,
+            44,
+            95
+        ]
     },
     {
         "nom": "Colla Jove Xiquets de Vilafranca",
@@ -373,7 +603,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau Oxford",
-        "codi_color": "#cfd6f0"
+        "codi_color": "#cfd6f0",
+        "color_hsv": [
+            227,
+            14,
+            94
+        ]
     },
     {
         "nom": "Colla Joves Xiquets de Valls",
@@ -381,7 +616,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#d71418"
+        "codi_color": "#d71418",
+        "color_hsv": [
+            359,
+            91,
+            84
+        ]
     },
     {
         "nom": "Colla Vella dels Xiquets de Valls",
@@ -389,7 +629,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Rosa",
-        "codi_color": "#d77577"
+        "codi_color": "#d77577",
+        "color_hsv": [
+            359,
+            46,
+            84
+        ]
     },
     {
         "nom": "Encantats de Begues",
@@ -397,7 +642,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd ampolla[1]",
-        "codi_color": "#048224"
+        "codi_color": "#048224",
+        "color_hsv": [
+            135,
+            97,
+            51
+        ]
     },
     {
         "nom": "Esperxats de l'Estany",
@@ -405,7 +655,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau-verd",
-        "codi_color": "#218a87"
+        "codi_color": "#218a87",
+        "color_hsv": [
+            178,
+            76,
+            54
+        ]
     },
     {
         "nom": "Margeners de Guissona",
@@ -413,7 +668,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Marró (terra mullada)",
-        "codi_color": "#794a2e"
+        "codi_color": "#794a2e",
+        "color_hsv": [
+            22,
+            62,
+            47
+        ]
     },
     {
         "nom": "Marrecs de Salt",
@@ -421,7 +681,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau Ter",
-        "codi_color": "#6f93ce"
+        "codi_color": "#6f93ce",
+        "color_hsv": [
+            217,
+            46,
+            81
+        ]
     },
     {
         "nom": "Matossers de Molins de Rei",
@@ -429,7 +694,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Marró argila",
-        "codi_color": "#8f5a24"
+        "codi_color": "#8f5a24",
+        "color_hsv": [
+            30,
+            75,
+            56
+        ]
     },
     {
         "nom": "Minyons de l'Arboç",
@@ -437,7 +707,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#d90e21"
+        "codi_color": "#d90e21",
+        "color_hsv": [
+            354,
+            94,
+            85
+        ]
     },
     {
         "nom": "Minyons de Santa Cristina",
@@ -445,7 +720,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd poma",
-        "codi_color": "#8fbf2d"
+        "codi_color": "#8fbf2d",
+        "color_hsv": [
+            80,
+            76,
+            75
+        ]
     },
     {
         "nom": "Minyons de Terrassa",
@@ -453,7 +733,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Malva",
-        "codi_color": "#ceaad4"
+        "codi_color": "#ceaad4",
+        "color_hsv": [
+            291,
+            20,
+            83
+        ]
     },
     {
         "nom": "Moixiganguers d'Igualada",
@@ -461,7 +746,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Morat",
-        "codi_color": "#8f3189"
+        "codi_color": "#8f3189",
+        "color_hsv": [
+            304,
+            66,
+            56
+        ]
     },
     {
         "nom": "Nens del Vendrell",
@@ -469,7 +759,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vermella[1]",
-        "codi_color": "#c43022"
+        "codi_color": "#c43022",
+        "color_hsv": [
+            5,
+            83,
+            77
+        ]
     },
     {
         "nom": "Nois de la Torre",
@@ -477,7 +772,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau cel",
-        "codi_color": "#5e96c5"
+        "codi_color": "#5e96c5",
+        "color_hsv": [
+            207,
+            52,
+            77
+        ]
     },
     {
         "nom": "Pallagos del Conflent",
@@ -485,7 +785,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Granat",
-        "codi_color": "#891b3e"
+        "codi_color": "#891b3e",
+        "color_hsv": [
+            341,
+            80,
+            54
+        ]
     },
     {
         "nom": "Sagals d'Osona",
@@ -493,7 +798,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Carbassa",
-        "codi_color": "#f36300"
+        "codi_color": "#f36300",
+        "color_hsv": [
+            24,
+            100,
+            95
+        ]
     },
     {
         "nom": "Salats de Súria",
@@ -501,7 +811,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Potassa (salmó rosat)",
-        "codi_color": "#eea78e"
+        "codi_color": "#eea78e",
+        "color_hsv": [
+            16,
+            40,
+            93
+        ]
     },
     {
         "nom": "Tirallongues de Manresa",
@@ -509,7 +824,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau i blanc (ratllada)",
-        "codi_color": "#8aade4"
+        "codi_color": "#8aade4",
+        "color_hsv": [
+            217,
+            39,
+            89
+        ]
     },
     {
         "nom": "Torraires de Montblanc",
@@ -517,7 +837,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Grana",
-        "codi_color": "#9a0000"
+        "codi_color": "#9a0000",
+        "color_hsv": [
+            0,
+            100,
+            60
+        ]
     },
     {
         "nom": "Xerrics d'Olot",
@@ -525,7 +850,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Grana",
-        "codi_color": "#aa2828"
+        "codi_color": "#aa2828",
+        "color_hsv": [
+            0,
+            76,
+            67
+        ]
     },
     {
         "nom": "Xicots de Vilafranca",
@@ -533,7 +863,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#d71317"
+        "codi_color": "#d71317",
+        "color_hsv": [
+            359,
+            91,
+            84
+        ]
     },
     {
         "nom": "Xics de Granollers",
@@ -541,7 +876,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Grana",
-        "codi_color": "#631046"
+        "codi_color": "#631046",
+        "color_hsv": [
+            321,
+            84,
+            39
+        ]
     },
     {
         "nom": "Xiqüelos i Xiqüeles del Delta",
@@ -549,7 +889,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau Delta",
-        "codi_color": "#2b72c4"
+        "codi_color": "#2b72c4",
+        "color_hsv": [
+            212,
+            78,
+            77
+        ]
     },
     {
         "nom": "Xiquets de Cambrils",
@@ -557,7 +902,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Bordeus",
-        "codi_color": "#781d1c"
+        "codi_color": "#781d1c",
+        "color_hsv": [
+            1,
+            77,
+            47
+        ]
     },
     {
         "nom": "Xiquets de Reus",
@@ -565,7 +915,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Marró avellana",
-        "codi_color": "#a85c17"
+        "codi_color": "#a85c17",
+        "color_hsv": [
+            29,
+            86,
+            66
+        ]
     },
     {
         "nom": "Xiquets de Tarragona",
@@ -573,7 +928,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Vermell i blanc a ratlles",
-        "codi_color": "#a23047"
+        "codi_color": "#a23047",
+        "color_hsv": [
+            348,
+            70,
+            64
+        ]
     },
     {
         "nom": "Xiquets de Vila-seca",
@@ -581,7 +941,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau cel",
-        "codi_color": "#00ccff"
+        "codi_color": "#00ccff",
+        "color_hsv": [
+            192,
+            100,
+            100
+        ]
     },
     {
         "nom": "Xiquets del Serrallo",
@@ -589,7 +954,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau marí[1]",
-        "codi_color": "#253271"
+        "codi_color": "#253271",
+        "color_hsv": [
+            230,
+            67,
+            44
+        ]
     },
     {
         "nom": "Castellers de Gavà",
@@ -597,7 +967,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Blau",
-        "codi_color": "#144998"
+        "codi_color": "#144998",
+        "color_hsv": [
+            216,
+            87,
+            60
+        ]
     },
     {
         "nom": "Castellers de Sant Adrià",
@@ -605,7 +980,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Bordeus",
-        "codi_color": "#9a1940"
+        "codi_color": "#9a1940",
+        "color_hsv": [
+            342,
+            84,
+            60
+        ]
     },
     {
         "nom": "Castellers de Tortosa",
@@ -613,7 +993,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Grana",
-        "codi_color": "#75262c"
+        "codi_color": "#75262c",
+        "color_hsv": [
+            355,
+            68,
+            46
+        ]
     },
     {
         "nom": "Colla Castellera La Bisbal del Penedès",
@@ -621,7 +1006,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Taronja",
-        "codi_color": "#ff8000"
+        "codi_color": "#ff8000",
+        "color_hsv": [
+            30,
+            100,
+            100
+        ]
     },
     {
         "nom": "Laietans de Gramenet",
@@ -629,7 +1019,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd gram[1]",
-        "codi_color": "#0b8e36"
+        "codi_color": "#0b8e36",
+        "color_hsv": [
+            140,
+            92,
+            56
+        ]
     },
     {
         "nom": "Manyacs de Parets",
@@ -637,7 +1032,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Morat intens",
-        "codi_color": "#5a1484"
+        "codi_color": "#5a1484",
+        "color_hsv": [
+            278,
+            85,
+            52
+        ]
     },
     {
         "nom": "Vailets de Gelida",
@@ -645,7 +1045,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Verd poma[1][2]",
-        "codi_color": "#cbffbd"
+        "codi_color": "#cbffbd",
+        "color_hsv": [
+            107,
+            26,
+            100
+        ]
     },
     {
         "nom": "Castellers de Sarrià",
@@ -653,7 +1058,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Carmesí",
-        "codi_color": "#592733"
+        "codi_color": "#592733",
+        "color_hsv": [
+            346,
+            56,
+            35
+        ]
     },
     {
         "nom": "Castellers de l'Adroc",
@@ -661,7 +1071,12 @@
         "tipus": "convencional",
         "estat": "activa",
         "color_camisa": "Quadres negres i liles",
-        "codi_color": "#660d81"
+        "codi_color": "#660d81",
+        "color_hsv": [
+            286,
+            90,
+            51
+        ]
     },
     {
         "nom": "Malfargats de Pallars",
@@ -669,7 +1084,12 @@
         "tipus": "convencional",
         "estat": "formacio",
         "color_camisa": "Groc",
-        "codi_color": "#ffdc55"
+        "codi_color": "#ffdc55",
+        "color_hsv": [
+            48,
+            67,
+            100
+        ]
     },
     {
         "nom": "Xiquets de Torredembarra",
@@ -677,7 +1097,12 @@
         "tipus": "convencional",
         "estat": "formacio",
         "color_camisa": "Ratllada blanc i blava",
-        "codi_color": "#1f4590"
+        "codi_color": "#1f4590",
+        "color_hsv": [
+            220,
+            78,
+            56
+        ]
     },
     {
         "nom": "Colla Castellera de Cerdanya",
@@ -685,7 +1110,12 @@
         "tipus": "convencional",
         "estat": "formacio",
         "color_camisa": "Verd turquesa",
-        "codi_color": "#087d83"
+        "codi_color": "#087d83",
+        "color_hsv": [
+            183,
+            94,
+            51
+        ]
     },
     {
         "nom": "Castellers de la Selva",
@@ -693,7 +1123,12 @@
         "tipus": "convencional",
         "estat": "formacio",
         "color_camisa": "Taronja guilla",
-        "codi_color": "#db2d22"
+        "codi_color": "#db2d22",
+        "color_hsv": [
+            4,
+            84,
+            86
+        ]
     },
     {
         "nom": "Colla Castellera de Vacarisses",
@@ -701,7 +1136,12 @@
         "tipus": "convencional",
         "estat": "formacio",
         "color_camisa": "Argila",
-        "codi_color": "#d82d01"
+        "codi_color": "#d82d01",
+        "color_hsv": [
+            12,
+            100,
+            85
+        ]
     },
     {
         "nom": "Castellers del Foix de Cubelles",
@@ -709,7 +1149,12 @@
         "tipus": "convencional",
         "estat": "formacio",
         "color_camisa": "Blau turquesa",
-        "codi_color": "#0078ac"
+        "codi_color": "#0078ac",
+        "color_hsv": [
+            198,
+            100,
+            67
+        ]
     },
     {
         "nom": "Colla Castellera del Baix Montseny",
@@ -717,7 +1162,12 @@
         "tipus": "convencional",
         "estat": "formacio",
         "color_camisa": "Blau turquesa fosc",
-        "codi_color": "#03989f"
+        "codi_color": "#03989f",
+        "color_hsv": [
+            183,
+            98,
+            62
+        ]
     },
     {
         "nom": "Castellers de Granollers",
@@ -725,7 +1175,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau Fort",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Ses Talaies de Formentera",
@@ -733,7 +1188,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Groc blat",
-        "codi_color": "#fdc402"
+        "codi_color": "#fdc402",
+        "color_hsv": [
+            46,
+            99,
+            99
+        ]
     },
     {
         "nom": "Angelets del Vallespir",
@@ -741,7 +1201,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau cel",
-        "codi_color": "#3a71e8"
+        "codi_color": "#3a71e8",
+        "color_hsv": [
+            221,
+            75,
+            91
+        ]
     },
     {
         "nom": "Castellers de Solsona",
@@ -749,7 +1214,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Groc",
-        "codi_color": "#ffe200"
+        "codi_color": "#ffe200",
+        "color_hsv": [
+            53,
+            100,
+            100
+        ]
     },
     {
         "nom": "Castellers de la Roca",
@@ -757,7 +1227,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Vermell",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Castellers de l'Albera",
@@ -765,7 +1240,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Taronja carbassa",
-        "codi_color": "#f19200"
+        "codi_color": "#f19200",
+        "color_hsv": [
+            36,
+            100,
+            95
+        ]
     },
     {
         "nom": "Castellers de les Gavarres",
@@ -773,7 +1253,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Marró suro",
-        "codi_color": "#ae8c70"
+        "codi_color": "#ae8c70",
+        "color_hsv": [
+            27,
+            36,
+            68
+        ]
     },
     {
         "nom": "Castellers de l'Hospitalet",
@@ -781,7 +1266,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Marró teula",
-        "codi_color": "#a36930"
+        "codi_color": "#a36930",
+        "color_hsv": [
+            30,
+            71,
+            64
+        ]
     },
     {
         "nom": "Castellers de Martorell",
@@ -789,7 +1279,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Lila",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Castellers de Montmeló",
@@ -797,7 +1292,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau fort",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Castellers de Ribes",
@@ -805,7 +1305,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Terra",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Castellers de Sant Andreu de la Barca",
@@ -813,7 +1318,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Negre",
-        "codi_color": "#242424"
+        "codi_color": "#242424",
+        "color_hsv": [
+            0,
+            0,
+            14
+        ]
     },
     {
         "nom": "Castellers de Sitges",
@@ -821,7 +1331,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau marí[1]",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Castellers de Vilanova - Colla de Mar",
@@ -829,7 +1344,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau marí",
-        "codi_color": "#0049b2"
+        "codi_color": "#0049b2",
+        "color_hsv": [
+            215,
+            100,
+            70
+        ]
     },
     {
         "nom": "Castellers del Collell",
@@ -837,7 +1357,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Colla Castellera de Sant Boi",
@@ -845,7 +1370,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Gris fosc",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Colla Castellera La Global de Salou",
@@ -853,7 +1383,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau marí",
-        "codi_color": "#0779f9"
+        "codi_color": "#0779f9",
+        "color_hsv": [
+            212,
+            97,
+            98
+        ]
     },
     {
         "nom": "Colla Castellera Nyerros de la Plana",
@@ -861,7 +1396,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Gris",
-        "codi_color": "#cccccc"
+        "codi_color": "#cccccc",
+        "color_hsv": [
+            0,
+            0,
+            80
+        ]
     },
     {
         "nom": "Colla dels Xiquets de Valls",
@@ -869,7 +1409,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Vermell o rosat",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Colla Jove de Castellers de Cubelles",
@@ -877,7 +1422,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Verd",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Colla Jove dels Castellers de Vilafranca",
@@ -885,7 +1435,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Gris",
-        "codi_color": "#c7bec1"
+        "codi_color": "#c7bec1",
+        "color_hsv": [
+            340,
+            5,
+            78
+        ]
     },
     {
         "nom": "Colla Jove del Vendrell",
@@ -893,7 +1448,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau turquesa",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Colla Jove de Vilanova",
@@ -901,7 +1461,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Rosat",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Colla Nova del Vendrell",
@@ -909,7 +1474,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau turquesa",
-        "codi_color": "#00b4df"
+        "codi_color": "#00b4df",
+        "color_hsv": [
+            192,
+            100,
+            87
+        ]
     },
     {
         "nom": "Cos de Castellers de Ballets de Catalunya",
@@ -917,7 +1487,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Vermell",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Ganxets de Reus",
@@ -925,7 +1500,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Lila morat",
-        "codi_color": "#512884"
+        "codi_color": "#512884",
+        "color_hsv": [
+            267,
+            70,
+            52
+        ]
     },
     {
         "nom": "Joves des Raiguer",
@@ -933,7 +1513,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau marí",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Marrecs del Catllar",
@@ -941,7 +1526,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau grisós",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Picapolls de la Gavarresa",
@@ -949,7 +1539,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Morat",
-        "codi_color": "#814997"
+        "codi_color": "#814997",
+        "color_hsv": [
+            283,
+            52,
+            59
+        ]
     },
     {
         "nom": "Vailets de l'Empordà",
@@ -957,7 +1552,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau cel",
-        "codi_color": "#b8c5e7"
+        "codi_color": "#b8c5e7",
+        "color_hsv": [
+            223,
+            20,
+            91
+        ]
     },
     {
         "nom": "Vailets de Ripollet",
@@ -965,7 +1565,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Groc pollet",
-        "codi_color": "#e7ab3a"
+        "codi_color": "#e7ab3a",
+        "color_hsv": [
+            39,
+            75,
+            91
+        ]
     },
     {
         "nom": "Xicots de Valls",
@@ -973,7 +1578,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Vermella amb una franja blanca horitzontal",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Xiquets de Gavà",
@@ -981,7 +1591,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau fort",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Xiquets de Gràcia",
@@ -989,7 +1604,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Xiquets de l'Eramprunyà",
@@ -997,7 +1617,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Blau fort",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Xiquets de la Bisbal",
@@ -1005,7 +1630,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Xiquets de la Vila d'Alcover",
@@ -1013,7 +1643,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Granat",
-        "codi_color": "#721a33"
+        "codi_color": "#721a33",
+        "color_hsv": [
+            343,
+            77,
+            45
+        ]
     },
     {
         "nom": "Xiquets d'Alcover",
@@ -1021,7 +1656,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Verd Oliva",
-        "codi_color": "#449654"
+        "codi_color": "#449654",
+        "color_hsv": [
+            132,
+            55,
+            59
+        ]
     },
     {
         "nom": "Los Xics Caleros",
@@ -1029,7 +1669,12 @@
         "tipus": "convencional",
         "estat": "desapareguda",
         "color_camisa": "Ratllada blanc i blava",
-        "codi_color": "#89aadd"
+        "codi_color": "#89aadd",
+        "color_hsv": [
+            216,
+            38,
+            87
+        ]
     },
     {
         "nom": "Arreplegats de la Zona Universitària",
@@ -1037,7 +1682,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Verd sala d'operacions",
-        "codi_color": "#11a882"
+        "codi_color": "#11a882",
+        "color_hsv": [
+            165,
+            90,
+            66
+        ]
     },
     {
         "nom": "Bergants del Campus de Terrassa",
@@ -1045,7 +1695,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Verd Llima",
-        "codi_color": "#b8da49"
+        "codi_color": "#b8da49",
+        "color_hsv": [
+            74,
+            67,
+            85
+        ]
     },
     {
         "nom": "Emboirats de la UVIC",
@@ -1053,7 +1708,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Vermell grana",
-        "codi_color": "#e9133f"
+        "codi_color": "#e9133f",
+        "color_hsv": [
+            348,
+            92,
+            91
+        ]
     },
     {
         "nom": "Engrescats de la URL",
@@ -1061,7 +1721,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Groc",
-        "codi_color": "#fedd19"
+        "codi_color": "#fedd19",
+        "color_hsv": [
+            51,
+            90,
+            100
+        ]
     },
     {
         "nom": "Ganàpies de la UAB",
@@ -1069,7 +1734,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Blau «hostessa» o Blau Prússia",
-        "codi_color": "#053645"
+        "codi_color": "#053645",
+        "color_hsv": [
+            194,
+            93,
+            27
+        ]
     },
     {
         "nom": "Grillats del CBL",
@@ -1077,7 +1747,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Vi",
-        "codi_color": "#741e38"
+        "codi_color": "#741e38",
+        "color_hsv": [
+            342,
+            74,
+            45
+        ]
     },
     {
         "nom": "Llunàtics de la UPC de Vilanova",
@@ -1085,7 +1760,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Blau mecànic[1]",
-        "codi_color": "#01519a"
+        "codi_color": "#01519a",
+        "color_hsv": [
+            209,
+            99,
+            60
+        ]
     },
     {
         "nom": "Marracos de la UdL",
@@ -1093,7 +1773,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Gris boira",
-        "codi_color": "#8b8a92"
+        "codi_color": "#8b8a92",
+        "color_hsv": [
+            247,
+            5,
+            57
+        ]
     },
     {
         "nom": "Passerells del Tecnocampus",
@@ -1101,7 +1786,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Malva",
-        "codi_color": "#b499c6"
+        "codi_color": "#b499c6",
+        "color_hsv": [
+            276,
+            23,
+            78
+        ]
     },
     {
         "nom": "Pataquers de la URV",
@@ -1109,7 +1799,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Taronja",
-        "codi_color": "#ff7b0c"
+        "codi_color": "#ff7b0c",
+        "color_hsv": [
+            27,
+            95,
+            100
+        ]
     },
     {
         "nom": "Penjats del Campus de Manresa",
@@ -1117,7 +1812,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#e30615"
+        "codi_color": "#e30615",
+        "color_hsv": [
+            356,
+            97,
+            89
+        ]
     },
     {
         "nom": "Trempats de la UPF",
@@ -1125,7 +1825,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Marró avellana",
-        "codi_color": "#a1704d"
+        "codi_color": "#a1704d",
+        "color_hsv": [
+            25,
+            52,
+            63
+        ]
     },
     {
         "nom": "Xoriguers de la UdG",
@@ -1133,7 +1838,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Blau elèctric",
-        "codi_color": "#02b1ea"
+        "codi_color": "#02b1ea",
+        "color_hsv": [
+            195,
+            99,
+            92
+        ]
     },
     {
         "nom": "Gambirots de la UIB",
@@ -1141,7 +1851,12 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Blau fluix",
-        "codi_color": "#c6d6f1"
+        "codi_color": "#c6d6f1",
+        "color_hsv": [
+            218,
+            18,
+            95
+        ]
     },
     {
         "nom": "Mangoners de la Universitat de Perpinyà",
@@ -1150,7 +1865,12 @@
         "estat": "desapareguda",
         "color_camisa": "Morat o Taronja",
         "codi_color": "#ff6b21",
-        "codi_color2": "#beb4f5"
+        "codi_color2": "#beb4f5",
+        "color_hsv": [
+            20,
+            87,
+            100
+        ]
     },
     {
         "nom": "Mineuetts de la Salle",
@@ -1158,7 +1878,12 @@
         "tipus": "universitaria",
         "estat": "desapareguda",
         "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Castellers de Berlin",
@@ -1166,7 +1891,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Groc",
-        "codi_color": "#fcbf43"
+        "codi_color": "#fcbf43",
+        "color_hsv": [
+            40,
+            73,
+            99
+        ]
     },
     {
         "nom": "Castellers de Lausanne",
@@ -1174,7 +1904,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Verd",
-        "codi_color": "#15a850"
+        "codi_color": "#15a850",
+        "color_hsv": [
+            144,
+            87,
+            66
+        ]
     },
     {
         "nom": "Castellers de Lo Prado",
@@ -1182,7 +1917,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Verd",
-        "codi_color": "#03a5a8"
+        "codi_color": "#03a5a8",
+        "color_hsv": [
+            181,
+            98,
+            66
+        ]
     },
     {
         "nom": "Castellers de Mont-real",
@@ -1190,7 +1930,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Beix",
-        "codi_color": "#bcad8c"
+        "codi_color": "#bcad8c",
+        "color_hsv": [
+            41,
+            26,
+            74
+        ]
     },
     {
         "nom": "Castellers de París",
@@ -1198,7 +1943,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Blau",
-        "codi_color": "#2b6cb0"
+        "codi_color": "#2b6cb0",
+        "color_hsv": [
+            211,
+            76,
+            69
+        ]
     },
     {
         "nom": "Castellers d'Estocolm",
@@ -1206,7 +1956,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Groc",
-        "codi_color": "#ffde59"
+        "codi_color": "#ffde59",
+        "color_hsv": [
+            48,
+            65,
+            100
+        ]
     },
     {
         "nom": "Castellers de Sydney",
@@ -1214,7 +1969,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Daurat",
-        "codi_color": "#f8c624"
+        "codi_color": "#f8c624",
+        "color_hsv": [
+            46,
+            85,
+            97
+        ]
     },
     {
         "nom": "Castellers de Tokyo",
@@ -1222,7 +1982,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Granat",
-        "codi_color": "#a02c4c"
+        "codi_color": "#a02c4c",
+        "color_hsv": [
+            343,
+            72,
+            63
+        ]
     },
     {
         "nom": "Castellers de Tolosa",
@@ -1230,7 +1995,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Vermell Totxo",
-        "codi_color": "#d8583f"
+        "codi_color": "#d8583f",
+        "color_hsv": [
+            10,
+            71,
+            85
+        ]
     },
     {
         "nom": "Castellers de Zürich",
@@ -1238,7 +2008,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Blanc Provisional",
-        "codi_color": "#fffffe"
+        "codi_color": "#fefefe",
+        "color_hsv": [
+            0,
+            0,
+            99
+        ]
     },
     {
         "nom": "Castellers of London",
@@ -1246,7 +2021,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#cf1817"
+        "codi_color": "#cf1817",
+        "color_hsv": [
+            0,
+            89,
+            81
+        ]
     },
     {
         "nom": "Colla Castellera d'Edinburgh",
@@ -1254,7 +2034,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Blau marí",
-        "codi_color": "#010080"
+        "codi_color": "#010080",
+        "color_hsv": [
+            240,
+            100,
+            50
+        ]
     },
     {
         "nom": "Colla Castellera de Madrid",
@@ -1262,7 +2047,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#c80000"
+        "codi_color": "#c80000",
+        "color_hsv": [
+            0,
+            100,
+            78
+        ]
     },
     {
         "nom": "Euskal Herriko Casteller Taldea",
@@ -1270,7 +2060,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Morat",
-        "codi_color": "#592744"
+        "codi_color": "#592744",
+        "color_hsv": [
+            325,
+            56,
+            35
+        ]
     },
     {
         "nom": "Koales de Melbourne",
@@ -1278,7 +2073,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Blau naval",
-        "codi_color": "#023866"
+        "codi_color": "#023866",
+        "color_hsv": [
+            208,
+            98,
+            40
+        ]
     },
     {
         "nom": "Mannekes de Brussel·les",
@@ -1286,7 +2086,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Groc",
-        "codi_color": "#F9F20E"
+        "codi_color": "#F9F20E",
+        "color_hsv": [
+            58,
+            94,
+            98
+        ]
     },
     {
         "nom": "Mataresos de l'Alguer",
@@ -1294,7 +2099,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#fe4040"
+        "codi_color": "#fe4040",
+        "color_hsv": [
+            0,
+            75,
+            100
+        ]
     },
     {
         "nom": "Xiquets de Copenhagen",
@@ -1302,7 +2112,12 @@
         "tipus": "internacional",
         "estat": "activa",
         "color_camisa": "Blau marí",
-        "codi_color": "#2d3a66"
+        "codi_color": "#2d3a66",
+        "color_hsv": [
+            226,
+            56,
+            40
+        ]
     },
     {
         "nom": "Califòrnia Kids",
@@ -1310,7 +2125,12 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Taronja Llampant",
-        "codi_color": "#ff6600"
+        "codi_color": "#ff6600",
+        "color_hsv": [
+            24,
+            100,
+            100
+        ]
     },
     {
         "nom": "Castellers de Cerro Navia",
@@ -1318,7 +2138,12 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Vermell",
-        "codi_color": "#fa0100"
+        "codi_color": "#fa0100",
+        "color_hsv": [
+            0,
+            100,
+            98
+        ]
     },
     {
         "nom": "Castellers de la Usach",
@@ -1326,7 +2151,12 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Blau",
-        "codi_color": "#06429d"
+        "codi_color": "#06429d",
+        "color_hsv": [
+            216,
+            96,
+            62
+        ]
     },
     {
         "nom": "Castellers de Talca",
@@ -1334,7 +2164,12 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Castellers do Brasil",
@@ -1342,7 +2177,12 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Desconegut",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Colla Castellera de Castelar",
@@ -1350,7 +2190,12 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Blau Cel",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Colla Castellera del Casal Virolai de Querétaro",
@@ -1358,7 +2203,12 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Lila",
-        "codi_color": "#ffffff"
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ]
     },
     {
         "nom": "Xiquets de Hangzhou",
@@ -1366,7 +2216,12 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Rosat",
-        "codi_color": "#e60180"
+        "codi_color": "#d77577",
+        "color_hsv": [
+            359,
+            46,
+            84
+        ]
     },
     {
         "nom": "Xiquets de l'Alster",
@@ -1374,6 +2229,11 @@
         "tipus": "internacional",
         "estat": "desapareguda",
         "color_camisa": "Blau-verd clar",
-        "codi_color": "#70cbba"
+        "codi_color": "#70cbba",
+        "color_hsv": [
+            169,
+            45,
+            80
+        ]
     }
 ]
