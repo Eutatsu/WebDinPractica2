@@ -31,118 +31,172 @@
                     <div class="col-6">
                         <div class="d-flex justify-content-between">
                     <h5>Tipus:</h5>
-                    <b-form-checkbox>Seccions</b-form-checkbox>
+                    <b-form-checkbox v-model="seccions_tipus" :value=true>Separa</b-form-checkbox>
                     </div>
                         <div class="d-lg-flex">
-                        <b-form-checkbox class="mx-2">Convencionals</b-form-checkbox>
-                        <b-form-checkbox class="mx-2">Universitàries</b-form-checkbox>
-                        <b-form-checkbox class="mx-2">Internacionals</b-form-checkbox>
+                            <b-form-checkbox-group v-model="tipus">
+                                <b-form-checkbox class="mx-2" value="convencional">Convencionals</b-form-checkbox>
+                                <b-form-checkbox class="mx-2" value="universitaria">Universitàries</b-form-checkbox>
+                                <b-form-checkbox class="mx-2" value="internacional">Internacionals</b-form-checkbox>
+                            </b-form-checkbox-group>
                         </div>
                     </div>
                     <div class="col-6">
                         <div class="d-flex justify-content-between">
                     <h5>Estat:</h5>
-                    <b-form-checkbox>Seccions</b-form-checkbox>
+                    <b-form-checkbox v-model="seccions_estat" :value=true>Separa</b-form-checkbox>
                     </div>
                         <div class="d-lg-flex">
-                        <b-form-checkbox class="mx-2">Actives</b-form-checkbox>
-                        <b-form-checkbox class="mx-2">En formació</b-form-checkbox>
-                        <b-form-checkbox class="mx-2">Desaparegudes</b-form-checkbox>
+                        <b-form-checkbox-group v-model="estat">
+                            <b-form-checkbox class="mx-2" value="activa" >Actives</b-form-checkbox>
+                            <b-form-checkbox class="mx-2" value="formacio">En formació</b-form-checkbox>
+                            <b-form-checkbox class="mx-2" value="desapareguda">Desaparegudes</b-form-checkbox>
+                        </b-form-checkbox-group>
                         </div>
                     </div>
                 </div>
             </div>
             
         </form>
-
-
-
-
-        <div id="mosaic" class="d-flex flex-wrap justify-content-center">
-        <div v-for="(colla,index) in dades_ordenades" :key="index">
-            <div 
-            v-if="
-            colla.codi_color!=='#ffffff' 
-            && 
-            (
-                eliminarAccents(colla.nom).includes(eliminarAccents(cerca))
-                ||
-                eliminarAccents(colla.color_camisa).includes(eliminarAccents(cerca))
-                )"
-            class="casella" 
-            tabindex="0"
-            :id="'colla-'+index"
-            :style="{ 
-                width:mida + 'px',
-                height:mida+'px', 
-                backgroundColor:colla.codi_color
-                }">
-            <b-popover custom-class="text-center" :title=colla.nom :target="'colla-'+index" triggers="hover focus blur" placement="bottom" >
-                <p>
-                <strong>{{ colla.color_camisa }}</strong><br>
+        <!--Seccions segons Tipus-->
+        <div v-if="seccions_tipus==true && seccions_estat==false">
+                <div  v-if="tipus.includes('convencional')">
+                <h5 class="mt-3">Colles Convencionals</h5>
+                <MosaicRenderer
+                    :llista="dades_ordenades"
+                    :cerca="cerca"
+                    :mida="mida"
+                    seleccio="coneguts"
                     
-                <strong>Tipus:</strong> {{ formatDada(colla.tipus) }}<br>
-                <strong>Estat:</strong> {{ formatDada(colla.estat) }}</p>
-                
-            </b-popover>
-            </div>
-            
-        </div>
-
-        
-            
-        </div>
-        <h5>Colors desconeguts:</h5>
-        
-        <div id="mosaic_desconegut" class="d-flex flex-wrap">
-            <div v-for="(colla,index) in dades_ordenades" :key="index">
-                <div 
-                v-if="(colla.codi_color=='#ffffff'
-                    ||
-                    colla.color_camisa=='Desconegut')
-                    &&(
-                        eliminarAccents(colla.nom).includes(eliminarAccents(cerca))
-                    ||
-                    eliminarAccents(colla.color_camisa).includes(eliminarAccents(cerca))
-                    )"
-                class="casella d-flex align-items-center justify-content-center" 
-                :id="'colla-desconeguda-'+index"
-                :style="{ width:mida + 'px', height:mida+'px', fontSize:text+'px',   backgroundColor:colla.codi_color}">
-                {{ colla.color_camisa }}
-                <b-popover custom-class="text-center" :title=colla.nom :target="'colla-desconeguda-'+index" triggers="hover focus blur" placement="bottom" >
-                    <p>
-                        <strong>{{ colla.color_camisa }}</strong><br>
-    
-                    <strong>Tipus:</strong> {{ formatDada(colla.tipus) }}<br>
-                    <strong>Estat:</strong> {{ formatDada(colla.estat) }}
-                    </p>
-                </b-popover>
+                    id="convencional"
+                    :tipus="['convencional']"
+                    :estat="estat"
+                />
+                </div>
+                <div  v-if="tipus.includes('universitaria')">
+                <h5 class="mt-3">Colles Universitàries</h5>
+                <MosaicRenderer
+                    :llista="dades_ordenades"
+                    :cerca="cerca"
+                    :mida="mida"
+                    seleccio="coneguts"
+                    
+                    id="universitaria"
+                    :tipus="['universitaria']"
+                    :estat="estat"
+                />
+                </div>
+                    <div  v-if="tipus.includes('internacional')">
+                    <h5 class="mt-3">Colles Internacionals</h5>
+                    <MosaicRenderer
+                        :llista="dades_ordenades"
+                        :cerca="cerca"
+                        :mida="mida"
+                        seleccio="coneguts"
+                        
+                        id="internacional"
+                        :tipus="['internacional']"
+                        :estat="estat"
+                    />
                 </div>
             </div>
+
+        <!--Seccions segons Estat-->
+            <div v-if="seccions_estat==true&&seccions_tipus==false">
+                <div  v-if="estat.includes('activa')">
+                <h5 class="mt-3">Colles Actives</h5>
+                    <MosaicRenderer
+                        :llista="dades_ordenades"
+                        :cerca="cerca"
+                        :mida="mida"
+                        seleccio="coneguts"
+                        
+                        id="activa"
+                        :tipus="tipus"
+                        :estat="['activa']"
+                    />
+                </div>
+                <div  v-if="estat.includes('formacio')">
+                <h5 class="mt-3">Colles En formació</h5>
+                    <MosaicRenderer
+                        :llista="dades_ordenades"
+                        :cerca="cerca"
+                        :mida="mida"
+                        seleccio="coneguts"
+                        
+                        id="formacio"
+                        :tipus="tipus"
+                        :estat="['formacio']"
+                    />
+                </div>
+                <div  v-if="estat.includes('desapareguda')">
+                    <h5 class="mt-3">Colles Desaparegudes</h5>
+                    <MosaicRenderer
+                        :llista="dades_ordenades"
+                        :cerca="cerca"
+                        :mida="mida"
+                        seleccio="coneguts"
+                        
+                        id="desapareguda"
+                        :tipus="tipus"
+                        :estat="['desapareguda']"
+                        />
+                </div>
+            </div>
+
+            <!-- Mosaic per defecte -->
+            <div v-else>
+                <MosaicRenderer
+                    :llista="dades_ordenades"
+                    :cerca="cerca"
+                    :mida="mida"
+                    seleccio="coneguts"
+                    
+                    id="coneguts"
+                    :tipus="tipus"
+                    :estat="estat"
+                />  
+            </div>
+        
         </div>
-    </div>
+        <h5>Colles amb Colors Desconeguts:</h5>
+        <MosaicRenderer
+        id="desconeguts"
+        :llista="dades_ordenades"
+        :cerca="cerca"
+        :mida="mida"
+        seleccio="desconeguts"
+        
+        :tipus="tipus"
+        :estat="estat"
+        />
+        
     </div>
 </template>
 
 <script>
 import dades from '../json/dades_colles_color.json'
+import MosaicRenderer from './MosaicRenderer.vue';
 export default{
+        components:{
+            MosaicRenderer
+        },
         data(){
               return{
                 dades,
                 dades_ordenades:[],
-                mida: 80,
+                mida:"80",
                 cerca: '',
+                tipus: ["convencional","universitaria","internacional"],
+                estat: ["activa","formacio","desapareguda"],
+                seccions_tipus: false,
+                seccions_estat: false,
                     }
                 
                 },
-        computed:{
-            text(){
-            return this.mida/5
-        }
-    },
         
         methods:{
+            
             ordenarNom(){
                 this.dades_ordenades.sort((a,b)=>a.nom.localeCompare(b.nom))
             },
@@ -178,24 +232,6 @@ export default{
                 }
             },
             
-            eliminarAccents(str){
-                return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-            },
-            
-            formatDada(estat){
-                const mapaFormats={
-                    //Tipus
-                    convencional:"Convencional",
-                    universitaria:"Universitària",
-                    internacional:"Internacional",
-
-                    //Estats
-                    activa:"Activa",
-                    formacio:"En formació",
-                    desapareguda:"Desapareguda"
-                };
-                return mapaFormats[estat]|| "Desconegut"
-            }
 
         },
         created(){
@@ -207,50 +243,8 @@ export default{
 </script>
 
 <style>
-
- .casella:hover{
-
-    outline:3px solid rgba(190, 190, 190, 0.75);
-    cursor: pointer;
-    z-index: 99999;
-    position:relative
-    
- }
-
- .casella:focus{
-
-outline:3px solid white;
-cursor: pointer;
-z-index: 99999;
-position:relative
-
+.custom-control-input:checked ~ .custom-control-label::before{
+    background-color:#dd1725;
+    border-color:#dd1725
 }
-
-.popover p{margin-bottom:0px
-}
-
-.popover-body{
-    color:white
-}
-
-
-.popover-header:before{
-    display:none !important
-}
-.popover-header{
-    color:white;
-    background-color:rgba(42, 42, 42, 0.6);
-}
-
-.popover{
-    background-color:rgba(42, 42, 42, 0.6);
-    border-radius: 0px;
-}
-
-.popover .arrow{
-    display:none
-}
-
- 
 </style>
-
