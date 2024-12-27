@@ -1,12 +1,12 @@
 <template>
     <div>
-    <div class="container my-4 d-block" id="contenidor_mosaic">
-        <form id="opcions" class="my-4">
+    <div class="container my-4 px-0 d-block" id="contenidor_mosaic">
+        <form id="opcions" class="m-4">
             <div id="opcions-l1" class="d-flex justify-content-between mb-3">
-                <b-form-input v-model="cerca" class="col-lg-3 col-md-5 col-sm-6 col-6" placeholder="Cerca colles o colors..."></b-form-input>
+                <b-form-input v-model="cerca" class="col-lg-3 col-md-5 col-sm-6 col-6 vermell-vora" placeholder="Cerca colles o colors..."></b-form-input>
                 <div class="d-flex algin-items-center">
                 <label class="text-nowrap align-self-center m-0" for="ordena">Ordena per: </label>
-                <select id="ordena" @change="ordenar($event)" class="form-control">
+                <select id="ordena" @change="ordenar($event)" class="form-control vermell-vora">
                     <b-form-select-option value="nom">Nom</b-form-select-option>
                     <b-form-select-option value="color">Color</b-form-select-option>
                     <b-form-select-option value="nomcolor">Nom Color</b-form-select-option>
@@ -35,7 +35,7 @@
                     </div>
                         <div class="d-lg-flex">
                         <b-form-checkbox class="mx-2">Convencionals</b-form-checkbox>
-                        <b-form-checkbox class="mx-2">Universitaries</b-form-checkbox>
+                        <b-form-checkbox class="mx-2">Universitàries</b-form-checkbox>
                         <b-form-checkbox class="mx-2">Internacionals</b-form-checkbox>
                         </div>
                     </div>
@@ -81,8 +81,9 @@
                 <p>
                 <strong>{{ colla.color_camisa }}</strong><br>
                     
-                <strong>Tipus:</strong> {{ colla.tipus }}<br>
-                <strong>Estat:</strong> {{ colla.estat }}</p>
+                <strong>Tipus:</strong> {{ formatDada(colla.tipus) }}<br>
+                <strong>Estat:</strong> {{ formatDada(colla.estat) }}</p>
+                
             </b-popover>
             </div>
             
@@ -178,8 +179,22 @@ export default{
             
             eliminarAccents(str){
                 return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase();
-            }
+            },
             
+            formatDada(estat){
+                const mapaFormats={
+                    //Tipus
+                    convencional:"Convencional",
+                    universitaria:"Universitària",
+                    internacional:"Internacional",
+
+                    //Estats
+                    activa:"Activa",
+                    formacio:"En formació",
+                    desapareguda:"Desapareguda"
+                };
+                return mapaFormats[estat]|| "Desconegut"
+            }
 
         },
         created(){

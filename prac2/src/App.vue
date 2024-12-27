@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <div>
   <b-navbar toggleable="lg" type="dark" class="vermell">
     <b-navbar-brand href="\"><img src="./assets/Mosaic-Logo.png" width="50rem" class="mx-3">Mosaic Casteller</b-navbar-brand>
 
@@ -36,8 +35,9 @@
       </b-navbar-nav>
     </b-collapse>
   </b-navbar>
-</div>
+  <main>
     <router-view/>
+  </main>
   <footer class="vermell text-white pt-4 d-flex justify-content-center">
     <div class="row container" >
       <div class="col-sm">
@@ -64,12 +64,17 @@
 </template>
 
 <style>
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  
+  min-height: 100vh;
+  display:grid;
+  grid-template-rows: auto 1fr auto;
 }
 
 nav {
@@ -85,6 +90,12 @@ nav a.router-link-exact-active {
   color: #42b983;
 }
 
+main{
+
+  flex:1
+}
+
+
 footer p{
   color:rgba(255, 255, 255, 0.75);
 }
@@ -93,7 +104,18 @@ footer a{
   color:rgba(255, 255, 255, 0.5);
 }
 
-.vermell{
+.vermell,input[type="range"]::-webkit-slider-thumb, input[type="range"]::-moz-range-thumb  {
+  
     background-color:#dd1725
 }
+
+.vermell-vora{
+  border: 3px solid #dd1725; 
+}
+
+.form-control{
+  border-radius: 0px
+}
+
+
 </style>

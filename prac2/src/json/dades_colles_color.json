@@ -134,7 +134,7 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_Berga",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Blau fosc[1]",
+        "color_camisa": "Blau fosc",
         "codi_color": "#3e497f",
         "color_hsv": [
             230,
@@ -212,7 +212,7 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_l%27Alt_Maresme",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Vermell maduixa      [1]",
+        "color_camisa": "Vermell maduixa",
         "codi_color": "#ea1033",
         "color_hsv": [
             350,
@@ -303,7 +303,7 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_Mediona",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Blau texà[1]",
+        "color_camisa": "Blau texà",
         "codi_color": "#0967a5",
         "color_hsv": [
             204,
@@ -316,7 +316,7 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_Mollet",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Verd claret[1]",
+        "color_camisa": "Verd claret",
         "codi_color": "#91d6ac",
         "color_hsv": [
             143,
@@ -368,7 +368,7 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sant_Cugat",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Verd Collserola[1]",
+        "color_camisa": "Verd Collserola",
         "codi_color": "#005c41",
         "color_hsv": [
             162,
@@ -485,7 +485,7 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_del_Prat_de_Llobregat",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Blau pota blava[1]",
+        "color_camisa": "Blau pota blava",
         "codi_color": "#536aae",
         "color_hsv": [
             225,
@@ -641,7 +641,7 @@
         "url": "https://ca.wikipedia.org/wiki/Encantats_de_Begues",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Verd ampolla[1]",
+        "color_camisa": "Verd ampolla",
         "codi_color": "#048224",
         "color_hsv": [
             135,
@@ -758,7 +758,7 @@
         "url": "https://ca.wikipedia.org/wiki/Nens_del_Vendrell",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Vermella[1]",
+        "color_camisa": "Vermella",
         "codi_color": "#c43022",
         "color_hsv": [
             5,
@@ -953,7 +953,7 @@
         "url": "https://ca.wikipedia.org/wiki/Xiquets_del_Serrallo",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Blau marí[1]",
+        "color_camisa": "Blau marí",
         "codi_color": "#253271",
         "color_hsv": [
             230,
@@ -1018,7 +1018,7 @@
         "url": "https://ca.wikipedia.org/wiki/Laietans_de_Gramenet",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Verd gram[1]",
+        "color_camisa": "Verd gram",
         "codi_color": "#0b8e36",
         "color_hsv": [
             140,
@@ -1044,7 +1044,7 @@
         "url": "https://ca.wikipedia.org/wiki/Vailets_de_Gelida",
         "tipus": "convencional",
         "estat": "activa",
-        "color_camisa": "Verd poma[1][2]",
+        "color_camisa": "Verd poma",
         "codi_color": "#cbffbd",
         "color_hsv": [
             107,
@@ -1330,7 +1330,7 @@
         "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sitges",
         "tipus": "convencional",
         "estat": "desapareguda",
-        "color_camisa": "Blau marí[1]",
+        "color_camisa": "Blau marí",
         "codi_color": "#ffffff",
         "color_hsv": [
             0,
@@ -1733,8 +1733,8 @@
         "url": "https://ca.wikipedia.org/wiki/Gan%C3%A0pies_de_la_UAB",
         "tipus": "universitaria",
         "estat": "activa",
-        "color_camisa": "Blau «hostessa» o Blau Prússia",
-        "codi_color": "#053645",
+        "color_camisa": "Blau «hostessa»",
+        "codi_color": "#316574",
         "color_hsv": [
             194,
             93,
@@ -1759,7 +1759,7 @@
         "url": "https://ca.wikipedia.org/wiki/Llun%C3%A0tics_de_la_UPC_de_Vilanova",
         "tipus": "universitaria",
         "estat": "activa",
-        "color_camisa": "Blau mecànic[1]",
+        "color_camisa": "Blau mecànic",
         "codi_color": "#01519a",
         "color_hsv": [
             209,
@@ -2240,7 +2240,7 @@
         "nom": "Descargolats de l'EEBE",
         "url": "Nul",
         "tipus": "universitaria",
-        "estat": "formació",
+        "estat": "formacio",
         "color_camisa": "Rosa",
         "codi_color": "#ea4e97",
         "color_hsv": [
