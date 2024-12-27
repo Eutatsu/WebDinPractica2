@@ -18,11 +18,13 @@
             <div id="opcions-l2" class="text-left">
                 <div class="d-md-flex justify-content-between">
                     <h4>Mostra:</h4>
-                <div class="col-lg-6 col-md-8 col-12 d-flex text-nowrap align-items-center" >
+                <div class=" col-md-8 col-12 d-md-flex text-nowrap align-items-center justify-content-end" >
                     <label for="mida_rajoles" class="mb-0">Mida tessel·les:</label>
-                    <b-form-input id="mida_rajoles" type="range" v-model="mida" min="5" max="200" class="mx-2 col-8"></b-form-input>
-                    <b-form-input class="form-control-sm col-1" v-model="mida" :placeholder="mida"></b-form-input>
+                    <div class="d-flex align-items-center justify-content-end">
+                    <b-form-input id="mida_rajoles" type="range" v-model="mida" min="5" max="200" class="mx-2"></b-form-input>
+                    <b-form-input class="form-control-sm col-1" style="min-width: 2.6rem;" v-model="mida" :placeholder="mida"></b-form-input>
                     <p class="mb-0">px</p>
+                    </div>
                 </div>
                 </div>
                 <div class="d-flex justify-content-between">
