@@ -104,9 +104,17 @@ footer a{
   color:rgba(255, 255, 255, 0.5);
 }
 
-.vermell,input[type="range"]::-webkit-slider-thumb, input[type="range"]::-moz-range-thumb  {
+.vermell{
   
     background-color:#dd1725
+}
+
+input[type="range"]::-webkit-slider-thumb{
+  background-color:#dd1725
+}
+
+input[type="range"]::-moz-range-thumb{
+  background-color:#dd1725
 }
 
 .vermell-vora{

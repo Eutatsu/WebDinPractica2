@@ -77,7 +77,7 @@
                 height:mida+'px', 
                 backgroundColor:colla.codi_color
                 }">
-            <b-popover custom-class="text-center" :title=colla.nom :target="'colla-'+index" triggers="hover click blur" placement="bottom" >
+            <b-popover custom-class="text-center" :title=colla.nom :target="'colla-'+index" triggers="hover focus blur" placement="bottom" >
                 <p>
                 <strong>{{ colla.color_camisa }}</strong><br>
                     
@@ -97,24 +97,25 @@
         <div id="mosaic_desconegut" class="d-flex flex-wrap">
             <div v-for="(colla,index) in dades_ordenades" :key="index">
                 <div 
-                v-if="colla.codi_color=='#ffffff'
+                v-if="(colla.codi_color=='#ffffff'
                     ||
-                    colla.color_camisa=='Desconegut'
+                    colla.color_camisa=='Desconegut')
                     &&(
                         eliminarAccents(colla.nom).includes(eliminarAccents(cerca))
-                ||
-                eliminarAccents(colla.color_camisa).includes(eliminarAccents(cerca))
+                    ||
+                    eliminarAccents(colla.color_camisa).includes(eliminarAccents(cerca))
                     )"
                 class="casella d-flex align-items-center justify-content-center" 
                 :id="'colla-desconeguda-'+index"
                 :style="{ width:mida + 'px', height:mida+'px', fontSize:text+'px',   backgroundColor:colla.codi_color}">
                 {{ colla.color_camisa }}
-                <b-popover class="justify-center" :title=colla.nom :target="'colla-desconeguda-'+index" triggers="hover focus click" placement="bottom">
+                <b-popover custom-class="text-center" :title=colla.nom :target="'colla-desconeguda-'+index" triggers="hover focus blur" placement="bottom" >
                     <p>
                         <strong>{{ colla.color_camisa }}</strong><br>
-                        
-                    <strong>Tipus:</strong> {{ colla.tipus }}<br>
-                    <strong>Estat:</strong> {{ colla.estat }}</p>
+    
+                    <strong>Tipus:</strong> {{ formatDada(colla.tipus) }}<br>
+                    <strong>Estat:</strong> {{ formatDada(colla.estat) }}
+                    </p>
                 </b-popover>
                 </div>
             </div>
