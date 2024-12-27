@@ -146,7 +146,7 @@
             </div>
 
             <!-- Mosaic per defecte -->
-            <div v-else>
+            <div v-else-if="(seccions_estat==false&&seccions_tipus==false)||(seccions_estat==true&&seccions_tipus==true)">
                 <MosaicRenderer
                     :llista="dades_ordenades"
                     :cerca="cerca"
