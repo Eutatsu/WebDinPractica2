@@ -38,8 +38,8 @@
   </b-navbar>
 </div>
     <router-view/>
-  <footer class="vermell text-white pt-4">
-    <div class="row">
+  <footer class="vermell text-white pt-4 d-flex justify-content-center">
+    <div class="row container" >
       <div class="col-sm">
       <h5>Creat per:</h5>
       <p>Eudald Cardozo Vallhonrat<br>@eutatsu</p>
