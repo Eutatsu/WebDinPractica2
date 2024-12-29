@@ -1940,7 +1940,7 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Verd sala d'operacions",
-        "codi_color": "#11a882",
+        "codi_color": "#15a884",
         "color_hsv": [
             165,
             90,
@@ -1970,7 +1970,7 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Vermell grana",
-        "codi_color": "#e9133f",
+        "codi_color": "#a60b0f",
         "color_hsv": [
             348,
             92,
@@ -2030,7 +2030,7 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Blau mecànic",
-        "codi_color": "#01519a",
+        "codi_color": "#0c1374  ",
         "color_hsv": [
             209,
             99,
@@ -2060,7 +2060,7 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Malva",
-        "codi_color": "#b499c6",
+        "codi_color": "#d59de4",
         "color_hsv": [
             276,
             23,
@@ -2075,7 +2075,7 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Taronja",
-        "codi_color": "#ff7b0c",
+        "codi_color": "#ff8000",
         "color_hsv": [
             27,
             95,
@@ -2090,7 +2090,7 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Vermell",
-        "codi_color": "#e30615",
+        "codi_color": "#e10715",
         "color_hsv": [
             356,
             97,
@@ -2105,7 +2105,7 @@
         "tipus": "universitaria",
         "estat": "activa",
         "color_camisa": "Marró avellana",
-        "codi_color": "#a1704d",
+        "codi_color": "#a06e53",
         "color_hsv": [
             25,
             52,
