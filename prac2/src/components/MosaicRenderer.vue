@@ -8,7 +8,7 @@
         :style="{ 
             width:mida + 'px',
             height:mida + 'px', 
-            backgroundColor:colla.codi_color
+            backgroundColor: perfilColor(colla)
             }">
 
             <p v-if="seleccio=='desconeguts'" 
@@ -20,7 +20,20 @@
                 <strong>{{ colla.color_camisa }}</strong><br>
                     
                 <strong>Tipus:</strong> {{ formatDada(colla.tipus) }}<br>
-                <strong>Estat:</strong> {{ formatDada(colla.estat) }}</p>
+                <strong>Estat:</strong> {{ formatDada(colla.estat) }}<br>
+                <strong>Fundació:</strong> {{ colla.fundacio }}
+                
+            </p>
+                <p v-if="colla.desaparicio!==null"><strong>
+                        Desaparició:
+                    </strong> {{ colla.desaparicio }}<br>
+                </p>
+
+                <p v-if="colla.refundacio!==null"> <strong>
+                        Refundació:
+                    </strong> {{ colla.refundacio }}<br>
+                </p>
+           
                 
             </b-popover>
             
@@ -31,7 +44,7 @@
 <script>
 export default {
     name: 'MosaicRenderer',
-        props:{
+    props:{
             llista: {
                 type: Array,
                 required:true
@@ -57,9 +70,16 @@ export default {
             id:{
                 type:String,
                 default:"id"
+            },
+            perfil_color:{
+                type:String,
+                default:"default",
+                required:false
             }
+            
                 },
         computed:{
+        
         filtrarDades(){
             return this.llista.filter(colla=>
             (
@@ -85,6 +105,9 @@ export default {
             )
             
         },
+
+        
+        
         
         text(){
             return this.mida/5
@@ -109,6 +132,21 @@ export default {
                 desapareguda:"Desapareguda"
             };
             return mapaFormats[estat]|| "Desconegut"
+        },
+        perfilColor(colla){
+            if (this.perfil_color==="default"){
+                return colla.codi_color;
+            }
+            else if (this.perfil_color==="deuteranopia"){
+                return colla.deuteranopia;
+            }
+            else if (this.perfil_color==="tritanopia"){
+                return colla.tritanopia;
+            }
+            else{
+                return "ffffff"
+            }
+
         },
 
 

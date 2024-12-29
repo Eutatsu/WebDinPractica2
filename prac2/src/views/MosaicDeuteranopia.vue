@@ -72,6 +72,7 @@
                     id="convencional"
                     :tipus="['convencional']"
                     :estat="estat"
+                    perfil_color="deuteranopia"
                 />
                 </div>
                 <div  v-if="tipus.includes('universitaria')">
@@ -85,6 +86,7 @@
                     id="universitaria"
                     :tipus="['universitaria']"
                     :estat="estat"
+                    perfil_color="deuteranopia"
                 />
                 </div>
                     <div  v-if="tipus.includes('internacional')">
@@ -98,6 +100,7 @@
                         id="internacional"
                         :tipus="['internacional']"
                         :estat="estat"
+                    perfil_color="deuteranopia"
                     />
                 </div>
             </div>
@@ -156,6 +159,8 @@
                     id="coneguts"
                     :tipus="tipus"
                     :estat="estat"
+                    perfil_color="deuteranopia"
+                    
                 />  
             </div>
         
@@ -170,14 +175,15 @@
         
         :tipus="tipus"
         :estat="estat"
+                    perfil_color="deuteranopia"
         />
         
     </div>
 </template>
 
 <script>
-import dades from '../json/dades_colles_color.json'
-import MosaicRenderer from './MosaicRenderer.vue';
+import dades from '../json/dades_colles_data.json'
+import MosaicRenderer from '@/components/MosaicRenderer.vue';
 export default{
         components:{
             MosaicRenderer
@@ -192,7 +198,9 @@ export default{
                 estat: ["activa","formacio","desapareguda"],
                 seccions_tipus: false,
                 seccions_estat: false,
+                perfil_color_color:"default"
                     }
+                
                 
                 },
         
@@ -245,7 +253,24 @@ export default{
 
 <style>
 .custom-control-input:checked ~ .custom-control-label::before{
-    background-color:#dd1725;
-    border-color:#dd1725
+    background-color:#8f6b0e;
+    border-color:#8f6b0e
+}
+
+.vermell{
+  
+  background-color:#8f6b0e
+}
+
+input[type="range"]::-webkit-slider-thumb{
+background-color:#8f6b0e
+}
+
+input[type="range"]::-moz-range-thumb{
+background-color:#8f6b0e
+}
+
+.vermell-vora{
+border: 3px solid #8f6b0e; 
 }
 </style>

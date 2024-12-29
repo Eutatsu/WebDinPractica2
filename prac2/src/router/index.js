@@ -21,7 +21,19 @@ const routes = [
   {
     path: '/',
     name: 'mosaic',
-    component: () => import('../components/Mosaic.vue')
+    component: () => import('../views/Mosaic.vue')
+
+  },
+  {
+    path: '/deuteranopia',
+    name: 'deuteranopia',
+    component: () => import('../views/MosaicDeuteranopia.vue')
+
+  },
+  {
+    path: '/tritanopia',
+    name: 'tritanopia',
+    component: () => import('../views/MosaicTritanopia.vue')
 
   }
 ]

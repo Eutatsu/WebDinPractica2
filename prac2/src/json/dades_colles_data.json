@@ -12,7 +12,10 @@
             53
         ],
         "deuteranopia": "#7f7789",
-        "tritanopia": "#348590"
+        "tritanopia": "#348590",
+        "fundacio": "1997",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Bordegassos de Vilanova",
@@ -27,7 +30,10 @@
             99
         ],
         "deuteranopia": "#ffc23e",
-        "tritanopia": "#ffbac5"
+        "tritanopia": "#ffbac5",
+        "fundacio": "1972",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Brivalls de Cornudella",
@@ -42,7 +48,10 @@
             49
         ],
         "deuteranopia": "#003c67",
-        "tritanopia": "#114045"
+        "tritanopia": "#114045",
+        "fundacio": "1976",
+        "desaparicio": "1985",
+        "refundacio": "2012"
     },
     {
         "nom": "Capgrossos de Mataró",
@@ -57,7 +66,10 @@
             55
         ],
         "deuteranopia": "#00477a",
-        "tritanopia": "#004d52"
+        "tritanopia": "#004d52",
+        "fundacio": "1996[4]",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Carallots de Sant Vicenç dels Horts",
@@ -72,7 +84,10 @@
             93
         ],
         "deuteranopia": "#c09000",
-        "tritanopia": "#f16f76"
+        "tritanopia": "#f16f76",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers d'Altafulla",
@@ -87,7 +102,10 @@
             53
         ],
         "deuteranopia": "#335283",
-        "tritanopia": "#66494f"
+        "tritanopia": "#66494f",
+        "fundacio": "1973",
+        "desaparicio": "1988",
+        "refundacio": "1995"
     },
     {
         "nom": "Castellers d'Andorra",
@@ -102,7 +120,10 @@
             45
         ],
         "deuteranopia": "#4a3d31",
-        "tritanopia": "#712224"
+        "tritanopia": "#712224",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers d'Esparreguera",
@@ -117,7 +138,10 @@
             62
         ],
         "deuteranopia": "#674e10",
-        "tritanopia": "#9f1715"
+        "tritanopia": "#9f1715",
+        "fundacio": "1994",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Badalona",
@@ -132,7 +156,10 @@
             98
         ],
         "deuteranopia": "#fabe49",
-        "tritanopia": "#ffb4c0"
+        "tritanopia": "#ffb4c0",
+        "fundacio": "1997",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Barcelona",
@@ -147,7 +174,10 @@
             85
         ],
         "deuteranopia": "#8b6800",
-        "tritanopia": "#d81400"
+        "tritanopia": "#d81400",
+        "fundacio": "1969",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Berga",
@@ -162,7 +192,10 @@
             50
         ],
         "deuteranopia": "#2c4d7e",
-        "tritanopia": "#315258"
+        "tritanopia": "#315258",
+        "fundacio": "2012[3]",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Caldes de Montbui",
@@ -177,7 +210,10 @@
             38
         ],
         "deuteranopia": "#575464",
-        "tritanopia": "#105f67"
+        "tritanopia": "#105f67",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Castellar del Vallès",
@@ -192,7 +228,10 @@
             53
         ],
         "deuteranopia": "#594310",
-        "tritanopia": "#881817"
+        "tritanopia": "#881817",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Castelldefels",
@@ -207,7 +246,10 @@
             90
         ],
         "deuteranopia": "#ffc551",
-        "tritanopia": "#f1c1d1"
+        "tritanopia": "#f1c1d1",
+        "fundacio": "1981",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Cerdanyola",
@@ -222,7 +264,10 @@
             64
         ],
         "deuteranopia": "#9e8c8f",
-        "tritanopia": "#429daa"
+        "tritanopia": "#429daa",
+        "fundacio": "1998",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Cornellà",
@@ -237,7 +282,10 @@
             49
         ],
         "deuteranopia": "#003c68",
-        "tritanopia": "#4c3438"
+        "tritanopia": "#4c3438",
+        "fundacio": "1991",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de l'Alt Maresme",
@@ -252,7 +300,10 @@
             92
         ],
         "deuteranopia": "#957124",
-        "tritanopia": "#e91912"
+        "tritanopia": "#e91912",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera de l'Esquerra de l'Eixample",
@@ -267,7 +318,10 @@
             62
         ],
         "deuteranopia": "#466299",
-        "tritanopia": "#3ab6c5"
+        "tritanopia": "#3ab6c5",
+        "fundacio": "2018",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de la Sagrada Família",
@@ -282,7 +336,10 @@
             74
         ],
         "deuteranopia": "#b7a0a2",
-        "tritanopia": "#3ab6c5"
+        "tritanopia": "#3ab6c5",
+        "fundacio": "2002",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de la Vila de Gràcia",
@@ -297,7 +354,10 @@
             59
         ],
         "deuteranopia": "#004677",
-        "tritanopia": "#004b50"
+        "tritanopia": "#004b50",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de les Roquetes",
@@ -312,7 +372,10 @@
             55
         ],
         "deuteranopia": "#8a7e8c",
-        "tritanopia": "#7f828c"
+        "tritanopia": "#7f828c",
+        "fundacio": "2011",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Lleida",
@@ -327,7 +390,10 @@
             55
         ],
         "deuteranopia": "#58462d",
-        "tritanopia": "#8a1d1d"
+        "tritanopia": "#8a1d1d",
+        "fundacio": "16 març 1995",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Mallorca",
@@ -342,7 +408,10 @@
             57
         ],
         "deuteranopia": "#5e4700",
-        "tritanopia": "#91120f"
+        "tritanopia": "#91120f",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Mediona",
@@ -357,7 +426,10 @@
             65
         ],
         "deuteranopia": "#3464a6",
-        "tritanopia": "#006e76"
+        "tritanopia": "#006e76",
+        "fundacio": "2017",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Mollet",
@@ -372,7 +444,10 @@
             84
         ],
         "deuteranopia": "#e1bfb1",
-        "tritanopia": "#9ccfe0"
+        "tritanopia": "#9ccfe0",
+        "fundacio": "1992[3]",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Montcada i Reixac",
@@ -387,7 +462,10 @@
             78
         ],
         "deuteranopia": "#806000",
-        "tritanopia": "#c71200"
+        "tritanopia": "#c71200",
+        "fundacio": "1991",
+        "desaparicio": "1998",
+        "refundacio": "2013[3]"
     },
     {
         "nom": "Castellers de Rubí",
@@ -402,7 +480,10 @@
             87
         ],
         "deuteranopia": "#8f6b00",
-        "tritanopia": "#de1509"
+        "tritanopia": "#de1509",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Sabadell",
@@ -417,7 +498,10 @@
             39
         ],
         "deuteranopia": "#5f5457",
-        "tritanopia": "#1c6068"
+        "tritanopia": "#1c6068",
+        "fundacio": "1994",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Sant Cugat",
@@ -432,7 +516,10 @@
             36
         ],
         "deuteranopia": "#82757d",
-        "tritanopia": "#1f585f"
+        "tritanopia": "#1f585f",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Sant Feliu",
@@ -447,7 +534,10 @@
             86
         ],
         "deuteranopia": "#82757d",
-        "tritanopia": "#d74145"
+        "tritanopia": "#d74145",
+        "fundacio": "Gener del 1996",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Santa Coloma",
@@ -462,7 +552,10 @@
             100
         ],
         "deuteranopia": "#85abff",
-        "tritanopia": "#00becd"
+        "tritanopia": "#00becd",
+        "fundacio": "1985",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Santpedor",
@@ -477,7 +570,10 @@
             88
         ],
         "deuteranopia": "#e5ac0b",
-        "tritanopia": "#eaa2ae"
+        "tritanopia": "#eaa2ae",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Sants",
@@ -492,7 +588,10 @@
             49
         ],
         "deuteranopia": "#8a7a7f",
-        "tritanopia": "#7f7d87"
+        "tritanopia": "#7f7d87",
+        "fundacio": "1993",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Terrassa",
@@ -507,7 +606,10 @@
             90
         ],
         "deuteranopia": "#93a6e9",
-        "tritanopia": "#00bbca"
+        "tritanopia": "#00bbca",
+        "fundacio": "1980",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Viladecans",
@@ -522,7 +624,10 @@
             91
         ],
         "deuteranopia": "#ffca6f",
-        "tritanopia": "#bdd7e8"
+        "tritanopia": "#bdd7e8",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Vilafranca",
@@ -537,7 +642,10 @@
             80
         ],
         "deuteranopia": "#caaca0",
-        "tritanopia": "#41c4d4"
+        "tritanopia": "#41c4d4",
+        "fundacio": "1948",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers del Poble Sec",
@@ -552,7 +660,10 @@
             100
         ],
         "deuteranopia": "#bec5ff",
-        "tritanopia": "#93d3e4"
+        "tritanopia": "#93d3e4",
+        "fundacio": "1998",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers del Prat de Llobregat",
@@ -567,7 +678,10 @@
             68
         ],
         "deuteranopia": "#476dad",
-        "tritanopia": "#43747e"
+        "tritanopia": "#43747e",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers del Riberal",
@@ -582,7 +696,10 @@
             60
         ],
         "deuteranopia": "#a28469",
-        "tritanopia": "#5b939f"
+        "tritanopia": "#5b939f",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera de Figueres",
@@ -597,7 +714,10 @@
             47
         ],
         "deuteranopia": "#344b76",
-        "tritanopia": "#58464c"
+        "tritanopia": "#58464c",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera de Sant Pere i Sant Pau",
@@ -612,7 +732,10 @@
             74
         ],
         "deuteranopia": "#b6a1a8",
-        "tritanopia": "#34b8c7"
+        "tritanopia": "#34b8c7",
+        "fundacio": "1990",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera Jove de Barcelona",
@@ -627,7 +750,10 @@
             44
         ],
         "deuteranopia": "#48370f",
-        "tritanopia": "#700f0d"
+        "tritanopia": "#700f0d",
+        "fundacio": "2010, Barcelona",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla de Castellers d'Esplugues",
@@ -642,7 +768,10 @@
             61
         ],
         "deuteranopia": "#005596",
-        "tritanopia": "#005d63"
+        "tritanopia": "#005d63",
+        "fundacio": "1994",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Jove de Castellers de Sitges",
@@ -657,7 +786,10 @@
             33
         ],
         "deuteranopia": "#383131",
-        "tritanopia": "#522325"
+        "tritanopia": "#522325",
+        "fundacio": "1993",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Jove de l'Hospitalet",
@@ -672,7 +804,10 @@
             21
         ],
         "deuteranopia": "#372d26",
-        "tritanopia": "#133438"
+        "tritanopia": "#133438",
+        "fundacio": "2000",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Jove Xiquets de Tarragona",
@@ -687,7 +822,10 @@
             95
         ],
         "deuteranopia": "#789dee",
-        "tritanopia": "#a799a5"
+        "tritanopia": "#a799a5",
+        "fundacio": "1979",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Jove Xiquets de Vilafranca",
@@ -702,7 +840,10 @@
             94
         ],
         "deuteranopia": "#dfd1f1",
-        "tritanopia": "#ced7e8"
+        "tritanopia": "#ced7e8",
+        "fundacio": "2010",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Joves Xiquets de Valls",
@@ -717,7 +858,10 @@
             84
         ],
         "deuteranopia": "#8a6800",
-        "tritanopia": "#d7160c"
+        "tritanopia": "#d7160c",
+        "fundacio": "1813",
+        "desaparicio": null,
+        "refundacio": "1971 (reorganització)"
     },
     {
         "nom": "Colla Vella dels Xiquets de Valls",
@@ -732,7 +876,10 @@
             84
         ],
         "deuteranopia": "#aa8c73",
-        "tritanopia": "#d7747d"
+        "tritanopia": "#d7747d",
+        "fundacio": "1791",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Encantats de Begues",
@@ -747,7 +894,10 @@
             51
         ],
         "deuteranopia": "#8a6a2d",
-        "tritanopia": "#357983"
+        "tritanopia": "#357983",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Esperxats de l'Estany",
@@ -762,7 +912,10 @@
             54
         ],
         "deuteranopia": "#80788b",
-        "tritanopia": "#2a8893"
+        "tritanopia": "#2a8893",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Margeners de Guissona",
@@ -777,7 +930,10 @@
             47
         ],
         "deuteranopia": "#69522c",
-        "tritanopia": "#7b464c"
+        "tritanopia": "#7b464c",
+        "fundacio": "2007",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Marrecs de Salt",
@@ -792,7 +948,10 @@
             81
         ],
         "deuteranopia": "#7b90cf",
-        "tritanopia": "#649aa7"
+        "tritanopia": "#649aa7",
+        "fundacio": "1995",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Matossers de Molins de Rei",
@@ -807,7 +966,10 @@
             56
         ],
         "deuteranopia": "#806122",
-        "tritanopia": "#92545b"
+        "tritanopia": "#92545b",
+        "fundacio": "2002",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Minyons de l'Arboç",
@@ -822,7 +984,10 @@
             85
         ],
         "deuteranopia": "#8b6800",
-        "tritanopia": "#d91303"
+        "tritanopia": "#d91303",
+        "fundacio": "1958",
+        "desaparicio": "1985",
+        "refundacio": "2002"
     },
     {
         "nom": "Minyons de Santa Cristina",
@@ -837,7 +1002,10 @@
             75
         ],
         "deuteranopia": "#dba638",
-        "tritanopia": "#a0b2c0"
+        "tritanopia": "#a0b2c0",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Minyons de Terrassa",
@@ -852,7 +1020,10 @@
             83
         ],
         "deuteranopia": "#bab1d3",
-        "tritanopia": "#caaebc"
+        "tritanopia": "#caaebc",
+        "fundacio": "1979",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Moixiganguers d'Igualada",
@@ -867,7 +1038,10 @@
             56
         ],
         "deuteranopia": "#485983",
-        "tritanopia": "#884449"
+        "tritanopia": "#884449",
+        "fundacio": "1995",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Nens del Vendrell",
@@ -882,7 +1056,10 @@
             77
         ],
         "deuteranopia": "#856411",
-        "tritanopia": "#c42e2f"
+        "tritanopia": "#c42e2f",
+        "fundacio": "1926, el Vendrell",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Nois de la Torre",
@@ -897,7 +1074,10 @@
             77
         ],
         "deuteranopia": "#7f8ec7",
-        "tritanopia": "#549ba8"
+        "tritanopia": "#549ba8",
+        "fundacio": "1975 (1975)",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Pallagos del Conflent",
@@ -912,7 +1092,10 @@
             54
         ],
         "deuteranopia": "#564739",
-        "tritanopia": "#882223"
+        "tritanopia": "#882223",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Sagals d'Osona",
@@ -927,7 +1110,10 @@
             95
         ],
         "deuteranopia": "#b78900",
-        "tritanopia": "#f55c62"
+        "tritanopia": "#f55c62",
+        "fundacio": "1997",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Salats de Súria",
@@ -942,7 +1128,10 @@
             93
         ],
         "deuteranopia": "#d8b18c",
-        "tritanopia": "#f1a2af"
+        "tritanopia": "#f1a2af",
+        "fundacio": "2008",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Tirallongues de Manresa",
@@ -957,7 +1146,10 @@
             89
         ],
         "deuteranopia": "#9ba8e5",
-        "tritanopia": "#81b3c2"
+        "tritanopia": "#81b3c2",
+        "fundacio": "1993",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Torraires de Montblanc",
@@ -972,7 +1164,10 @@
             60
         ],
         "deuteranopia": "#624a00",
-        "tritanopia": "#990e00"
+        "tritanopia": "#990e00",
+        "fundacio": "1849",
+        "desaparicio": "1920",
+        "refundacio": "1994"
     },
     {
         "nom": "Xerrics d'Olot",
@@ -987,7 +1182,10 @@
             67
         ],
         "deuteranopia": "#72571f",
-        "tritanopia": "#aa2829"
+        "tritanopia": "#aa2829",
+        "fundacio": "2002",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xicots de Vilafranca",
@@ -1002,7 +1200,10 @@
             84
         ],
         "deuteranopia": "#8a6800",
-        "tritanopia": "#d7150a"
+        "tritanopia": "#d7150a",
+        "fundacio": "1982",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xics de Granollers",
@@ -1017,7 +1218,10 @@
             39
         ],
         "deuteranopia": "#363542",
-        "tritanopia": "#601f20"
+        "tritanopia": "#601f20",
+        "fundacio": "1991",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiqüelos i Xiqüeles del Delta",
@@ -1032,7 +1236,10 @@
             77
         ],
         "deuteranopia": "#2c72c4",
-        "tritanopia": "#007d86"
+        "tritanopia": "#007d86",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets de Cambrils",
@@ -1047,7 +1254,10 @@
             47
         ],
         "deuteranopia": "#513d15",
-        "tritanopia": "#781d1e"
+        "tritanopia": "#781d1e",
+        "fundacio": "1993",
+        "desaparicio": "2001",
+        "refundacio": "2013"
     },
     {
         "nom": "Xiquets de Reus",
@@ -1062,7 +1272,10 @@
             66
         ],
         "deuteranopia": "#8e6a0d",
-        "tritanopia": "#ab565c"
+        "tritanopia": "#ab565c",
+        "fundacio": "1981",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets de Tarragona",
@@ -1077,7 +1290,10 @@
             64
         ],
         "deuteranopia": "#6c5741",
-        "tritanopia": "#5d5b5c"
+        "tritanopia": "#5d5b5c",
+        "fundacio": "1970",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets de Vila-seca",
@@ -1092,7 +1308,10 @@
             100
         ],
         "deuteranopia": "#a5b9ff",
-        "tritanopia": "#00d0e0"
+        "tritanopia": "#00d0e0",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets del Serrallo",
@@ -1107,7 +1326,10 @@
             44
         ],
         "deuteranopia": "#003962",
-        "tritanopia": "#003e42"
+        "tritanopia": "#003e42",
+        "fundacio": "1988",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Gavà",
@@ -1122,7 +1344,10 @@
             60
         ],
         "deuteranopia": "#004d86",
-        "tritanopia": "#00545a"
+        "tritanopia": "#00545a",
+        "fundacio": "1994",
+        "desaparicio": "2004",
+        "refundacio": "2012"
     },
     {
         "nom": "Castellers de Sant Adrià",
@@ -1137,7 +1362,10 @@
             60
         ],
         "deuteranopia": "#614e3a",
-        "tritanopia": "#992122"
+        "tritanopia": "#992122",
+        "fundacio": "14 de maig de 2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Tortosa",
@@ -1152,7 +1380,10 @@
             46
         ],
         "deuteranopia": "#514028",
-        "tritanopia": "#752729"
+        "tritanopia": "#752729",
+        "fundacio": "Febrer del 2015",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera La Bisbal del Penedès",
@@ -1167,7 +1398,10 @@
             100
         ],
         "deuteranopia": "#cf9b00",
-        "tritanopia": "#ff7a81"
+        "tritanopia": "#ff7a81",
+        "fundacio": "2015",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Laietans de Gramenet",
@@ -1182,7 +1416,10 @@
             56
         ],
         "deuteranopia": "#96743e",
-        "tritanopia": "#398590"
+        "tritanopia": "#398590",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Manyacs de Parets",
@@ -1197,7 +1434,10 @@
             52
         ],
         "deuteranopia": "#003e6b",
-        "tritanopia": "#4d363a"
+        "tritanopia": "#4d363a",
+        "fundacio": "2015",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Vailets de Gelida",
@@ -1212,7 +1452,10 @@
             100
         ],
         "deuteranopia": "#ffede1",
-        "tritanopia": "#e2f3ff"
+        "tritanopia": "#e2f3ff",
+        "fundacio": "1985",
+        "desaparicio": "2000",
+        "refundacio": "2011"
     },
     {
         "nom": "Castellers de Sarrià",
@@ -1227,7 +1470,10 @@
             35
         ],
         "deuteranopia": "#403631",
-        "tritanopia": "#58282b"
+        "tritanopia": "#58282b",
+        "fundacio": "12 octubre 1999",
+        "desaparicio": "9 octubre 2005",
+        "refundacio": "8 novembre 2016"
     },
     {
         "nom": "Castellers de l'Adroc",
@@ -1242,7 +1488,10 @@
             51
         ],
         "deuteranopia": "#004171",
-        "tritanopia": "#5b3337"
+        "tritanopia": "#5b3337",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Malfargats de Pallars",
@@ -1257,7 +1506,10 @@
             100
         ],
         "deuteranopia": "#ffd8a2",
-        "tritanopia": "#ffd3de"
+        "tritanopia": "#ffd3de",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets de Torredembarra",
@@ -1272,7 +1524,10 @@
             56
         ],
         "deuteranopia": "#004a81",
-        "tritanopia": "#005056"
+        "tritanopia": "#005056",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera de Cerdanya",
@@ -1287,7 +1542,10 @@
             51
         ],
         "deuteranopia": "#706e86",
-        "tritanopia": "#117c87"
+        "tritanopia": "#117c87",
+        "fundacio": "2019",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de la Selva",
@@ -1302,7 +1560,10 @@
             86
         ],
         "deuteranopia": "#926e04",
-        "tritanopia": "#db2c2c"
+        "tritanopia": "#db2c2c",
+        "fundacio": "2019",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera de Vacarisses",
@@ -1317,7 +1578,10 @@
             85
         ],
         "deuteranopia": "#8f6c00",
-        "tritanopia": "#d82a2a"
+        "tritanopia": "#d82a2a",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers del Foix de Cubelles",
@@ -1332,7 +1596,10 @@
             67
         ],
         "deuteranopia": "#5170ae",
-        "tritanopia": "#007d86"
+        "tritanopia": "#007d86",
+        "fundacio": "2019",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera del Baix Montseny",
@@ -1347,7 +1614,10 @@
             62
         ],
         "deuteranopia": "#8885a3",
-        "tritanopia": "#1397a4"
+        "tritanopia": "#1397a4",
+        "fundacio": "2019",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Granollers",
@@ -1362,7 +1632,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Ses Talaies de Formentera",
@@ -1377,7 +1650,10 @@
             99
         ],
         "deuteranopia": "#ffc23e",
-        "tritanopia": "#ffbac5"
+        "tritanopia": "#ffbac5",
+        "fundacio": "2009",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Angelets del Vallespir",
@@ -1392,7 +1668,10 @@
             91
         ],
         "deuteranopia": "#0079d3",
-        "tritanopia": "#00848d"
+        "tritanopia": "#00848d",
+        "fundacio": "2001, Sant Joan de Pladecorts",
+        "desaparicio": "2019",
+        "refundacio": null
     },
     {
         "nom": "Castellers de Solsona",
@@ -1407,7 +1686,10 @@
             100
         ],
         "deuteranopia": "#ffdcab",
-        "tritanopia": "#ffd7e2"
+        "tritanopia": "#ffd7e2",
+        "fundacio": "2010, Solsona",
+        "desaparicio": "2016",
+        "refundacio": null
     },
     {
         "nom": "Castellers de la Roca",
@@ -1422,7 +1704,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1974",
+        "desaparicio": "1980",
+        "refundacio": null
     },
     {
         "nom": "Castellers de l'Albera",
@@ -1437,7 +1722,10 @@
             95
         ],
         "deuteranopia": "#d5a000",
-        "tritanopia": "#f68892"
+        "tritanopia": "#f68892",
+        "fundacio": "1995",
+        "desaparicio": "2002",
+        "refundacio": null
     },
     {
         "nom": "Castellers de les Gavarres",
@@ -1452,7 +1740,10 @@
             68
         ],
         "deuteranopia": "#ac8d70",
-        "tritanopia": "#b28792"
+        "tritanopia": "#b28792",
+        "fundacio": "2015",
+        "desaparicio": "2022",
+        "refundacio": null
     },
     {
         "nom": "Castellers de l'Hospitalet",
@@ -1467,7 +1758,10 @@
             64
         ],
         "deuteranopia": "#93712e",
-        "tritanopia": "#a7636a"
+        "tritanopia": "#a7636a",
+        "fundacio": "1996",
+        "desaparicio": "2005",
+        "refundacio": null
     },
     {
         "nom": "Castellers de Martorell",
@@ -1482,7 +1776,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Montmeló",
@@ -1497,7 +1794,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Ribes",
@@ -1512,7 +1812,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1981",
+        "desaparicio": "1985",
+        "refundacio": null
     },
     {
         "nom": "Castellers de Sant Andreu de la Barca",
@@ -1527,7 +1830,10 @@
             14
         ],
         "deuteranopia": "#272324",
-        "tritanopia": "#242426"
+        "tritanopia": "#242426",
+        "fundacio": "1996",
+        "desaparicio": "2006",
+        "refundacio": null
     },
     {
         "nom": "Castellers de Sitges",
@@ -1542,7 +1848,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1971",
+        "desaparicio": "1987",
+        "refundacio": null
     },
     {
         "nom": "Castellers de Vilanova - Colla de Mar",
@@ -1557,7 +1866,10 @@
             70
         ],
         "deuteranopia": "#00528c",
-        "tritanopia": "#00595e"
+        "tritanopia": "#00595e",
+        "fundacio": "1972, Vilanova i la Geltrú",
+        "desaparicio": "1983",
+        "refundacio": null
     },
     {
         "nom": "Castellers del Collell",
@@ -1572,7 +1884,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera de Sant Boi",
@@ -1587,7 +1902,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1994, Sant Boi de Llobregat",
+        "desaparicio": "2007",
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera La Global de Salou",
@@ -1602,7 +1920,10 @@
             98
         ],
         "deuteranopia": "#007fdd",
-        "tritanopia": "#008a93"
+        "tritanopia": "#008a93",
+        "fundacio": "2009",
+        "desaparicio": "2013",
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera Nyerros de la Plana",
@@ -1617,7 +1938,10 @@
             80
         ],
         "deuteranopia": "#dfc5cd",
-        "tritanopia": "#cecada"
+        "tritanopia": "#cecada",
+        "fundacio": "1998",
+        "desaparicio": "2022",
+        "refundacio": null
     },
     {
         "nom": "Colla dels Xiquets de Valls",
@@ -1632,7 +1956,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1939, Valls",
+        "desaparicio": "1947",
+        "refundacio": null
     },
     {
         "nom": "Colla Jove de Castellers de Cubelles",
@@ -1647,7 +1974,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Jove dels Castellers de Vilafranca",
@@ -1662,7 +1992,10 @@
             78
         ],
         "deuteranopia": "#d2bac2",
-        "tritanopia": "#c9bccb"
+        "tritanopia": "#c9bccb",
+        "fundacio": "1984, Vilafranca del Penedès",
+        "desaparicio": "1985",
+        "refundacio": null
     },
     {
         "nom": "Colla Jove del Vendrell",
@@ -1677,7 +2010,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Jove de Vilanova",
@@ -1692,7 +2028,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1982, Vilanova i la Geltrú",
+        "desaparicio": "1994",
+        "refundacio": null
     },
     {
         "nom": "Colla Nova del Vendrell",
@@ -1707,7 +2046,10 @@
             87
         ],
         "deuteranopia": "#91a3e3",
-        "tritanopia": "#00b7c5"
+        "tritanopia": "#00b7c5",
+        "fundacio": "1993",
+        "desaparicio": "2004",
+        "refundacio": null
     },
     {
         "nom": "Cos de Castellers de Ballets de Catalunya",
@@ -1722,7 +2064,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1958, Barcelona",
+        "desaparicio": "1963",
+        "refundacio": null
     },
     {
         "nom": "Ganxets de Reus",
@@ -1737,7 +2082,10 @@
             52
         ],
         "deuteranopia": "#004170",
-        "tritanopia": "#433e43"
+        "tritanopia": "#433e43",
+        "fundacio": "1991, Reus",
+        "desaparicio": "2005",
+        "refundacio": null
     },
     {
         "nom": "Joves des Raiguer",
@@ -1752,7 +2100,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Marrecs del Catllar",
@@ -1767,7 +2118,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Picapolls de la Gavarresa",
@@ -1782,7 +2136,10 @@
             59
         ],
         "deuteranopia": "#486093",
-        "tritanopia": "#79575e"
+        "tritanopia": "#79575e",
+        "fundacio": "2014, Artés",
+        "desaparicio": "desembre 2023",
+        "refundacio": null
     },
     {
         "nom": "Vailets de l'Empordà",
@@ -1797,7 +2154,10 @@
             91
         ],
         "deuteranopia": "#c7c0e8",
-        "tritanopia": "#b5c8d8"
+        "tritanopia": "#b5c8d8",
+        "fundacio": "2012",
+        "desaparicio": "2022",
+        "refundacio": null
     },
     {
         "nom": "Vailets de Ripollet",
@@ -1812,7 +2172,10 @@
             91
         ],
         "deuteranopia": "#e4ad39",
-        "tritanopia": "#eea0ac"
+        "tritanopia": "#eea0ac",
+        "fundacio": "1996, Ripollet",
+        "desaparicio": "2007",
+        "refundacio": null
     },
     {
         "nom": "Xicots de Valls",
@@ -1827,7 +2190,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1988, Valls",
+        "desaparicio": "1989",
+        "refundacio": null
     },
     {
         "nom": "Xiquets de Gavà",
@@ -1842,7 +2208,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets de Gràcia",
@@ -1857,7 +2226,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "dècada del 1880",
+        "desaparicio": "1936",
+        "refundacio": null
     },
     {
         "nom": "Xiquets de l'Eramprunyà",
@@ -1872,7 +2244,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "1947, Gavà",
+        "desaparicio": "1950",
+        "refundacio": null
     },
     {
         "nom": "Xiquets de la Bisbal",
@@ -1887,7 +2262,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets de la Vila d'Alcover",
@@ -1902,7 +2280,10 @@
             45
         ],
         "deuteranopia": "#493b2f",
-        "tritanopia": "#711f20"
+        "tritanopia": "#711f20",
+        "fundacio": "1984 color camisa grana",
+        "desaparicio": "2009",
+        "refundacio": "2012 color camisa verd oliva"
     },
     {
         "nom": "Xiquets d'Alcover",
@@ -1917,7 +2298,10 @@
             59
         ],
         "deuteranopia": "#9f7f59",
-        "tritanopia": "#558e99"
+        "tritanopia": "#558e99",
+        "fundacio": "1984 color camisa grana",
+        "desaparicio": "2009",
+        "refundacio": "2012 color camisa verd oliva"
     },
     {
         "nom": "Los Xics Caleros",
@@ -1932,7 +2316,10 @@
             87
         ],
         "deuteranopia": "#9aa5de",
-        "tritanopia": "#81b0be"
+        "tritanopia": "#81b0be",
+        "fundacio": "2012, l'Ametlla de Mar",
+        "desaparicio": "2018",
+        "refundacio": null
     },
     {
         "nom": "Arreplegats de la Zona Universitària",
@@ -1947,7 +2334,10 @@
             66
         ],
         "deuteranopia": "#a68e88",
-        "tritanopia": "#36a2af"
+        "tritanopia": "#36a2af",
+        "fundacio": "1995, Barcelona",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Bergants del Campus de Terrassa",
@@ -1962,7 +2352,10 @@
             85
         ],
         "deuteranopia": "#fec251",
-        "tritanopia": "#c8ccdc"
+        "tritanopia": "#c8ccdc",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Emboirats de la UVIC",
@@ -1977,7 +2370,10 @@
             91
         ],
         "deuteranopia": "#947133",
-        "tritanopia": "#e81e1a"
+        "tritanopia": "#e81e1a",
+        "fundacio": "2003, Vic",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Engrescats de la URL",
@@ -1992,7 +2388,10 @@
             100
         ],
         "deuteranopia": "#ffd89e",
-        "tritanopia": "#ffd2de"
+        "tritanopia": "#ffd2de",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Ganàpies de la UAB",
@@ -2007,7 +2406,10 @@
             27
         ],
         "deuteranopia": "#5a5c76",
-        "tritanopia": "#2f666e"
+        "tritanopia": "#2f666e",
+        "fundacio": "1994, Universitat Autònoma de Barcelona",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Grillats del CBL",
@@ -2022,7 +2424,10 @@
             45
         ],
         "deuteranopia": "#4b3e34",
-        "tritanopia": "#732324"
+        "tritanopia": "#732324",
+        "fundacio": "2015, Parc Mediterrani de la Tecnologia",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Llunàtics de la UPC de Vilanova",
@@ -2037,7 +2442,10 @@
             60
         ],
         "deuteranopia": "#005391",
-        "tritanopia": "#005a60"
+        "tritanopia": "#005a60",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Marracos de la UdL",
@@ -2052,7 +2460,10 @@
             57
         ],
         "deuteranopia": "#958793",
-        "tritanopia": "#8b8a94"
+        "tritanopia": "#8b8a94",
+        "fundacio": "5 d'abril de 2001",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Passerells del Tecnocampus",
@@ -2067,7 +2478,10 @@
             78
         ],
         "deuteranopia": "#a29fc5",
-        "tritanopia": "#b09eaa"
+        "tritanopia": "#b09eaa",
+        "fundacio": "2011",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Pataquers de la URV",
@@ -2082,7 +2496,10 @@
             100
         ],
         "deuteranopia": "#cb9900",
-        "tritanopia": "#ff757c"
+        "tritanopia": "#ff757c",
+        "fundacio": "2007",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Penjats del Campus de Manresa",
@@ -2097,7 +2514,10 @@
             89
         ],
         "deuteranopia": "#916d00",
-        "tritanopia": "#e21500"
+        "tritanopia": "#e21500",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Trempats de la UPF",
@@ -2112,7 +2532,10 @@
             63
         ],
         "deuteranopia": "#95764c",
-        "tritanopia": "#a46b73"
+        "tritanopia": "#a46b73",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xoriguers de la UdG",
@@ -2127,7 +2550,10 @@
             92
         ],
         "deuteranopia": "#85a2ed",
-        "tritanopia": "#00b6c4"
+        "tritanopia": "#00b6c4",
+        "fundacio": "1998",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Gambirots de la UIB",
@@ -2142,7 +2568,10 @@
             95
         ],
         "deuteranopia": "#dbcff2",
-        "tritanopia": "#c4d7e9"
+        "tritanopia": "#c4d7e9",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Mangoners de la Universitat de Perpinyà",
@@ -2158,7 +2587,10 @@
             100
         ],
         "deuteranopia": "#c29100",
-        "tritanopia": "#ff666c"
+        "tritanopia": "#ff666c",
+        "fundacio": "2008 camisa morada",
+        "desaparicio": "desconegut",
+        "refundacio": null
     },
     {
         "nom": "Mineyuetts de la Salle",
@@ -2173,7 +2605,10 @@
             100
         ],
         "deuteranopia": "#fffefe",
-        "tritanopia": "#fefeff"
+        "tritanopia": "#fefeff",
+        "fundacio": "1990-1991",
+        "desaparicio": "1992",
+        "refundacio": null
     },
     {
         "nom": "Castellers de Berlin",
@@ -2188,7 +2623,10 @@
             99
         ],
         "deuteranopia": "#fcbf43",
-        "tritanopia": "#ffb5c1"
+        "tritanopia": "#ffb5c1",
+        "fundacio": "2018",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Lausanne",
@@ -2203,7 +2641,10 @@
             66
         ],
         "deuteranopia": "#b08a58",
-        "tritanopia": "#439eab"
+        "tritanopia": "#439eab",
+        "fundacio": "2023",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Lo Prado",
@@ -2218,7 +2659,10 @@
             66
         ],
         "deuteranopia": "#9690ad",
-        "tritanopia": "#1ba4b1"
+        "tritanopia": "#1ba4b1",
+        "fundacio": "2007",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Mont-real",
@@ -2233,7 +2677,10 @@
             74
         ],
         "deuteranopia": "#cba78d",
-        "tritanopia": "#c1a7b5"
+        "tritanopia": "#c1a7b5",
+        "fundacio": "2007",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de París",
@@ -2248,7 +2695,10 @@
             69
         ],
         "deuteranopia": "#396ab0",
-        "tritanopia": "#00757e"
+        "tritanopia": "#00757e",
+        "fundacio": "2015",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers d'Estocolm",
@@ -2263,7 +2713,10 @@
             100
         ],
         "deuteranopia": "#ffdaa8",
-        "tritanopia": "#ffd5e0"
+        "tritanopia": "#ffd5e0",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Sydney",
@@ -2278,7 +2731,10 @@
             97
         ],
         "deuteranopia": "#ffc241",
-        "tritanopia": "#ffbac7"
+        "tritanopia": "#ffbac7",
+        "fundacio": "2016",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Tokyo",
@@ -2293,7 +2749,10 @@
             63
         ],
         "deuteranopia": "#685646",
-        "tritanopia": "#9f3134"
+        "tritanopia": "#9f3134",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Tolosa",
@@ -2308,7 +2767,10 @@
             85
         ],
         "deuteranopia": "#a17b38",
-        "tritanopia": "#d9555a"
+        "tritanopia": "#d9555a",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Zürich",
@@ -2323,7 +2785,10 @@
             99
         ],
         "deuteranopia": "#fffefe",
-        "tritanopia": "#fefeff"
+        "tritanopia": "#fefeff",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers of London",
@@ -2338,7 +2803,10 @@
             81
         ],
         "deuteranopia": "#866400",
-        "tritanopia": "#cf1913"
+        "tritanopia": "#cf1913",
+        "fundacio": "2015",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera d'Edinburgh",
@@ -2353,7 +2821,10 @@
             50
         ],
         "deuteranopia": "#002842",
-        "tritanopia": "#002b2d"
+        "tritanopia": "#002b2d",
+        "fundacio": "2016",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera de Madrid",
@@ -2368,7 +2839,10 @@
             78
         ],
         "deuteranopia": "#7f6000",
-        "tritanopia": "#c61300"
+        "tritanopia": "#c61300",
+        "fundacio": "21 gener 2017",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Euskal Herriko Casteller Taldea",
@@ -2383,7 +2857,10 @@
             35
         ],
         "deuteranopia": "#3b3841",
-        "tritanopia": "#572c2f"
+        "tritanopia": "#572c2f",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Koales de Melbourne",
@@ -2398,7 +2875,10 @@
             40
         ],
         "deuteranopia": "#003864",
-        "tritanopia": "#003e42"
+        "tritanopia": "#003e42",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Mannekes de Brussel·les",
@@ -2413,7 +2893,10 @@
             98
         ],
         "deuteranopia": "#ffe8cb",
-        "tritanopia": "#ffe5f0"
+        "tritanopia": "#ffe5f0",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Mataresos de l'Alguer",
@@ -2428,7 +2911,10 @@
             100
         ],
         "deuteranopia": "#ab8333",
-        "tritanopia": "#fe4042"
+        "tritanopia": "#fe4042",
+        "fundacio": "2023",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets de Copenhagen",
@@ -2443,7 +2929,10 @@
             40
         ],
         "deuteranopia": "#1f3d65",
-        "tritanopia": "#214146"
+        "tritanopia": "#214146",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Califòrnia Kids",
@@ -2458,7 +2947,10 @@
             100
         ],
         "deuteranopia": "#bf8f00",
-        "tritanopia": "#ff6167"
+        "tritanopia": "#ff6167",
+        "fundacio": "2004",
+        "desaparicio": "Desconegut",
+        "refundacio": null
     },
     {
         "nom": "Castellers de Cerro Navia",
@@ -2473,7 +2965,10 @@
             98
         ],
         "deuteranopia": "#9f7800",
-        "tritanopia": "#f81700"
+        "tritanopia": "#f81700",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de la Usach",
@@ -2488,7 +2983,10 @@
             62
         ],
         "deuteranopia": "#00497e",
-        "tritanopia": "#005054"
+        "tritanopia": "#005054",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers de Talca",
@@ -2503,7 +3001,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Castellers do Brasil",
@@ -2518,7 +3019,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera de Castelar",
@@ -2533,7 +3037,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Colla Castellera del Casal Virolai de Querétaro",
@@ -2548,7 +3055,10 @@
             100
         ],
         "deuteranopia": "#",
-        "tritanopia": "#"
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Xiquets de Hangzhou",
@@ -2563,7 +3073,10 @@
             84
         ],
         "deuteranopia": "#aa8c73",
-        "tritanopia": "#d7747d"
+        "tritanopia": "#d7747d",
+        "fundacio": "2010",
+        "desaparicio": "2020",
+        "refundacio": null
     },
     {
         "nom": "Xiquets de l'Alster",
@@ -2578,7 +3091,10 @@
             80
         ],
         "deuteranopia": "#cab4bf",
-        "tritanopia": "#78c7d7"
+        "tritanopia": "#78c7d7",
+        "fundacio": "juny 2013",
+        "desaparicio": null,
+        "refundacio": null
     },
     {
         "nom": "Descargolats de l'EEBE",
@@ -2593,6 +3109,9 @@
             92
         ],
         "deuteranopia": "#95868f",
-        "tritanopia": "#e65b61"
+        "tritanopia": "#e65b61",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null
     }
 ]

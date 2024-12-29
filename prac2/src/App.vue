@@ -13,13 +13,12 @@
           <template #button-content>
             Daltonisme
           </template>
-          <b-dropdown-item href="#">Deuteranopia</b-dropdown-item>
-          <b-dropdown-item href="#">Tritanopia</b-dropdown-item>
+          <b-dropdown-item href="\deuteranopia">Deuteranopia</b-dropdown-item>
+          <b-dropdown-item href="\tritanopia">Tritanopia</b-dropdown-item>
           <b-dropdown-item href="#">Achromatopsia</b-dropdown-item>
-          <b-dropdown-item href="#">Protanopia</b-dropdown-item>
         </b-nav-item-dropdown>
         <b-nav-item href="\about">Sobre el Mosaic</b-nav-item>
-        <b-nav-item href="\">HelloWorld</b-nav-item>
+        <b-nav-item href="\hello">HelloWorld</b-nav-item>
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->

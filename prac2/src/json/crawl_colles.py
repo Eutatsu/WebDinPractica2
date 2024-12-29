@@ -5,6 +5,7 @@ import json
 
 RED = "\033[91m"
 RESET = "\033[0m" 
+CYAN = '\033[96m'
 
 llistes = [
     {"llista":"convencionals_actives",
@@ -153,7 +154,6 @@ def crawl_link(caselles):
 
 def dump():
     global dades_colles
-    print(dades_colles)
 
     print("Vols exportar les dades?")
     print("[1] Si")
@@ -201,9 +201,13 @@ def compilar_llista():
         print("No s'ha pogut connectar amb l'enllaç")
 
 def compilar_info():
-    dades_colles=[]
+    global dades_colles
 
     nom_arxiu=input("Importar JSON:")
+
+    print("Quina dada vols recopilar?")
+    print("[1] Color")
+    print("[2] Dates")
     
     with open(f'{nom_arxiu}', 'r', encoding='utf-8') as json_file:
       dades_colles = json.load(json_file)
@@ -216,16 +220,39 @@ def compilar_info():
             print(f"{RED}Colla sense article Wikipedia, declarant valors desconeguts {RESET}")
             color_camisa="Desconegut"
             codi_color="#ffffff"
+            fundacio="Desconegut"
+            desaparicio=None
+            refundacio=None
         else:
             print(f"Enllaç correcte, inciant recopilació de dades")
-            color_camisa, codi_color=crawl_info(url_colla)
-        
-        colla['color_camisa']=color_camisa
-        colla['codi_color']=codi_color  
-        print(colla["color_camisa"])
-        print(colla["codi_color"])
+            try:
+                color_camisa, codi_color, fundacio, desaparicio, refundacio=crawl_info(url_colla)
+                print("Return OK")
+                
+            except:
+                print(f"{RED}CRAWL ERROR {RESET}")
+                color_camisa="Desconegut"
+                codi_color="#ffffff"
+                fundacio="Desconegut"
+                desaparicio=None
+                refundacio=None
+                
+
+            
+       # colla['color_camisa']=color_camisa
+        print(f"{CYAN}Color: {colla['color_camisa']}{RESET}")
+        #colla['codi_color']=codi_color 
+        print(f"{CYAN}Codi: {colla['codi_color']}{RESET}")
+        colla["fundacio"]=fundacio
+        print(f"{CYAN}Fundacio: {colla['fundacio']}{RESET}")
+        colla["desaparicio"]=desaparicio
+        print(f"{CYAN}Desaparicio: {colla['desaparicio']}{RESET}")
+        colla["refundacio"]=refundacio
+        print(f"{CYAN}Refundacio: {colla['refundacio']}{RESET}")
+
     
-    print(dades_colles)
+
+    
     dump()
     
 
@@ -236,9 +263,13 @@ def crawl_info(url_colla):
         soup = BeautifulSoup(response.text, 'html.parser')
         
         infotaula = soup.find("table",class_="infobox")
-
+        print("infotaula ubicada")
         if infotaula:
             fila_color = infotaula.find("th", string="Color camisa")
+            fila_fundacio = infotaula.find("th", string="Creació")
+            fila_desaparicio = infotaula.find("th", string="Data de dissolució o abolició")
+            fila_refundacio = infotaula.find("th", string="Refundació")
+            print("files ubicades")
             if fila_color:
                 color=fila_color.find_next("td")
                 nom_color=color.text.strip()
@@ -257,17 +288,47 @@ def crawl_info(url_colla):
                 print(f"{RED}Color de camisa no present, declarant valors desconeguts {RESET}")
                 color_camisa="Desconegut"
                 codi_color="#ffffff"
-                    
+
+            if fila_fundacio:
+                fundacio=fila_fundacio.find_next("td").text.strip()
+            else:
+                print("Data de fundació no trobada, declarant valors desconeguts")
+                fundacio="Desconegut"
+            
+            print(f"Fundacio:{fundacio}")
+            if fila_desaparicio:
+                desaparicio=fila_desaparicio.find_next("td").text.strip()
+                
+            else:
+                print("Sense data de desaparicio, declarant valors nuls")
+                desaparicio=None
+            print(f"Desaparicio:{desaparicio}")
+            if fila_refundacio:     
+                refundacio=fila_refundacio.find_next("td").text.strip()
+            else:
+                print("Sense data de refundacio, declarant valors nuls")
+                refundacio=None
+            
+            print(f"Refundacio+{refundacio}")
+            print("dates ok")
+
         else:
             print(f"{RED}Infotaula no present, declarant valors desconeguts {RESET}")
             color_camisa="Desconegut"
             codi_color="#ffffff"
+            fundacio="Desconegut"
+            desaparicio=None
+            refundacio=None
     else:
         print(f"{RED} Article no acessible, declarant valors desconeguts {RESET}")
         color_camisa="Desconegut"
         codi_color="#ffffff"
+        fundacio="Desconegut"
+        desaparicio=None
+        refundacio=None
 
-    return color_camisa,codi_color
+    print("Crawl OK")
+    return color_camisa,codi_color,fundacio,desaparicio,refundacio
 
 def hex2rgb(hex_value):
     h = hex_value.strip("#") 
