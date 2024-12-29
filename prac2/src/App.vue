@@ -7,18 +7,18 @@
 
     <b-collapse id="nav-collapse " is-nav>
       <b-navbar-nav >
-        <b-nav-item href=".\">Mosaic</b-nav-item>
+        <b-nav-item ><router-link to="./">Mosaic</router-link></b-nav-item>
         <b-nav-item-dropdown right>
           <!-- Using 'button-content' slot -->
           <template #button-content>
             Daltonisme
           </template>
-          <b-dropdown-item href="\deuteranopia">Deuteranopia</b-dropdown-item>
-          <b-dropdown-item href="\tritanopia">Tritanopia</b-dropdown-item>
-          <b-dropdown-item href="#">Achromatopsia</b-dropdown-item>
+          <b-dropdown-item ><router-link to="/deuteranopia">Deuteranopia</router-link></b-dropdown-item>
+          <b-dropdown-item ><router-link to="/tritanopia">Tritanopia</router-link></b-dropdown-item>
+          <b-dropdown-item><router-link to="#">Achromatopsia</router-link></b-dropdown-item>
         </b-nav-item-dropdown>
-        <b-nav-item href="\about">Sobre el Mosaic</b-nav-item>
-        <b-nav-item href="\hello">HelloWorld</b-nav-item>
+        <b-nav-item ><router-link to="/about">Sobre el Mosaic</router-link></b-nav-item>
+        <b-nav-item ><router-link to="/hello">HelloWorld</router-link></b-nav-item>
       </b-navbar-nav>
 
       <!-- Right aligned nav items -->
@@ -80,28 +80,31 @@ nav {
   padding: 30px;
 }
 
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
-}
 
 main{
 
   flex:1
 }
 
+a{
+  color:rgba(255, 255, 255, 0.60);
+  font-weight: bold;
+}
+
+a:hover{
+  color:rgba(255, 255, 255, 0.80);
+  text-decoration: none;
+}
+
+.dropdown-item a{
+  color: #2c3e50;
+}
 
 footer p{
   color:rgba(255, 255, 255, 0.75);
 }
 
-footer a{
-  color:rgba(255, 255, 255, 0.5);
-}
+
 
 .vermell{
   
