@@ -20,8 +20,9 @@
     l'internet es pot trobar una antiga web dels <a href="http://web.archive.org/web/20070906004806/http://www.california-kids.org:80/" target="_blank" rel="noopener noreferrer">California Kids arxivada</a>, d'on s'ha extret el color.
 
     </p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/T3IznB09Liw?si=SdwvPelo6eVzUzjg&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+    <div class="embed-responsive embed-responsive-4by3 col-lg-6 mx-auto d-block">
+    <iframe src="https://www.youtube.com/embed/T3IznB09Liw?si=SdwvPelo6eVzUzjg&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  </div>
     <br>
   <h3>Precisió de les dades</h3>
     <p>

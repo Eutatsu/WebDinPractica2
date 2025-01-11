@@ -62,15 +62,27 @@
       <h5>Referencies:</h5>
       <p>Dades extretes de ca.wikipedia.org</p>
     </div>
-    <div class="col-sm">
-      <b-nav vertical class="text-white">
-      <b-nav-item href="/">Mosaic</b-nav-item>
-      <b-nav-item href="/">Deuteranopia</b-nav-item>
-      <b-nav-item href="/">Tritanopia</b-nav-item>
-      <b-nav-item href="/">Protanopia</b-nav-item>
-      <b-nav-item href="/">Achromatopsia</b-nav-item>
+    <div class="col-sm d-flex">
+      <b-nav vertical class="text-white col-6">
+      <h6>Principal:</h6>
+      <b-nav-item href="/mosaic">Mosaic</b-nav-item>
+      <b-nav-item href="/about">Sobre el Mosaic</b-nav-item>
       </b-nav>
-    </div></div>
+      <div>
+      
+      <b-nav vertical class="text-white col-6 text-nowrap">
+        <h6>Simulacions d'accesibilitat:</h6>
+      <b-nav-item href="/deuteranopia">Deuteranopia</b-nav-item>
+      <b-nav-item href="/tritanopia">Tritanopia</b-nav-item>
+      <b-nav-item href="/protanopia">Protanopia</b-nav-item>
+      <b-nav-item href="/achromatopsia">Achromatopsia</b-nav-item>
+      <b-nav-item href="/baixavisio">Baixa Visió</b-nav-item>
+      <b-nav-item href="/cognitiu">Cognitiu</b-nav-item>
+      <b-nav-item href="/motriu">Motriu</b-nav-item>
+      </b-nav>
+    </div>
+    </div>
+  </div>
     </footer>
     </div>
 
@@ -122,6 +134,9 @@ footer p{
   color:rgba(255, 255, 255, 0.75);
 }
 
+footer .nav-link{
+  font-weight: normal;
+}
 
 
 .vermell{
