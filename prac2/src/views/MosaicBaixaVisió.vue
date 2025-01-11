@@ -175,6 +175,14 @@
         :tipus="tipus"
         :estat="estat"
         />
+
+
+        <svg height="0">
+  <filter id="f1">
+    <feGaussianBlur stdDeviation="20" />
+  </filter>
+</svg>
+
         
     </div>
 </template>
@@ -190,7 +198,7 @@ export default{
               return{
                 dades,
                 dades_ordenades:[],
-                mida:"80",
+                mida:"60",
                 cerca: '',
                 tipus: ["convencional","universitaria","internacional"],
                 estat: ["activa","formacio","desapareguda"],
@@ -250,12 +258,9 @@ export default{
 </script>
 
 <style scoped>
-.casella{
-    padding:0px;
-}
 
-.casella:hover{
-    padding:0px;
+#mosaic{
+    filter: url(#f1);
 }
 
 </style>

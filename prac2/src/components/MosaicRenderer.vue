@@ -2,7 +2,7 @@
     <div id="mosaic" class="d-flex flex-wrap justify-content-center">
         <div v-for="(colla,index) in filtrarDades" 
         :key="index"
-        class="casella" 
+        :class="casella" 
         tabindex="0"
         :id="'colla-'+id+'-'+index"
         :style="{ 
@@ -11,7 +11,7 @@
             backgroundColor: perfilColor(colla)
             }">
 
-            <p v-if="seleccio=='desconeguts'" 
+            <p v-if="seleccio=='desconeguts'||perfil_color=='tritanopia'||perfil_color=='deuteranopia'||perfil_color=='monocrom'" 
             :style="{fontSize:text+'px'}">
             {{ colla.color_camisa }}
         </p>
@@ -79,7 +79,15 @@ export default {
             
                 },
         computed:{
+            casella() {
+                if (this.$route.name === 'cognitiu') {
+                    return 'casella grow'; 
+                }
+                else{
+                return 'casella';} 
+    },
         
+
         filtrarDades(){
             return this.llista.filter(colla=>
             (
@@ -142,6 +150,12 @@ export default {
             }
             else if (this.perfil_color==="tritanopia"){
                 return colla.tritanopia;
+            }
+            else if (this.perfil_color==="monocrom"){
+                return "hsl(0,0%,"+colla.color_hsl[2]+"%)";
+            }
+            else if (this.perfil_color==="hsl"){
+                return "hsl("+colla.color_hsl[0]+","+colla.color_hsl[1]+"%,"+colla.color_hsl[2]+"%)";
             }
             else{
                 return "ffffff"

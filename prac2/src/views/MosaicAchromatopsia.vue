@@ -75,6 +75,7 @@
                     id="convencional"
                     :tipus="['convencional']"
                     :estat="estat"
+                    :perfil_color="perfil_color"
 
                 />
                 </div>
@@ -89,6 +90,7 @@
                     id="universitaria"
                     :tipus="['universitaria']"
                     :estat="estat"
+                    :perfil_color="perfil_color"
                 />
                 </div>
                     <div  v-if="tipus.includes('internacional')">
@@ -102,6 +104,7 @@
                         id="internacional"
                         :tipus="['internacional']"
                         :estat="estat"
+                    :perfil_color="perfil_color"
                     />
                 </div>
             </div>
@@ -119,6 +122,7 @@
                         id="activa"
                         :tipus="tipus"
                         :estat="['activa']"
+                    :perfil_color="perfil_color"
                     />
                 </div>
                 <div  v-if="estat.includes('formacio')">
@@ -132,6 +136,7 @@
                         id="formacio"
                         :tipus="tipus"
                         :estat="['formacio']"
+                    :perfil_color="perfil_color"
                     />
                 </div>
                 <div  v-if="estat.includes('desapareguda')">
@@ -145,6 +150,7 @@
                         id="desapareguda"
                         :tipus="tipus"
                         :estat="['desapareguda']"
+                        :perfil_color="perfil_color"
                         />
                 </div>
             </div>
@@ -160,6 +166,7 @@
                     id="coneguts"
                     :tipus="tipus"
                     :estat="estat"
+                    :perfil_color="perfil_color"
                     
                 />  
             </div>
@@ -196,7 +203,7 @@ export default{
                 estat: ["activa","formacio","desapareguda"],
                 seccions_tipus: false,
                 seccions_estat: false,
-                perfil_color:"default"
+                perfil_color:"monocrom"
                     }
                 
                 
@@ -212,7 +219,7 @@ export default{
                 this.dades_ordenades.sort((a,b)=>(a.color_hsv[1]<=10) - (b.color_hsv[1]<=10))
             },
             ordenarLlum(){
-                this.dades_ordenades.sort((a,b)=>a.color_hsl[2] - b.color_hsl[2])
+                this.dades_ordenades.sort((a,b)=>a.color_hsv[2] - b.color_hsv[2])
             },
             ordenarNomColor(){
                 this.dades_ordenades.sort((a,b)=>a.color_camisa.localeCompare(b.color_camisa))
@@ -249,13 +256,31 @@ export default{
             }
 </script>
 
-<style scoped>
-.casella{
-    padding:0px;
+<style>
+
+/*.vermell{
+  
+  background-color:#dd1725
 }
 
-.casella:hover{
-    padding:0px;
+input[type="range"]::-webkit-slider-thumb{
+background-color:#dd1725
 }
+
+input[type="range"]::-moz-range-thumb{
+background-color:#dd1725
+}
+
+.vermell-vora{
+border: 3px solid #dd1725; 
+}
+
+
+.custom-control-input:checked ~ .custom-control-label::before{
+    background-color:#dd1725;
+    border-color:#dd1725
+}
+*/
+
 
 </style>

@@ -1,6 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 import json
+import colorsys
 
 
 RED = "\033[91m"
@@ -332,7 +333,7 @@ def crawl_info(url_colla):
 
 def hex2rgb(hex_value):
     h = hex_value.strip("#") 
-    rgb = tuple(int(h[i:i+2], 16) for i in (0, 2, 4))
+    rgb = list(int(h[i:i+2], 16) for i in (0, 2, 4))
     return rgb
 
 def rgb2hsv(r, g, b):
@@ -371,6 +372,35 @@ def rgb2hsv(r, g, b):
         # return rounded values of H, S and V
         return list(map(round, (h, s, v)))
  
+def hex_a_hls():
+    global dades_colles
+    nom_arxiu=input("Importar JSON:")
+    
+    with open(f'{nom_arxiu}', 'r', encoding='utf-8') as json_file:
+      dades_colles = json.load(json_file)
+      
+    for colla in dades_colles:
+
+        color_rgb=hex2rgb(colla["codi_color"])
+        
+        hls=list(colorsys.rgb_to_hls(color_rgb[0]/255,color_rgb[1]/255,color_rgb[2]/255))
+        
+        color_hsl=[round(hls[0]*360,1),round(hls[2]*100,1),round(hls[1]*100,1)]
+
+        colla["color_rgb"]=color_rgb
+        colla["color_hsl"]=color_hsl
+
+        print(f"Nom Colla:{colla["nom"]}")
+        print(f"Color Camisa:{colla["color_camisa"]}")
+        print(f"Codi HEX: {colla["codi_color"]}")
+        print(f"Color HSV:{colla["color_hsv"]}")
+        print(f"Color RGB:{colla["color_rgb"]}")
+        print(f"Color HSL:{colla["color_hsl"]}")
+
+    #print(dades_colles)
+    dump()
+
+        
 def hex_a_hsv():
     global dades_colles
     nom_arxiu=input("Importar JSON:")
@@ -381,7 +411,7 @@ def hex_a_hsv():
     for colla in dades_colles:
         color_hsv=rgb2hsv(*hex2rgb(colla["codi_color"]))
 
-        colla["color_hsv"]=color_hsv
+        colla["color_hsl"]=color_hsv
 
         print(f"Nom Colla:{colla["nom"]}")
         print(f"Color Camisa:{colla["color_camisa"]}")
@@ -392,8 +422,6 @@ def hex_a_hsv():
     #print(dades_colles)
     dump()
 
-        
-
 
 
 while True:
@@ -401,7 +429,8 @@ while True:
     print('[0] Compilar Llista')
     print('[1] Compilar Informació')
     print('[2] Convetir HEX a HSV')
-    print('[3] Sortir')
+    print('[3] Convetir HEX a HSV')
+    print('[4] Sortir')
 
     proces=input()
     try:
@@ -412,7 +441,10 @@ while True:
             compilar_info()
         if selec==2:
             hex_a_hsv()
+            
         if selec==3:
+            hex_a_hls()
+        if selec==4:
             break
     except:
         print('Procés no valid')

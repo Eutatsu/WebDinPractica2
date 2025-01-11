@@ -31,7 +31,7 @@
                 <div class="d-flex justify-content-between">
                     <div class="col-6">
                         <div class="d-flex justify-content-between">
-                    <h5>Tipus:</h5>
+                    <h5 class="flash">Tipus:</h5>
                     <b-form-checkbox v-model="seccions_tipus" :value=true>Separa</b-form-checkbox>
                     </div>
                         <div class="d-lg-flex">
@@ -44,7 +44,7 @@
                     </div>
                     <div class="col-6">
                         <div class="d-flex justify-content-between">
-                    <h5>Estat:</h5>
+                    <h5 class="flash">Estat:</h5>
                     <b-form-checkbox v-model="seccions_estat" :value=true>Separa</b-form-checkbox>
                     </div>
                         <div class="d-lg-flex">
@@ -175,6 +175,9 @@
         :tipus="tipus"
         :estat="estat"
         />
+
+
+
         
     </div>
 </template>
@@ -241,6 +244,7 @@ export default{
             
 
         },
+        
         created(){
             
             this.dades_ordenades=[...this.dades]
@@ -249,13 +253,71 @@ export default{
             }
 </script>
 
+<style>
+
+.grow{
+    padding:25px;
+    transition: padding 0.3s ease-in-out; 
+}
+
+.grow:hover{
+    padding:75px;
+    animation: grow-shrink 1s infinite; ;
+}
+
+
+
+@keyframes grow-shrink {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.5); 
+    }
+    100% {
+        transform: scale(1); 
+    }
+}
+
+@keyframes flash {
+    0%, 100% {
+        background-color: #dd1725; /* Start and end with red */
+    }
+    50% {
+        background-color: white; /* Flash to white at the midpoint */
+    }
+}
+
+@keyframes flash-vora {
+    0%, 100% {
+        border-color: #dd1725; /* Start and end with red */
+    }
+    50% {
+        border-color: white; /* Flash to white at the midpoint */
+    }
+}
+
+</style>
+
 <style scoped>
-.casella{
-    padding:0px;
+
+.vermell-vora, .popover{
+    animation: flash-vora 1s infinite
+}
+input[type="range"]::-webkit-slider-thumb{
+    animation: flash 1s infinite
 }
 
-.casella:hover{
-    padding:0px;
+input[type="range"]::-moz-range-thumb{
+    animation: flash 1s infinite
 }
 
+.custom-control-input:checked{
+    animation: flash-vora 1s infinite;
+    animation: flash 1s infinite
+}
+
+.flash{
+    animation: flash 1s infinite
+}
 </style>

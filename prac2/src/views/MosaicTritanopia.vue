@@ -2,10 +2,10 @@
     <div>
     <div class="container my-4 px-0 d-block" id="contenidor_mosaic">
         <form id="opcions" class="m-4">
-            <div id="opcions-l1" class="d-flex justify-content-between mb-3">
-                <b-form-input v-model="cerca" class="col-lg-3 col-md-5 col-sm-6 col-6 vermell-vora" placeholder="Cerca colles o colors..."></b-form-input>
-                <div class="d-flex algin-items-center">
-                <label class="text-nowrap align-self-center m-0" for="ordena">Ordena per: </label>
+            <div id="opcions-l1" class="d-flex justify-content-between flex-wrap">
+                <b-form-input v-model="cerca" class="col-lg-3 col-md-5 col-sm-12 mb-3 vermell-vora" placeholder="Cerca colles o colors..."></b-form-input>
+                <div class="d-flex algin-items-center mb-3">
+                <label class="text-nowrap align-self-center m-0 " for="ordena">Ordena per: </label>
                 <select id="ordena" @change="ordenar($event)" class="form-control vermell-vora">
                     <b-form-select-option value="nom">Nom</b-form-select-option>
                     <b-form-select-option value="color">Color</b-form-select-option>
@@ -59,8 +59,11 @@
             </div>
             
         </form>
-        <!--Seccions segons Tipus-->
-        <div v-if="seccions_tipus==true && seccions_estat==false">
+       
+        
+        </div>
+         <!--Seccions segons Tipus-->
+         <div v-if="seccions_tipus==true && seccions_estat==false">
                 <div  v-if="tipus.includes('convencional')">
                 <h5 class="mt-3">Colles Convencionals</h5>
                 <MosaicRenderer
@@ -72,7 +75,8 @@
                     id="convencional"
                     :tipus="['convencional']"
                     :estat="estat"
-                    perfil_color="tritanopia"
+                    :perfil_color="perfil_color"
+
                 />
                 </div>
                 <div  v-if="tipus.includes('universitaria')">
@@ -86,7 +90,7 @@
                     id="universitaria"
                     :tipus="['universitaria']"
                     :estat="estat"
-                    perfil_color="tritanopia"
+                    :perfil_color="perfil_color"
                 />
                 </div>
                     <div  v-if="tipus.includes('internacional')">
@@ -100,7 +104,7 @@
                         id="internacional"
                         :tipus="['internacional']"
                         :estat="estat"
-                    perfil_color="tritanopia"
+                    :perfil_color="perfil_color"
                     />
                 </div>
             </div>
@@ -118,6 +122,7 @@
                         id="activa"
                         :tipus="tipus"
                         :estat="['activa']"
+                    :perfil_color="perfil_color"
                     />
                 </div>
                 <div  v-if="estat.includes('formacio')">
@@ -131,6 +136,7 @@
                         id="formacio"
                         :tipus="tipus"
                         :estat="['formacio']"
+                    :perfil_color="perfil_color"
                     />
                 </div>
                 <div  v-if="estat.includes('desapareguda')">
@@ -144,6 +150,7 @@
                         id="desapareguda"
                         :tipus="tipus"
                         :estat="['desapareguda']"
+                        :perfil_color="perfil_color"
                         />
                 </div>
             </div>
@@ -159,12 +166,11 @@
                     id="coneguts"
                     :tipus="tipus"
                     :estat="estat"
-                    perfil_color="tritanopia"
+                    :perfil_color="perfil_color"
                     
                 />  
             </div>
-        
-        </div>
+            <br>
         <h5>Colles amb Colors Desconeguts:</h5>
         <MosaicRenderer
         id="desconeguts"
@@ -175,14 +181,13 @@
         
         :tipus="tipus"
         :estat="estat"
-                    perfil_color="tritanopia"
         />
         
     </div>
 </template>
 
 <script>
-import dades from '../json/dades_colles_data.json'
+import dades from '../json/dades_colles_hsl.json'
 import MosaicRenderer from '@/components/MosaicRenderer.vue';
 export default{
         components:{
@@ -198,7 +203,7 @@ export default{
                 estat: ["activa","formacio","desapareguda"],
                 seccions_tipus: false,
                 seccions_estat: false,
-                perfil_color_color:"default"
+                perfil_color:"tritanopia"
                     }
                 
                 
@@ -250,11 +255,3 @@ export default{
             },
             }
 </script>
-
-<style>
-.custom-control-input:checked ~ .custom-control-label::before{
-    background-color:#dd1725;
-    border-color:#dd1725
-}
-
-</style>

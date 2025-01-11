@@ -1,0 +1,4847 @@
+[
+    {
+        "nom": "Al·lots de Llevant",
+        "url": "https://ca.wikipedia.org/wiki/Al%C2%B7lots_de_Llevant",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd fosc",
+        "codi_color": "#2e8785",
+        "color_hsv": [
+            179,
+            66,
+            53
+        ],
+        "deuteranopia": "#7f7789",
+        "tritanopia": "#348590",
+        "fundacio": "1997",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            46,
+            135,
+            133
+        ],
+        "color_hsl": [
+            178.7,
+            49.2,
+            35.5
+        ]
+    },
+    {
+        "nom": "Bordegassos de Vilanova",
+        "url": "https://ca.wikipedia.org/wiki/Bordegassos_de_Vilanova",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Groc terrós",
+        "codi_color": "#fdc402",
+        "color_hsv": [
+            46,
+            99,
+            99
+        ],
+        "deuteranopia": "#ffc23e",
+        "tritanopia": "#ffbac5",
+        "fundacio": "1972",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            253,
+            196,
+            2
+        ],
+        "color_hsl": [
+            46.4,
+            98.4,
+            50.0
+        ]
+    },
+    {
+        "nom": "Brivalls de Cornudella",
+        "url": "https://ca.wikipedia.org/wiki/Brivalls_de_Cornudella",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau marí",
+        "codi_color": "#2f317c",
+        "color_hsv": [
+            238,
+            62,
+            49
+        ],
+        "deuteranopia": "#003c67",
+        "tritanopia": "#114045",
+        "fundacio": "1976",
+        "desaparicio": "1985",
+        "refundacio": "2012",
+        "color_rgb": [
+            47,
+            49,
+            124
+        ],
+        "color_hsl": [
+            238.4,
+            45.0,
+            33.5
+        ]
+    },
+    {
+        "nom": "Capgrossos de Mataró",
+        "url": "https://ca.wikipedia.org/wiki/Capgrossos_de_Matar%C3%B3",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau marí",
+        "codi_color": "#20418b",
+        "color_hsv": [
+            221,
+            77,
+            55
+        ],
+        "deuteranopia": "#00477a",
+        "tritanopia": "#004d52",
+        "fundacio": "1996[4]",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            32,
+            65,
+            139
+        ],
+        "color_hsl": [
+            221.5,
+            62.6,
+            33.5
+        ]
+    },
+    {
+        "nom": "Carallots de Sant Vicenç dels Horts",
+        "url": "https://ca.wikipedia.org/wiki/Carallots_de_Sant_Vicen%C3%A7_dels_Horts",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Taronja",
+        "codi_color": "#ed7715",
+        "color_hsv": [
+            27,
+            91,
+            93
+        ],
+        "deuteranopia": "#c09000",
+        "tritanopia": "#f16f76",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            237,
+            119,
+            21
+        ],
+        "color_hsl": [
+            27.2,
+            85.7,
+            50.6
+        ]
+    },
+    {
+        "nom": "Castellers d'Altafulla",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_d%27Altafulla",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Lila",
+        "codi_color": "#6f3a88",
+        "color_hsv": [
+            281,
+            57,
+            53
+        ],
+        "deuteranopia": "#335283",
+        "tritanopia": "#66494f",
+        "fundacio": "1973",
+        "desaparicio": "1988",
+        "refundacio": "1995",
+        "color_rgb": [
+            111,
+            58,
+            136
+        ],
+        "color_hsl": [
+            280.8,
+            40.2,
+            38.0
+        ]
+    },
+    {
+        "nom": "Castellers d'Andorra",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_d%27Andorra",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Bordeus",
+        "codi_color": "#721e35",
+        "color_hsv": [
+            344,
+            74,
+            45
+        ],
+        "deuteranopia": "#4a3d31",
+        "tritanopia": "#712224",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            114,
+            30,
+            53
+        ],
+        "color_hsl": [
+            343.6,
+            58.3,
+            28.2
+        ]
+    },
+    {
+        "nom": "Castellers d'Esparreguera",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_d%27Esparreguera",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Bordeus",
+        "codi_color": "#9f161d",
+        "color_hsv": [
+            357,
+            86,
+            62
+        ],
+        "deuteranopia": "#674e10",
+        "tritanopia": "#9f1715",
+        "fundacio": "1994",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            159,
+            22,
+            29
+        ],
+        "color_hsl": [
+            356.9,
+            75.7,
+            35.5
+        ]
+    },
+    {
+        "nom": "Castellers de Badalona",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Badalona",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Micaco (nespre)",
+        "codi_color": "#fbbe49",
+        "color_hsv": [
+            39,
+            71,
+            98
+        ],
+        "deuteranopia": "#fabe49",
+        "tritanopia": "#ffb4c0",
+        "fundacio": "1997",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            251,
+            190,
+            73
+        ],
+        "color_hsl": [
+            39.4,
+            95.7,
+            63.5
+        ]
+    },
+    {
+        "nom": "Castellers de Barcelona",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Barcelona",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#D9001D",
+        "color_hsv": [
+            352,
+            100,
+            85
+        ],
+        "deuteranopia": "#8b6800",
+        "tritanopia": "#d81400",
+        "fundacio": "1969",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            217,
+            0,
+            29
+        ],
+        "color_hsl": [
+            352.0,
+            100.0,
+            42.5
+        ]
+    },
+    {
+        "nom": "Castellers de Berga",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Berga",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau fosc",
+        "codi_color": "#3e497f",
+        "color_hsv": [
+            230,
+            51,
+            50
+        ],
+        "deuteranopia": "#2c4d7e",
+        "tritanopia": "#315258",
+        "fundacio": "2012[3]",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            62,
+            73,
+            127
+        ],
+        "color_hsl": [
+            229.8,
+            34.4,
+            37.1
+        ]
+    },
+    {
+        "nom": "Castellers de Caldes de Montbui",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Caldes_de_Montbui",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd ampolla",
+        "codi_color": "#026061",
+        "color_hsv": [
+            181,
+            98,
+            38
+        ],
+        "deuteranopia": "#575464",
+        "tritanopia": "#105f67",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            2,
+            96,
+            97
+        ],
+        "color_hsl": [
+            180.6,
+            96.0,
+            19.4
+        ]
+    },
+    {
+        "nom": "Castellers de Castellar del Vallès",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Castellar_del_Vall%C3%A8s",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Bordeus",
+        "codi_color": "#88171a",
+        "color_hsv": [
+            358,
+            83,
+            53
+        ],
+        "deuteranopia": "#594310",
+        "tritanopia": "#881817",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            136,
+            23,
+            26
+        ],
+        "color_hsl": [
+            358.4,
+            71.1,
+            31.2
+        ]
+    },
+    {
+        "nom": "Castellers de Castelldefels",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Castelldefels",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Groc",
+        "codi_color": "#e5d01e",
+        "color_hsv": [
+            54,
+            87,
+            90
+        ],
+        "deuteranopia": "#ffc551",
+        "tritanopia": "#f1c1d1",
+        "fundacio": "1981",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            229,
+            208,
+            30
+        ],
+        "color_hsl": [
+            53.7,
+            79.3,
+            50.8
+        ]
+    },
+    {
+        "nom": "Castellers de Cerdanyola",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Cerdanyola",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd",
+        "codi_color": "#33a28a",
+        "color_hsv": [
+            167,
+            69,
+            64
+        ],
+        "deuteranopia": "#9e8c8f",
+        "tritanopia": "#429daa",
+        "fundacio": "1998",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            51,
+            162,
+            138
+        ],
+        "color_hsl": [
+            167.0,
+            52.1,
+            41.8
+        ]
+    },
+    {
+        "nom": "Castellers de Cornellà",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Cornell%C3%A0",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Lila",
+        "codi_color": "#58167d",
+        "color_hsv": [
+            278,
+            82,
+            49
+        ],
+        "deuteranopia": "#003c68",
+        "tritanopia": "#4c3438",
+        "fundacio": "1991",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            88,
+            22,
+            125
+        ],
+        "color_hsl": [
+            278.4,
+            70.1,
+            28.8
+        ]
+    },
+    {
+        "nom": "Castellers de l'Alt Maresme",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_l%27Alt_Maresme",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vermell maduixa",
+        "codi_color": "#ea1033",
+        "color_hsv": [
+            350,
+            93,
+            92
+        ],
+        "deuteranopia": "#957124",
+        "tritanopia": "#e91912",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            234,
+            16,
+            51
+        ],
+        "color_hsl": [
+            350.4,
+            87.2,
+            49.0
+        ]
+    },
+    {
+        "nom": "Colla Castellera de l'Esquerra de l'Eixample",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_de_l%27Esquerra_de_l%27Eixample",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Lila",
+        "codi_color": "#91409f",
+        "color_hsv": [
+            291,
+            60,
+            62
+        ],
+        "deuteranopia": "#466299",
+        "tritanopia": "#3ab6c5",
+        "fundacio": "2018",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            145,
+            64,
+            159
+        ],
+        "color_hsl": [
+            291.2,
+            42.6,
+            43.7
+        ]
+    },
+    {
+        "nom": "Castellers de la Sagrada Família",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_la_Sagrada_Fam%C3%ADlia",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd",
+        "codi_color": "#18bc9c",
+        "color_hsv": [
+            168,
+            87,
+            74
+        ],
+        "deuteranopia": "#b7a0a2",
+        "tritanopia": "#3ab6c5",
+        "fundacio": "2002",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            24,
+            188,
+            156
+        ],
+        "color_hsl": [
+            168.3,
+            77.4,
+            41.6
+        ]
+    },
+    {
+        "nom": "Castellers de la Vila de Gràcia",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_la_Vila_de_Gr%C3%A0cia",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau marí",
+        "codi_color": "#003e97",
+        "color_hsv": [
+            215,
+            100,
+            59
+        ],
+        "deuteranopia": "#004677",
+        "tritanopia": "#004b50",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            62,
+            151
+        ],
+        "color_hsl": [
+            215.4,
+            100.0,
+            29.6
+        ]
+    },
+    {
+        "nom": "Castellers de les Roquetes",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_les_Roquetes",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Gris",
+        "codi_color": "#7f828b",
+        "color_hsv": [
+            225,
+            9,
+            55
+        ],
+        "deuteranopia": "#8a7e8c",
+        "tritanopia": "#7f828c",
+        "fundacio": "2011",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            127,
+            130,
+            139
+        ],
+        "color_hsl": [
+            225.0,
+            4.9,
+            52.2
+        ]
+    },
+    {
+        "nom": "Castellers de Lleida",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Lleida",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Bordeus",
+        "codi_color": "#8b1733",
+        "color_hsv": [
+            346,
+            83,
+            55
+        ],
+        "deuteranopia": "#58462d",
+        "tritanopia": "#8a1d1d",
+        "fundacio": "16 març 1995",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            139,
+            23,
+            51
+        ],
+        "color_hsl": [
+            345.5,
+            71.6,
+            31.8
+        ]
+    },
+    {
+        "nom": "Castellers de Mallorca",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Mallorca",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Grana",
+        "codi_color": "#911305",
+        "color_hsv": [
+            6,
+            97,
+            57
+        ],
+        "deuteranopia": "#5e4700",
+        "tritanopia": "#91120f",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            145,
+            19,
+            5
+        ],
+        "color_hsl": [
+            6.0,
+            93.3,
+            29.4
+        ]
+    },
+    {
+        "nom": "Castellers de Mediona",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Mediona",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau texà",
+        "codi_color": "#0967a5",
+        "color_hsv": [
+            204,
+            95,
+            65
+        ],
+        "deuteranopia": "#3464a6",
+        "tritanopia": "#006e76",
+        "fundacio": "2017",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            9,
+            103,
+            165
+        ],
+        "color_hsl": [
+            203.8,
+            89.7,
+            34.1
+        ]
+    },
+    {
+        "nom": "Castellers de Mollet",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Mollet",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd claret",
+        "codi_color": "#91d6ac",
+        "color_hsv": [
+            143,
+            32,
+            84
+        ],
+        "deuteranopia": "#e1bfb1",
+        "tritanopia": "#9ccfe0",
+        "fundacio": "1992[3]",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            145,
+            214,
+            172
+        ],
+        "color_hsl": [
+            143.5,
+            45.7,
+            70.4
+        ]
+    },
+    {
+        "nom": "Castellers de Montcada i Reixac",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Montcada_i_Reixac",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Teula",
+        "codi_color": "#c80d0f",
+        "color_hsv": [
+            359,
+            94,
+            78
+        ],
+        "deuteranopia": "#806000",
+        "tritanopia": "#c71200",
+        "fundacio": "1991",
+        "desaparicio": "1998",
+        "refundacio": "2013[3]",
+        "color_rgb": [
+            200,
+            13,
+            15
+        ],
+        "color_hsl": [
+            359.4,
+            87.8,
+            41.8
+        ]
+    },
+    {
+        "nom": "Castellers de Rubí",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Rub%C3%AD",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#de1022",
+        "color_hsv": [
+            355,
+            93,
+            87
+        ],
+        "deuteranopia": "#8f6b00",
+        "tritanopia": "#de1509",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            222,
+            16,
+            34
+        ],
+        "color_hsl": [
+            354.8,
+            86.6,
+            46.7
+        ]
+    },
+    {
+        "nom": "Castellers de Sabadell",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sabadell",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd",
+        "codi_color": "#016354",
+        "color_hsv": [
+            171,
+            99,
+            39
+        ],
+        "deuteranopia": "#5f5457",
+        "tritanopia": "#1c6068",
+        "fundacio": "1994",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            1,
+            99,
+            84
+        ],
+        "color_hsl": [
+            170.8,
+            98.0,
+            19.6
+        ]
+    },
+    {
+        "nom": "Castellers de Sant Cugat",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sant_Cugat",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd Collserola",
+        "codi_color": "#005c41",
+        "color_hsv": [
+            162,
+            100,
+            36
+        ],
+        "deuteranopia": "#82757d",
+        "tritanopia": "#1f585f",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            92,
+            65
+        ],
+        "color_hsl": [
+            162.4,
+            100.0,
+            18.0
+        ]
+    },
+    {
+        "nom": "Castellers de Sant Feliu",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sant_Feliu",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Magenta",
+        "codi_color": "#db2d86",
+        "color_hsv": [
+            329,
+            79,
+            86
+        ],
+        "deuteranopia": "#82757d",
+        "tritanopia": "#d74145",
+        "fundacio": "Gener del 1996",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            219,
+            45,
+            134
+        ],
+        "color_hsl": [
+            329.3,
+            70.7,
+            51.8
+        ]
+    },
+    {
+        "nom": "Castellers de Santa Coloma",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Santa_Coloma",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau cel",
+        "codi_color": "#38b6ff",
+        "color_hsv": [
+            202,
+            78,
+            100
+        ],
+        "deuteranopia": "#85abff",
+        "tritanopia": "#00becd",
+        "fundacio": "1985",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            56,
+            182,
+            255
+        ],
+        "color_hsl": [
+            202.0,
+            100.0,
+            61.0
+        ]
+    },
+    {
+        "nom": "Castellers de Santpedor",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Santpedor",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Daurat",
+        "codi_color": "#e1ae04",
+        "color_hsv": [
+            46,
+            98,
+            88
+        ],
+        "deuteranopia": "#e5ac0b",
+        "tritanopia": "#eaa2ae",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            225,
+            174,
+            4
+        ],
+        "color_hsl": [
+            46.2,
+            96.5,
+            44.9
+        ]
+    },
+    {
+        "nom": "Castellers de Sants",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sants",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Gris brut",
+        "codi_color": "#7e7e7e",
+        "color_hsv": [
+            0,
+            0,
+            49
+        ],
+        "deuteranopia": "#8a7a7f",
+        "tritanopia": "#7f7d87",
+        "fundacio": "1993",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            126,
+            126,
+            126
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            49.4
+        ]
+    },
+    {
+        "nom": "Castellers de Terrassa",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Terrassa",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau turquesa",
+        "codi_color": "#00b8e5",
+        "color_hsv": [
+            192,
+            100,
+            90
+        ],
+        "deuteranopia": "#93a6e9",
+        "tritanopia": "#00bbca",
+        "fundacio": "1980",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            184,
+            229
+        ],
+        "color_hsl": [
+            191.8,
+            100.0,
+            44.9
+        ]
+    },
+    {
+        "nom": "Castellers de Viladecans",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Viladecans",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd clar",
+        "codi_color": "#a8e71e",
+        "color_hsv": [
+            79,
+            87,
+            91
+        ],
+        "deuteranopia": "#ffca6f",
+        "tritanopia": "#bdd7e8",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            168,
+            231,
+            30
+        ],
+        "color_hsl": [
+            78.8,
+            80.7,
+            51.2
+        ]
+    },
+    {
+        "nom": "Castellers de Vilafranca",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Vilafranca",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd",
+        "codi_color": "#00cc99",
+        "color_hsv": [
+            165,
+            100,
+            80
+        ],
+        "deuteranopia": "#caaca0",
+        "tritanopia": "#41c4d4",
+        "fundacio": "1948",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            204,
+            153
+        ],
+        "color_hsl": [
+            165.0,
+            100.0,
+            40.0
+        ]
+    },
+    {
+        "nom": "Castellers del Poble Sec",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_del_Poble_Sec",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau cel",
+        "codi_color": "#9aceff",
+        "color_hsv": [
+            209,
+            40,
+            100
+        ],
+        "deuteranopia": "#bec5ff",
+        "tritanopia": "#93d3e4",
+        "fundacio": "1998",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            154,
+            206,
+            255
+        ],
+        "color_hsl": [
+            209.1,
+            100.0,
+            80.2
+        ]
+    },
+    {
+        "nom": "Castellers del Prat de Llobregat",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_del_Prat_de_Llobregat",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau pota blava",
+        "codi_color": "#536aae",
+        "color_hsv": [
+            225,
+            52,
+            68
+        ],
+        "deuteranopia": "#476dad",
+        "tritanopia": "#43747e",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            83,
+            106,
+            174
+        ],
+        "color_hsl": [
+            224.8,
+            36.0,
+            50.4
+        ]
+    },
+    {
+        "nom": "Castellers del Riberal",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_del_Riberal",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd",
+        "codi_color": "#4d9a64",
+        "color_hsv": [
+            138,
+            50,
+            60
+        ],
+        "deuteranopia": "#a28469",
+        "tritanopia": "#5b939f",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            77,
+            154,
+            100
+        ],
+        "color_hsl": [
+            137.9,
+            33.3,
+            45.3
+        ]
+    },
+    {
+        "nom": "Colla Castellera de Figueres",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_de_Figueres",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Lila vi empordanès",
+        "codi_color": "#5f3b79",
+        "color_hsv": [
+            275,
+            51,
+            47
+        ],
+        "deuteranopia": "#344b76",
+        "tritanopia": "#58464c",
+        "fundacio": "1996",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            95,
+            59,
+            121
+        ],
+        "color_hsl": [
+            274.8,
+            34.4,
+            35.3
+        ]
+    },
+    {
+        "nom": "Colla Castellera de Sant Pere i Sant Pau",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_de_Sant_Pere_i_Sant_Pau",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd",
+        "codi_color": "#00bda2",
+        "color_hsv": [
+            171,
+            100,
+            74
+        ],
+        "deuteranopia": "#b6a1a8",
+        "tritanopia": "#34b8c7",
+        "fundacio": "1990",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            189,
+            162
+        ],
+        "color_hsl": [
+            171.4,
+            100.0,
+            37.1
+        ]
+    },
+    {
+        "nom": "Colla Castellera Jove de Barcelona",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_Jove_de_Barcelona",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Grana",
+        "codi_color": "#700d17",
+        "color_hsv": [
+            354,
+            88,
+            44
+        ],
+        "deuteranopia": "#48370f",
+        "tritanopia": "#700f0d",
+        "fundacio": "2010, Barcelona",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            112,
+            13,
+            23
+        ],
+        "color_hsl": [
+            353.9,
+            79.2,
+            24.5
+        ]
+    },
+    {
+        "nom": "Colla de Castellers d'Esplugues",
+        "url": "https://ca.wikipedia.org/wiki/Colla_de_Castellers_d%27Esplugues",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau elèctric",
+        "codi_color": "#10549b",
+        "color_hsv": [
+            211,
+            90,
+            61
+        ],
+        "deuteranopia": "#005596",
+        "tritanopia": "#005d63",
+        "fundacio": "1994",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            16,
+            84,
+            155
+        ],
+        "color_hsl": [
+            210.6,
+            81.3,
+            33.5
+        ]
+    },
+    {
+        "nom": "Colla Jove de Castellers de Sitges",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Jove_de_Castellers_de_Sitges",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vi - burdeus",
+        "codi_color": "#532033",
+        "color_hsv": [
+            338,
+            61,
+            33
+        ],
+        "deuteranopia": "#383131",
+        "tritanopia": "#522325",
+        "fundacio": "1993",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            83,
+            32,
+            51
+        ],
+        "color_hsl": [
+            337.6,
+            44.3,
+            22.5
+        ]
+    },
+    {
+        "nom": "Colla Jove de l'Hospitalet",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Jove_de_l%27Hospitalet",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd carxofa",
+        "codi_color": "#013624",
+        "color_hsv": [
+            160,
+            98,
+            21
+        ],
+        "deuteranopia": "#372d26",
+        "tritanopia": "#133438",
+        "fundacio": "2000",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            1,
+            54,
+            36
+        ],
+        "color_hsl": [
+            159.6,
+            96.4,
+            10.8
+        ]
+    },
+    {
+        "nom": "Colla Jove Xiquets de Tarragona",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Jove_Xiquets_de_Tarragona",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Lila",
+        "codi_color": "#b588f2",
+        "color_hsv": [
+            265,
+            44,
+            95
+        ],
+        "deuteranopia": "#789dee",
+        "tritanopia": "#a799a5",
+        "fundacio": "1979",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            181,
+            136,
+            242
+        ],
+        "color_hsl": [
+            265.5,
+            80.3,
+            74.1
+        ]
+    },
+    {
+        "nom": "Colla Jove Xiquets de Vilafranca",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Jove_Xiquets_de_Vilafranca",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau Oxford",
+        "codi_color": "#cfd6f0",
+        "color_hsv": [
+            227,
+            14,
+            94
+        ],
+        "deuteranopia": "#dfd1f1",
+        "tritanopia": "#ced7e8",
+        "fundacio": "2010",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            207,
+            214,
+            240
+        ],
+        "color_hsl": [
+            227.3,
+            52.4,
+            87.6
+        ]
+    },
+    {
+        "nom": "Colla Joves Xiquets de Valls",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Joves_Xiquets_de_Valls",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#d71418",
+        "color_hsv": [
+            359,
+            91,
+            84
+        ],
+        "deuteranopia": "#8a6800",
+        "tritanopia": "#d7160c",
+        "fundacio": "1813",
+        "desaparicio": null,
+        "refundacio": "1971 (reorganització)",
+        "color_rgb": [
+            215,
+            20,
+            24
+        ],
+        "color_hsl": [
+            358.8,
+            83.0,
+            46.1
+        ]
+    },
+    {
+        "nom": "Colla Vella dels Xiquets de Valls",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Vella_dels_Xiquets_de_Valls",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Rosa",
+        "codi_color": "#d77577",
+        "color_hsv": [
+            359,
+            46,
+            84
+        ],
+        "deuteranopia": "#aa8c73",
+        "tritanopia": "#d7747d",
+        "fundacio": "1791",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            215,
+            117,
+            119
+        ],
+        "color_hsl": [
+            358.8,
+            55.1,
+            65.1
+        ]
+    },
+    {
+        "nom": "Encantats de Begues",
+        "url": "https://ca.wikipedia.org/wiki/Encantats_de_Begues",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd ampolla",
+        "codi_color": "#048224",
+        "color_hsv": [
+            135,
+            97,
+            51
+        ],
+        "deuteranopia": "#8a6a2d",
+        "tritanopia": "#357983",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            4,
+            130,
+            36
+        ],
+        "color_hsl": [
+            135.2,
+            94.0,
+            26.3
+        ]
+    },
+    {
+        "nom": "Esperxats de l'Estany",
+        "url": "https://ca.wikipedia.org/wiki/Esperxats_de_l%27Estany",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau-verd",
+        "codi_color": "#218a87",
+        "color_hsv": [
+            178,
+            76,
+            54
+        ],
+        "deuteranopia": "#80788b",
+        "tritanopia": "#2a8893",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            33,
+            138,
+            135
+        ],
+        "color_hsl": [
+            178.3,
+            61.4,
+            33.5
+        ]
+    },
+    {
+        "nom": "Margeners de Guissona",
+        "url": "https://ca.wikipedia.org/wiki/Margeners_de_Guissona",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Marró (terra mullada)",
+        "codi_color": "#794a2e",
+        "color_hsv": [
+            22,
+            62,
+            47
+        ],
+        "deuteranopia": "#69522c",
+        "tritanopia": "#7b464c",
+        "fundacio": "2007",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            121,
+            74,
+            46
+        ],
+        "color_hsl": [
+            22.4,
+            44.9,
+            32.7
+        ]
+    },
+    {
+        "nom": "Marrecs de Salt",
+        "url": "https://ca.wikipedia.org/wiki/Marrecs_de_Salt",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau Ter",
+        "codi_color": "#6f93ce",
+        "color_hsv": [
+            217,
+            46,
+            81
+        ],
+        "deuteranopia": "#7b90cf",
+        "tritanopia": "#649aa7",
+        "fundacio": "1995",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            111,
+            147,
+            206
+        ],
+        "color_hsl": [
+            217.3,
+            49.2,
+            62.2
+        ]
+    },
+    {
+        "nom": "Matossers de Molins de Rei",
+        "url": "https://ca.wikipedia.org/wiki/Matossers_de_Molins_de_Rei",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Marró argila",
+        "codi_color": "#8f5a24",
+        "color_hsv": [
+            30,
+            75,
+            56
+        ],
+        "deuteranopia": "#806122",
+        "tritanopia": "#92545b",
+        "fundacio": "2002",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            143,
+            90,
+            36
+        ],
+        "color_hsl": [
+            30.3,
+            59.8,
+            35.1
+        ]
+    },
+    {
+        "nom": "Minyons de l'Arboç",
+        "url": "https://ca.wikipedia.org/wiki/Minyons_de_l%27Arbo%C3%A7",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#d90e21",
+        "color_hsv": [
+            354,
+            94,
+            85
+        ],
+        "deuteranopia": "#8b6800",
+        "tritanopia": "#d91303",
+        "fundacio": "1958",
+        "desaparicio": "1985",
+        "refundacio": "2002",
+        "color_rgb": [
+            217,
+            14,
+            33
+        ],
+        "color_hsl": [
+            354.4,
+            87.9,
+            45.3
+        ]
+    },
+    {
+        "nom": "Minyons de Santa Cristina",
+        "url": "https://ca.wikipedia.org/wiki/Minyons_de_Santa_Cristina",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd poma",
+        "codi_color": "#8fbf2d",
+        "color_hsv": [
+            80,
+            76,
+            75
+        ],
+        "deuteranopia": "#dba638",
+        "tritanopia": "#a0b2c0",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            143,
+            191,
+            45
+        ],
+        "color_hsl": [
+            79.7,
+            61.9,
+            46.3
+        ]
+    },
+    {
+        "nom": "Minyons de Terrassa",
+        "url": "https://ca.wikipedia.org/wiki/Minyons_de_Terrassa",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Malva",
+        "codi_color": "#ceaad4",
+        "color_hsv": [
+            291,
+            20,
+            83
+        ],
+        "deuteranopia": "#bab1d3",
+        "tritanopia": "#caaebc",
+        "fundacio": "1979",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            206,
+            170,
+            212
+        ],
+        "color_hsl": [
+            291.4,
+            32.8,
+            74.9
+        ]
+    },
+    {
+        "nom": "Moixiganguers d'Igualada",
+        "url": "https://ca.wikipedia.org/wiki/Moixiganguers_d%27Igualada",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Morat",
+        "codi_color": "#8f3189",
+        "color_hsv": [
+            304,
+            66,
+            56
+        ],
+        "deuteranopia": "#485983",
+        "tritanopia": "#884449",
+        "fundacio": "1995",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            143,
+            49,
+            137
+        ],
+        "color_hsl": [
+            303.8,
+            49.0,
+            37.6
+        ]
+    },
+    {
+        "nom": "Nens del Vendrell",
+        "url": "https://ca.wikipedia.org/wiki/Nens_del_Vendrell",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vermella",
+        "codi_color": "#c43022",
+        "color_hsv": [
+            5,
+            83,
+            77
+        ],
+        "deuteranopia": "#856411",
+        "tritanopia": "#c42e2f",
+        "fundacio": "1926, el Vendrell",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            196,
+            48,
+            34
+        ],
+        "color_hsl": [
+            5.2,
+            70.4,
+            45.1
+        ]
+    },
+    {
+        "nom": "Nois de la Torre",
+        "url": "https://ca.wikipedia.org/wiki/Nois_de_la_Torre",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau cel",
+        "codi_color": "#5e96c5",
+        "color_hsv": [
+            207,
+            52,
+            77
+        ],
+        "deuteranopia": "#7f8ec7",
+        "tritanopia": "#549ba8",
+        "fundacio": "1975 (1975)",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            94,
+            150,
+            197
+        ],
+        "color_hsl": [
+            207.4,
+            47.0,
+            57.1
+        ]
+    },
+    {
+        "nom": "Pallagos del Conflent",
+        "url": "https://ca.wikipedia.org/wiki/Pallagos_del_Conflent",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Granat",
+        "codi_color": "#891b3e",
+        "color_hsv": [
+            341,
+            80,
+            54
+        ],
+        "deuteranopia": "#564739",
+        "tritanopia": "#882223",
+        "fundacio": "2012",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            137,
+            27,
+            62
+        ],
+        "color_hsl": [
+            340.9,
+            67.1,
+            32.2
+        ]
+    },
+    {
+        "nom": "Sagals d'Osona",
+        "url": "https://ca.wikipedia.org/wiki/Sagals_d%27Osona",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Carbassa",
+        "codi_color": "#f36300",
+        "color_hsv": [
+            24,
+            100,
+            95
+        ],
+        "deuteranopia": "#b78900",
+        "tritanopia": "#f55c62",
+        "fundacio": "1997",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            243,
+            99,
+            0
+        ],
+        "color_hsl": [
+            24.4,
+            100.0,
+            47.6
+        ]
+    },
+    {
+        "nom": "Salats de Súria",
+        "url": "https://ca.wikipedia.org/wiki/Salats_de_S%C3%BAria",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Potassa (salmó rosat)",
+        "codi_color": "#eea78e",
+        "color_hsv": [
+            16,
+            40,
+            93
+        ],
+        "deuteranopia": "#d8b18c",
+        "tritanopia": "#f1a2af",
+        "fundacio": "2008",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            238,
+            167,
+            142
+        ],
+        "color_hsl": [
+            15.6,
+            73.8,
+            74.5
+        ]
+    },
+    {
+        "nom": "Tirallongues de Manresa",
+        "url": "https://ca.wikipedia.org/wiki/Tirallongues_de_Manresa",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau i blanc (ratllada)",
+        "codi_color": "#8aade4",
+        "color_hsv": [
+            217,
+            39,
+            89
+        ],
+        "deuteranopia": "#9ba8e5",
+        "tritanopia": "#81b3c2",
+        "fundacio": "1993",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            138,
+            173,
+            228
+        ],
+        "color_hsl": [
+            216.7,
+            62.5,
+            71.8
+        ]
+    },
+    {
+        "nom": "Torraires de Montblanc",
+        "url": "https://ca.wikipedia.org/wiki/Torraires_de_Montblanc",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Grana",
+        "codi_color": "#9a0000",
+        "color_hsv": [
+            0,
+            100,
+            60
+        ],
+        "deuteranopia": "#624a00",
+        "tritanopia": "#990e00",
+        "fundacio": "1849",
+        "desaparicio": "1920",
+        "refundacio": "1994",
+        "color_rgb": [
+            154,
+            0,
+            0
+        ],
+        "color_hsl": [
+            0.0,
+            100.0,
+            30.2
+        ]
+    },
+    {
+        "nom": "Xerrics d'Olot",
+        "url": "https://ca.wikipedia.org/wiki/Xerrics_d%27Olot",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Grana",
+        "codi_color": "#aa2828",
+        "color_hsv": [
+            0,
+            76,
+            67
+        ],
+        "deuteranopia": "#72571f",
+        "tritanopia": "#aa2829",
+        "fundacio": "2002",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            170,
+            40,
+            40
+        ],
+        "color_hsl": [
+            0.0,
+            61.9,
+            41.2
+        ]
+    },
+    {
+        "nom": "Xicots de Vilafranca",
+        "url": "https://ca.wikipedia.org/wiki/Xicots_de_Vilafranca",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#d71317",
+        "color_hsv": [
+            359,
+            91,
+            84
+        ],
+        "deuteranopia": "#8a6800",
+        "tritanopia": "#d7150a",
+        "fundacio": "1982",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            215,
+            19,
+            23
+        ],
+        "color_hsl": [
+            358.8,
+            83.8,
+            45.9
+        ]
+    },
+    {
+        "nom": "Xics de Granollers",
+        "url": "https://ca.wikipedia.org/wiki/Xics_de_Granollers",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Grana",
+        "codi_color": "#631046",
+        "color_hsv": [
+            321,
+            84,
+            39
+        ],
+        "deuteranopia": "#363542",
+        "tritanopia": "#601f20",
+        "fundacio": "1991",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            99,
+            16,
+            70
+        ],
+        "color_hsl": [
+            321.0,
+            72.2,
+            22.5
+        ]
+    },
+    {
+        "nom": "Xiqüelos i Xiqüeles del Delta",
+        "url": "https://ca.wikipedia.org/wiki/Xiq%C3%BCelos_i_Xiq%C3%BCeles_del_Delta",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau Delta",
+        "codi_color": "#2b72c4",
+        "color_hsv": [
+            212,
+            78,
+            77
+        ],
+        "deuteranopia": "#2c72c4",
+        "tritanopia": "#007d86",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            43,
+            114,
+            196
+        ],
+        "color_hsl": [
+            212.2,
+            64.0,
+            46.9
+        ]
+    },
+    {
+        "nom": "Xiquets de Cambrils",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_Cambrils",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Bordeus",
+        "codi_color": "#781d1c",
+        "color_hsv": [
+            1,
+            77,
+            47
+        ],
+        "deuteranopia": "#513d15",
+        "tritanopia": "#781d1e",
+        "fundacio": "1993",
+        "desaparicio": "2001",
+        "refundacio": "2013",
+        "color_rgb": [
+            120,
+            29,
+            28
+        ],
+        "color_hsl": [
+            0.7,
+            62.2,
+            29.0
+        ]
+    },
+    {
+        "nom": "Xiquets de Reus",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_Reus",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Marró avellana",
+        "codi_color": "#a85c17",
+        "color_hsv": [
+            29,
+            86,
+            66
+        ],
+        "deuteranopia": "#8e6a0d",
+        "tritanopia": "#ab565c",
+        "fundacio": "1981",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            168,
+            92,
+            23
+        ],
+        "color_hsl": [
+            28.6,
+            75.9,
+            37.5
+        ]
+    },
+    {
+        "nom": "Xiquets de Tarragona",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_Tarragona",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Vermell i blanc a ratlles",
+        "codi_color": "#a23047",
+        "color_hsv": [
+            348,
+            70,
+            64
+        ],
+        "deuteranopia": "#6c5741",
+        "tritanopia": "#5d5b5c",
+        "fundacio": "1970",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            162,
+            48,
+            71
+        ],
+        "color_hsl": [
+            347.9,
+            54.3,
+            41.2
+        ]
+    },
+    {
+        "nom": "Xiquets de Vila-seca",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_Vila-seca",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau cel",
+        "codi_color": "#00ccff",
+        "color_hsv": [
+            192,
+            100,
+            100
+        ],
+        "deuteranopia": "#a5b9ff",
+        "tritanopia": "#00d0e0",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            204,
+            255
+        ],
+        "color_hsl": [
+            192.0,
+            100.0,
+            50.0
+        ]
+    },
+    {
+        "nom": "Xiquets del Serrallo",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_del_Serrallo",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau marí",
+        "codi_color": "#253271",
+        "color_hsv": [
+            230,
+            67,
+            44
+        ],
+        "deuteranopia": "#003962",
+        "tritanopia": "#003e42",
+        "fundacio": "1988",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            37,
+            50,
+            113
+        ],
+        "color_hsl": [
+            229.7,
+            50.7,
+            29.4
+        ]
+    },
+    {
+        "nom": "Castellers de Gavà",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Gav%C3%A0",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Blau",
+        "codi_color": "#144998",
+        "color_hsv": [
+            216,
+            87,
+            60
+        ],
+        "deuteranopia": "#004d86",
+        "tritanopia": "#00545a",
+        "fundacio": "1994",
+        "desaparicio": "2004",
+        "refundacio": "2012",
+        "color_rgb": [
+            20,
+            73,
+            152
+        ],
+        "color_hsl": [
+            215.9,
+            76.7,
+            33.7
+        ]
+    },
+    {
+        "nom": "Castellers de Sant Adrià",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sant_Adri%C3%A0",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Bordeus",
+        "codi_color": "#9a1940",
+        "color_hsv": [
+            342,
+            84,
+            60
+        ],
+        "deuteranopia": "#614e3a",
+        "tritanopia": "#992122",
+        "fundacio": "14 de maig de 2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            154,
+            25,
+            64
+        ],
+        "color_hsl": [
+            341.9,
+            72.1,
+            35.1
+        ]
+    },
+    {
+        "nom": "Castellers de Tortosa",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Tortosa",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Grana",
+        "codi_color": "#75262c",
+        "color_hsv": [
+            355,
+            68,
+            46
+        ],
+        "deuteranopia": "#514028",
+        "tritanopia": "#752729",
+        "fundacio": "Febrer del 2015",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            117,
+            38,
+            44
+        ],
+        "color_hsl": [
+            355.4,
+            51.0,
+            30.4
+        ]
+    },
+    {
+        "nom": "Colla Castellera La Bisbal del Penedès",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_La_Bisbal_del_Pened%C3%A8s",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Taronja",
+        "codi_color": "#ff8000",
+        "color_hsv": [
+            30,
+            100,
+            100
+        ],
+        "deuteranopia": "#cf9b00",
+        "tritanopia": "#ff7a81",
+        "fundacio": "2015",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            128,
+            0
+        ],
+        "color_hsl": [
+            30.1,
+            100.0,
+            50.0
+        ]
+    },
+    {
+        "nom": "Laietans de Gramenet",
+        "url": "https://ca.wikipedia.org/wiki/Laietans_de_Gramenet",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd gram",
+        "codi_color": "#0b8e36",
+        "color_hsv": [
+            140,
+            92,
+            56
+        ],
+        "deuteranopia": "#96743e",
+        "tritanopia": "#398590",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            11,
+            142,
+            54
+        ],
+        "color_hsl": [
+            139.7,
+            85.6,
+            30.0
+        ]
+    },
+    {
+        "nom": "Manyacs de Parets",
+        "url": "https://ca.wikipedia.org/wiki/Manyacs_de_Parets",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Morat intens",
+        "codi_color": "#5a1484",
+        "color_hsv": [
+            278,
+            85,
+            52
+        ],
+        "deuteranopia": "#003e6b",
+        "tritanopia": "#4d363a",
+        "fundacio": "2015",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            90,
+            20,
+            132
+        ],
+        "color_hsl": [
+            277.5,
+            73.7,
+            29.8
+        ]
+    },
+    {
+        "nom": "Vailets de Gelida",
+        "url": "https://ca.wikipedia.org/wiki/Vailets_de_Gelida",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Verd poma",
+        "codi_color": "#cbffbd",
+        "color_hsv": [
+            107,
+            26,
+            100
+        ],
+        "deuteranopia": "#ffede1",
+        "tritanopia": "#e2f3ff",
+        "fundacio": "1985",
+        "desaparicio": "2000",
+        "refundacio": "2011",
+        "color_rgb": [
+            203,
+            255,
+            189
+        ],
+        "color_hsl": [
+            107.3,
+            100.0,
+            87.1
+        ]
+    },
+    {
+        "nom": "Castellers de Sarrià",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sarri%C3%A0",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Carmesí",
+        "codi_color": "#592733",
+        "color_hsv": [
+            346,
+            56,
+            35
+        ],
+        "deuteranopia": "#403631",
+        "tritanopia": "#58282b",
+        "fundacio": "12 octubre 1999",
+        "desaparicio": "9 octubre 2005",
+        "refundacio": "8 novembre 2016",
+        "color_rgb": [
+            89,
+            39,
+            51
+        ],
+        "color_hsl": [
+            345.6,
+            39.1,
+            25.1
+        ]
+    },
+    {
+        "nom": "Castellers de l'Adroc",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_l%27Adroc",
+        "tipus": "convencional",
+        "estat": "activa",
+        "color_camisa": "Quadres negres i liles",
+        "codi_color": "#660d81",
+        "color_hsv": [
+            286,
+            90,
+            51
+        ],
+        "deuteranopia": "#004171",
+        "tritanopia": "#5b3337",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            102,
+            13,
+            129
+        ],
+        "color_hsl": [
+            286.0,
+            81.7,
+            27.8
+        ]
+    },
+    {
+        "nom": "Malfargats de Pallars",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Malfargats_de_Pallars&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "formacio",
+        "color_camisa": "Groc",
+        "codi_color": "#ffdc55",
+        "color_hsv": [
+            48,
+            67,
+            100
+        ],
+        "deuteranopia": "#ffd8a2",
+        "tritanopia": "#ffd3de",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            220,
+            85
+        ],
+        "color_hsl": [
+            47.6,
+            100.0,
+            66.7
+        ]
+    },
+    {
+        "nom": "Xiquets de Torredembarra",
+        "url": "Nul",
+        "tipus": "convencional",
+        "estat": "formacio",
+        "color_camisa": "Ratllada blanc i blava",
+        "codi_color": "#1f4590",
+        "color_hsv": [
+            220,
+            78,
+            56
+        ],
+        "deuteranopia": "#004a81",
+        "tritanopia": "#005056",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            31,
+            69,
+            144
+        ],
+        "color_hsl": [
+            219.8,
+            64.6,
+            34.3
+        ]
+    },
+    {
+        "nom": "Colla Castellera de Cerdanya",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_de_Cerdanya",
+        "tipus": "convencional",
+        "estat": "formacio",
+        "color_camisa": "Verd turquesa",
+        "codi_color": "#087d83",
+        "color_hsv": [
+            183,
+            94,
+            51
+        ],
+        "deuteranopia": "#706e86",
+        "tritanopia": "#117c87",
+        "fundacio": "2019",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            8,
+            125,
+            131
+        ],
+        "color_hsl": [
+            182.9,
+            88.5,
+            27.3
+        ]
+    },
+    {
+        "nom": "Castellers de la Selva",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_la_Selva",
+        "tipus": "convencional",
+        "estat": "formacio",
+        "color_camisa": "Taronja guilla",
+        "codi_color": "#db2d22",
+        "color_hsv": [
+            4,
+            84,
+            86
+        ],
+        "deuteranopia": "#926e04",
+        "tritanopia": "#db2c2c",
+        "fundacio": "2019",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            219,
+            45,
+            34
+        ],
+        "color_hsl": [
+            3.6,
+            73.1,
+            49.6
+        ]
+    },
+    {
+        "nom": "Colla Castellera de Vacarisses",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Castellera_de_Vacarisses&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "formacio",
+        "color_camisa": "Argila",
+        "codi_color": "#d82d01",
+        "color_hsv": [
+            12,
+            100,
+            85
+        ],
+        "deuteranopia": "#8f6c00",
+        "tritanopia": "#d82a2a",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            216,
+            45,
+            1
+        ],
+        "color_hsl": [
+            12.3,
+            99.1,
+            42.5
+        ]
+    },
+    {
+        "nom": "Castellers del Foix de Cubelles",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_del_Foix_de_Cubelles",
+        "tipus": "convencional",
+        "estat": "formacio",
+        "color_camisa": "Blau turquesa",
+        "codi_color": "#0078ac",
+        "color_hsv": [
+            198,
+            100,
+            67
+        ],
+        "deuteranopia": "#5170ae",
+        "tritanopia": "#007d86",
+        "fundacio": "2019",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            120,
+            172
+        ],
+        "color_hsl": [
+            198.1,
+            100.0,
+            33.7
+        ]
+    },
+    {
+        "nom": "Colla Castellera del Baix Montseny",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_del_Baix_Montseny",
+        "tipus": "convencional",
+        "estat": "formacio",
+        "color_camisa": "Blau turquesa fosc",
+        "codi_color": "#03989f",
+        "color_hsv": [
+            183,
+            98,
+            62
+        ],
+        "deuteranopia": "#8885a3",
+        "tritanopia": "#1397a4",
+        "fundacio": "2019",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            3,
+            152,
+            159
+        ],
+        "color_hsl": [
+            182.7,
+            96.3,
+            31.8
+        ]
+    },
+    {
+        "nom": "Castellers de Granollers",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Granollers&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau Fort",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Ses Talaies de Formentera",
+        "url": "https://ca.wikipedia.org/wiki/Ses_Talaies_de_Formentera",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Groc blat",
+        "codi_color": "#fdc402",
+        "color_hsv": [
+            46,
+            99,
+            99
+        ],
+        "deuteranopia": "#ffc23e",
+        "tritanopia": "#ffbac5",
+        "fundacio": "2009",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            253,
+            196,
+            2
+        ],
+        "color_hsl": [
+            46.4,
+            98.4,
+            50.0
+        ]
+    },
+    {
+        "nom": "Angelets del Vallespir",
+        "url": "https://ca.wikipedia.org/wiki/Angelets_del_Vallespir",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau cel",
+        "codi_color": "#3a71e8",
+        "color_hsv": [
+            221,
+            75,
+            91
+        ],
+        "deuteranopia": "#0079d3",
+        "tritanopia": "#00848d",
+        "fundacio": "2001, Sant Joan de Pladecorts",
+        "desaparicio": "2019",
+        "refundacio": null,
+        "color_rgb": [
+            58,
+            113,
+            232
+        ],
+        "color_hsl": [
+            221.0,
+            79.1,
+            56.9
+        ]
+    },
+    {
+        "nom": "Castellers de Solsona",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Solsona",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Groc",
+        "codi_color": "#ffe200",
+        "color_hsv": [
+            53,
+            100,
+            100
+        ],
+        "deuteranopia": "#ffdcab",
+        "tritanopia": "#ffd7e2",
+        "fundacio": "2010, Solsona",
+        "desaparicio": "2016",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            226,
+            0
+        ],
+        "color_hsl": [
+            53.2,
+            100.0,
+            50.0
+        ]
+    },
+    {
+        "nom": "Castellers de la Roca",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_la_Roca",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Vermell",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1974",
+        "desaparicio": "1980",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Castellers de l'Albera",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_l%27Albera",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Taronja carbassa",
+        "codi_color": "#f19200",
+        "color_hsv": [
+            36,
+            100,
+            95
+        ],
+        "deuteranopia": "#d5a000",
+        "tritanopia": "#f68892",
+        "fundacio": "1995",
+        "desaparicio": "2002",
+        "refundacio": null,
+        "color_rgb": [
+            241,
+            146,
+            0
+        ],
+        "color_hsl": [
+            36.3,
+            100.0,
+            47.3
+        ]
+    },
+    {
+        "nom": "Castellers de les Gavarres",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_les_Gavarres",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Marró suro",
+        "codi_color": "#ae8c70",
+        "color_hsv": [
+            27,
+            36,
+            68
+        ],
+        "deuteranopia": "#ac8d70",
+        "tritanopia": "#b28792",
+        "fundacio": "2015",
+        "desaparicio": "2022",
+        "refundacio": null,
+        "color_rgb": [
+            174,
+            140,
+            112
+        ],
+        "color_hsl": [
+            27.1,
+            27.7,
+            56.1
+        ]
+    },
+    {
+        "nom": "Castellers de l'Hospitalet",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_l%27Hospitalet",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Marró teula",
+        "codi_color": "#a36930",
+        "color_hsv": [
+            30,
+            71,
+            64
+        ],
+        "deuteranopia": "#93712e",
+        "tritanopia": "#a7636a",
+        "fundacio": "1996",
+        "desaparicio": "2005",
+        "refundacio": null,
+        "color_rgb": [
+            163,
+            105,
+            48
+        ],
+        "color_hsl": [
+            29.7,
+            54.5,
+            41.4
+        ]
+    },
+    {
+        "nom": "Castellers de Martorell",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Martorell&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Lila",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Castellers de Montmeló",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Montmel%C3%B3&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau fort",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Castellers de Ribes",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Ribes",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Terra",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1981",
+        "desaparicio": "1985",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Castellers de Sant Andreu de la Barca",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sant_Andreu_de_la_Barca",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Negre",
+        "codi_color": "#242424",
+        "color_hsv": [
+            0,
+            0,
+            14
+        ],
+        "deuteranopia": "#272324",
+        "tritanopia": "#242426",
+        "fundacio": "1996",
+        "desaparicio": "2006",
+        "refundacio": null,
+        "color_rgb": [
+            36,
+            36,
+            36
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            14.1
+        ]
+    },
+    {
+        "nom": "Castellers de Sitges",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sitges",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau marí",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1971",
+        "desaparicio": "1987",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Castellers de Vilanova - Colla de Mar",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Vilanova_-_Colla_de_Mar",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau marí",
+        "codi_color": "#0049b2",
+        "color_hsv": [
+            215,
+            100,
+            70
+        ],
+        "deuteranopia": "#00528c",
+        "tritanopia": "#00595e",
+        "fundacio": "1972, Vilanova i la Geltrú",
+        "desaparicio": "1983",
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            73,
+            178
+        ],
+        "color_hsl": [
+            215.4,
+            100.0,
+            34.9
+        ]
+    },
+    {
+        "nom": "Castellers del Collell",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_del_Collell&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Desconegut",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Colla Castellera de Sant Boi",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_de_Sant_Boi",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Gris fosc",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1994, Sant Boi de Llobregat",
+        "desaparicio": "2007",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Colla Castellera La Global de Salou",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_La_Global_de_Salou",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau marí",
+        "codi_color": "#0779f9",
+        "color_hsv": [
+            212,
+            97,
+            98
+        ],
+        "deuteranopia": "#007fdd",
+        "tritanopia": "#008a93",
+        "fundacio": "2009",
+        "desaparicio": "2013",
+        "refundacio": null,
+        "color_rgb": [
+            7,
+            121,
+            249
+        ],
+        "color_hsl": [
+            211.7,
+            95.3,
+            50.2
+        ]
+    },
+    {
+        "nom": "Colla Castellera Nyerros de la Plana",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_Nyerros_de_la_Plana",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Gris",
+        "codi_color": "#cccccc",
+        "color_hsv": [
+            0,
+            0,
+            80
+        ],
+        "deuteranopia": "#dfc5cd",
+        "tritanopia": "#cecada",
+        "fundacio": "1998",
+        "desaparicio": "2022",
+        "refundacio": null,
+        "color_rgb": [
+            204,
+            204,
+            204
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            80.0
+        ]
+    },
+    {
+        "nom": "Colla dels Xiquets de Valls",
+        "url": "https://ca.wikipedia.org/wiki/Colla_dels_Xiquets_de_Valls",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Vermell o rosat",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1939, Valls",
+        "desaparicio": "1947",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Colla Jove de Castellers de Cubelles",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Jove_de_Castellers_de_Cubelles&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Verd",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Colla Jove dels Castellers de Vilafranca",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Jove_dels_Castellers_de_Vilafranca",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Gris",
+        "codi_color": "#c7bec1",
+        "color_hsv": [
+            340,
+            5,
+            78
+        ],
+        "deuteranopia": "#d2bac2",
+        "tritanopia": "#c9bccb",
+        "fundacio": "1984, Vilafranca del Penedès",
+        "desaparicio": "1985",
+        "refundacio": null,
+        "color_rgb": [
+            199,
+            190,
+            193
+        ],
+        "color_hsl": [
+            340.0,
+            7.4,
+            76.3
+        ]
+    },
+    {
+        "nom": "Colla Jove del Vendrell",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Jove_del_Vendrell&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau turquesa",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Colla Jove de Vilanova",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Jove_de_Vilanova",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Rosat",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1982, Vilanova i la Geltrú",
+        "desaparicio": "1994",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Colla Nova del Vendrell",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Nova_del_Vendrell",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau turquesa",
+        "codi_color": "#00b4df",
+        "color_hsv": [
+            192,
+            100,
+            87
+        ],
+        "deuteranopia": "#91a3e3",
+        "tritanopia": "#00b7c5",
+        "fundacio": "1993",
+        "desaparicio": "2004",
+        "refundacio": null,
+        "color_rgb": [
+            0,
+            180,
+            223
+        ],
+        "color_hsl": [
+            191.6,
+            100.0,
+            43.7
+        ]
+    },
+    {
+        "nom": "Cos de Castellers de Ballets de Catalunya",
+        "url": "https://ca.wikipedia.org/wiki/Cos_de_Castellers_de_Ballets_de_Catalunya",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Vermell",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1958, Barcelona",
+        "desaparicio": "1963",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Ganxets de Reus",
+        "url": "https://ca.wikipedia.org/wiki/Ganxets_de_Reus",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Lila morat",
+        "codi_color": "#512884",
+        "color_hsv": [
+            267,
+            70,
+            52
+        ],
+        "deuteranopia": "#004170",
+        "tritanopia": "#433e43",
+        "fundacio": "1991, Reus",
+        "desaparicio": "2005",
+        "refundacio": null,
+        "color_rgb": [
+            81,
+            40,
+            132
+        ],
+        "color_hsl": [
+            266.7,
+            53.5,
+            33.7
+        ]
+    },
+    {
+        "nom": "Joves des Raiguer",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Joves_des_Raiguer&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau marí",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Marrecs del Catllar",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Marrecs_del_Catllar&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau grisós",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Picapolls de la Gavarresa",
+        "url": "https://ca.wikipedia.org/wiki/Picapolls_de_la_Gavarresa",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Morat",
+        "codi_color": "#814997",
+        "color_hsv": [
+            283,
+            52,
+            59
+        ],
+        "deuteranopia": "#486093",
+        "tritanopia": "#79575e",
+        "fundacio": "2014, Artés",
+        "desaparicio": "desembre 2023",
+        "refundacio": null,
+        "color_rgb": [
+            129,
+            73,
+            151
+        ],
+        "color_hsl": [
+            283.1,
+            34.8,
+            43.9
+        ]
+    },
+    {
+        "nom": "Vailets de l'Empordà",
+        "url": "https://ca.wikipedia.org/wiki/Vailets_de_l%27Empord%C3%A0",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau cel",
+        "codi_color": "#b8c5e7",
+        "color_hsv": [
+            223,
+            20,
+            91
+        ],
+        "deuteranopia": "#c7c0e8",
+        "tritanopia": "#b5c8d8",
+        "fundacio": "2012",
+        "desaparicio": "2022",
+        "refundacio": null,
+        "color_rgb": [
+            184,
+            197,
+            231
+        ],
+        "color_hsl": [
+            223.4,
+            49.5,
+            81.4
+        ]
+    },
+    {
+        "nom": "Vailets de Ripollet",
+        "url": "https://ca.wikipedia.org/wiki/Vailets_de_Ripollet",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Groc pollet",
+        "codi_color": "#e7ab3a",
+        "color_hsv": [
+            39,
+            75,
+            91
+        ],
+        "deuteranopia": "#e4ad39",
+        "tritanopia": "#eea0ac",
+        "fundacio": "1996, Ripollet",
+        "desaparicio": "2007",
+        "refundacio": null,
+        "color_rgb": [
+            231,
+            171,
+            58
+        ],
+        "color_hsl": [
+            39.2,
+            78.3,
+            56.7
+        ]
+    },
+    {
+        "nom": "Xicots de Valls",
+        "url": "https://ca.wikipedia.org/wiki/Xicots_de_Valls",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Vermella amb una franja blanca horitzontal",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1988, Valls",
+        "desaparicio": "1989",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Xiquets de Gavà",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Xiquets_de_Gav%C3%A0&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau fort",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Xiquets de Gràcia",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_Gr%C3%A0cia",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Desconegut",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "dècada del 1880",
+        "desaparicio": "1936",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Xiquets de l'Eramprunyà",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_l%27Erampruny%C3%A0",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau fort",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "1947, Gavà",
+        "desaparicio": "1950",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Xiquets de la Bisbal",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Xiquets_de_la_Bisbal&action=edit&redlink=1",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Desconegut",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Xiquets de la Vila d'Alcover",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_la_Vila_d%27Alcover",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Granat",
+        "codi_color": "#721a33",
+        "color_hsv": [
+            343,
+            77,
+            45
+        ],
+        "deuteranopia": "#493b2f",
+        "tritanopia": "#711f20",
+        "fundacio": "1984 color camisa grana",
+        "desaparicio": "2009",
+        "refundacio": "2012 color camisa verd oliva",
+        "color_rgb": [
+            114,
+            26,
+            51
+        ],
+        "color_hsl": [
+            343.0,
+            62.9,
+            27.5
+        ]
+    },
+    {
+        "nom": "Xiquets d'Alcover",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_d%27Alcover",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Verd Oliva",
+        "codi_color": "#449654",
+        "color_hsv": [
+            132,
+            55,
+            59
+        ],
+        "deuteranopia": "#9f7f59",
+        "tritanopia": "#558e99",
+        "fundacio": "1984 color camisa grana",
+        "desaparicio": "2009",
+        "refundacio": "2012 color camisa verd oliva",
+        "color_rgb": [
+            68,
+            150,
+            84
+        ],
+        "color_hsl": [
+            131.7,
+            37.6,
+            42.7
+        ]
+    },
+    {
+        "nom": "Los Xics Caleros",
+        "url": "https://ca.wikipedia.org/wiki/Los_Xics_Caleros",
+        "tipus": "convencional",
+        "estat": "desapareguda",
+        "color_camisa": "Ratllada blanc i blava",
+        "codi_color": "#89aadd",
+        "color_hsv": [
+            216,
+            38,
+            87
+        ],
+        "deuteranopia": "#9aa5de",
+        "tritanopia": "#81b0be",
+        "fundacio": "2012, l'Ametlla de Mar",
+        "desaparicio": "2018",
+        "refundacio": null,
+        "color_rgb": [
+            137,
+            170,
+            221
+        ],
+        "color_hsl": [
+            216.4,
+            55.3,
+            70.2
+        ]
+    },
+    {
+        "nom": "Arreplegats de la Zona Universitària",
+        "url": "https://ca.wikipedia.org/wiki/Arreplegats_de_la_Zona_Universit%C3%A0ria",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Verd sala d'operacions",
+        "codi_color": "#15a884",
+        "color_hsv": [
+            165,
+            90,
+            66
+        ],
+        "deuteranopia": "#a68e88",
+        "tritanopia": "#36a2af",
+        "fundacio": "1995, Barcelona",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            21,
+            168,
+            132
+        ],
+        "color_hsl": [
+            165.3,
+            77.8,
+            37.1
+        ]
+    },
+    {
+        "nom": "Bergants del Campus de Terrassa",
+        "url": "https://ca.wikipedia.org/wiki/Bergants_del_Campus_de_Terrassa",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Verd Llima",
+        "codi_color": "#b8da49",
+        "color_hsv": [
+            74,
+            67,
+            85
+        ],
+        "deuteranopia": "#fec251",
+        "tritanopia": "#c8ccdc",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            184,
+            218,
+            73
+        ],
+        "color_hsl": [
+            74.1,
+            66.2,
+            57.1
+        ]
+    },
+    {
+        "nom": "Emboirats de la UVIC",
+        "url": "https://ca.wikipedia.org/wiki/Emboirats_de_la_UVIC",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Vermell grana",
+        "codi_color": "#a60b0f",
+        "color_hsv": [
+            348,
+            92,
+            91
+        ],
+        "deuteranopia": "#947133",
+        "tritanopia": "#e81e1a",
+        "fundacio": "2003, Vic",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            166,
+            11,
+            15
+        ],
+        "color_hsl": [
+            358.5,
+            87.6,
+            34.7
+        ]
+    },
+    {
+        "nom": "Engrescats de la URL",
+        "url": "https://ca.wikipedia.org/wiki/Engrescats_de_la_URL",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Groc",
+        "codi_color": "#fedd19",
+        "color_hsv": [
+            51,
+            90,
+            100
+        ],
+        "deuteranopia": "#ffd89e",
+        "tritanopia": "#ffd2de",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            254,
+            221,
+            25
+        ],
+        "color_hsl": [
+            51.4,
+            99.1,
+            54.7
+        ]
+    },
+    {
+        "nom": "Ganàpies de la UAB",
+        "url": "https://ca.wikipedia.org/wiki/Gan%C3%A0pies_de_la_UAB",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Blau «hostessa»",
+        "codi_color": "#316574",
+        "color_hsv": [
+            194,
+            93,
+            27
+        ],
+        "deuteranopia": "#5a5c76",
+        "tritanopia": "#2f666e",
+        "fundacio": "1994, Universitat Autònoma de Barcelona",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            49,
+            101,
+            116
+        ],
+        "color_hsl": [
+            193.4,
+            40.6,
+            32.4
+        ]
+    },
+    {
+        "nom": "Grillats del CBL",
+        "url": "https://ca.wikipedia.org/wiki/Grillats_del_CBL",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Vi",
+        "codi_color": "#741e38",
+        "color_hsv": [
+            342,
+            74,
+            45
+        ],
+        "deuteranopia": "#4b3e34",
+        "tritanopia": "#732324",
+        "fundacio": "2015, Parc Mediterrani de la Tecnologia",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            116,
+            30,
+            56
+        ],
+        "color_hsl": [
+            341.9,
+            58.9,
+            28.6
+        ]
+    },
+    {
+        "nom": "Llunàtics de la UPC de Vilanova",
+        "url": "https://ca.wikipedia.org/wiki/Llun%C3%A0tics_de_la_UPC_de_Vilanova",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Blau mecànic",
+        "codi_color": "#0c1374",
+        "color_hsv": [
+            209,
+            99,
+            60
+        ],
+        "deuteranopia": "#005391",
+        "tritanopia": "#005a60",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            12,
+            19,
+            116
+        ],
+        "color_hsl": [
+            236.0,
+            81.2,
+            25.1
+        ]
+    },
+    {
+        "nom": "Marracos de la UdL",
+        "url": "https://ca.wikipedia.org/wiki/Marracos_de_la_UdL",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Gris boira",
+        "codi_color": "#8b8a92",
+        "color_hsv": [
+            247,
+            5,
+            57
+        ],
+        "deuteranopia": "#958793",
+        "tritanopia": "#8b8a94",
+        "fundacio": "5 d'abril de 2001",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            139,
+            138,
+            146
+        ],
+        "color_hsl": [
+            247.5,
+            3.5,
+            55.7
+        ]
+    },
+    {
+        "nom": "Passerells del Tecnocampus",
+        "url": "https://ca.wikipedia.org/wiki/Passerells_del_Tecnocampus",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Malva",
+        "codi_color": "#d59de4",
+        "color_hsv": [
+            276,
+            23,
+            78
+        ],
+        "deuteranopia": "#a29fc5",
+        "tritanopia": "#b09eaa",
+        "fundacio": "2011",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            213,
+            157,
+            228
+        ],
+        "color_hsl": [
+            287.3,
+            56.8,
+            75.5
+        ]
+    },
+    {
+        "nom": "Pataquers de la URV",
+        "url": "https://ca.wikipedia.org/wiki/Pataquers_de_la_URV",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Taronja",
+        "codi_color": "#ff8000",
+        "color_hsv": [
+            27,
+            95,
+            100
+        ],
+        "deuteranopia": "#cb9900",
+        "tritanopia": "#ff757c",
+        "fundacio": "2007",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            128,
+            0
+        ],
+        "color_hsl": [
+            30.1,
+            100.0,
+            50.0
+        ]
+    },
+    {
+        "nom": "Penjats del Campus de Manresa",
+        "url": "https://ca.wikipedia.org/wiki/Penjats_del_Campus_de_Manresa",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#e10715",
+        "color_hsv": [
+            356,
+            97,
+            89
+        ],
+        "deuteranopia": "#916d00",
+        "tritanopia": "#e21500",
+        "fundacio": "2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            225,
+            7,
+            21
+        ],
+        "color_hsl": [
+            356.1,
+            94.0,
+            45.5
+        ]
+    },
+    {
+        "nom": "Trempats de la UPF",
+        "url": "https://ca.wikipedia.org/wiki/Trempats_de_la_UPF",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Marró avellana",
+        "codi_color": "#a06e53",
+        "color_hsv": [
+            25,
+            52,
+            63
+        ],
+        "deuteranopia": "#95764c",
+        "tritanopia": "#a46b73",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            160,
+            110,
+            83
+        ],
+        "color_hsl": [
+            21.0,
+            31.7,
+            47.6
+        ]
+    },
+    {
+        "nom": "Xoriguers de la UdG",
+        "url": "https://ca.wikipedia.org/wiki/Xoriguers_de_la_UdG",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Blau elèctric",
+        "codi_color": "#02b1ea",
+        "color_hsv": [
+            195,
+            99,
+            92
+        ],
+        "deuteranopia": "#85a2ed",
+        "tritanopia": "#00b6c4",
+        "fundacio": "1998",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            2,
+            177,
+            234
+        ],
+        "color_hsl": [
+            194.7,
+            98.3,
+            46.3
+        ]
+    },
+    {
+        "nom": "Gambirots de la UIB",
+        "url": "https://ca.wikipedia.org/wiki/Gambirots_de_la_UIB",
+        "tipus": "universitaria",
+        "estat": "activa",
+        "color_camisa": "Blau fluix",
+        "codi_color": "#c6d6f1",
+        "color_hsv": [
+            218,
+            18,
+            95
+        ],
+        "deuteranopia": "#dbcff2",
+        "tritanopia": "#c4d7e9",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            198,
+            214,
+            241
+        ],
+        "color_hsl": [
+            217.7,
+            60.6,
+            86.1
+        ]
+    },
+    {
+        "nom": "Mangoners de la Universitat de Perpinyà",
+        "url": "https://ca.wikipedia.org/wiki/Mangoners_de_la_Universitat_de_Perpiny%C3%A0",
+        "tipus": "universitaria",
+        "estat": "desapareguda",
+        "color_camisa": "Morat o Taronja",
+        "codi_color": "#ff6b21",
+        "codi_color2": "#beb4f5",
+        "color_hsv": [
+            20,
+            87,
+            100
+        ],
+        "deuteranopia": "#c29100",
+        "tritanopia": "#ff666c",
+        "fundacio": "2008 camisa morada",
+        "desaparicio": "desconegut",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            107,
+            33
+        ],
+        "color_hsl": [
+            20.0,
+            100.0,
+            56.5
+        ]
+    },
+    {
+        "nom": "Mineyuetts de la Salle",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Minyeuetts_de_la_Salle",
+        "tipus": "universitaria",
+        "estat": "desapareguda",
+        "color_camisa": "Blanc Provisional",
+        "codi_color": "#fefefe",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#fffefe",
+        "tritanopia": "#fefeff",
+        "fundacio": "1990-1991",
+        "desaparicio": "1992",
+        "refundacio": null,
+        "color_rgb": [
+            254,
+            254,
+            254
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            99.6
+        ]
+    },
+    {
+        "nom": "Castellers de Berlin",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Berlin",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Groc",
+        "codi_color": "#fcbf43",
+        "color_hsv": [
+            40,
+            73,
+            99
+        ],
+        "deuteranopia": "#fcbf43",
+        "tritanopia": "#ffb5c1",
+        "fundacio": "2018",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            252,
+            191,
+            67
+        ],
+        "color_hsl": [
+            40.2,
+            96.9,
+            62.5
+        ]
+    },
+    {
+        "nom": "Castellers de Lausanne",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Lausanne",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Verd",
+        "codi_color": "#15a850",
+        "color_hsv": [
+            144,
+            87,
+            66
+        ],
+        "deuteranopia": "#b08a58",
+        "tritanopia": "#439eab",
+        "fundacio": "2023",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            21,
+            168,
+            80
+        ],
+        "color_hsl": [
+            144.1,
+            77.8,
+            37.1
+        ]
+    },
+    {
+        "nom": "Castellers de Lo Prado",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Lo_Prado",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Verd",
+        "codi_color": "#03a5a8",
+        "color_hsv": [
+            181,
+            98,
+            66
+        ],
+        "deuteranopia": "#9690ad",
+        "tritanopia": "#1ba4b1",
+        "fundacio": "2007",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            3,
+            165,
+            168
+        ],
+        "color_hsl": [
+            181.1,
+            96.5,
+            33.5
+        ]
+    },
+    {
+        "nom": "Castellers de Mont-real",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Mont-real",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Beix",
+        "codi_color": "#bcad8c",
+        "color_hsv": [
+            41,
+            26,
+            74
+        ],
+        "deuteranopia": "#cba78d",
+        "tritanopia": "#c1a7b5",
+        "fundacio": "2007",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            188,
+            173,
+            140
+        ],
+        "color_hsl": [
+            41.2,
+            26.4,
+            64.3
+        ]
+    },
+    {
+        "nom": "Castellers de París",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Par%C3%ADs",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Blau",
+        "codi_color": "#2b6cb0",
+        "color_hsv": [
+            211,
+            76,
+            69
+        ],
+        "deuteranopia": "#396ab0",
+        "tritanopia": "#00757e",
+        "fundacio": "2015",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            43,
+            108,
+            176
+        ],
+        "color_hsl": [
+            210.7,
+            60.7,
+            42.9
+        ]
+    },
+    {
+        "nom": "Castellers d'Estocolm",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_d%27Estocolm&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Groc",
+        "codi_color": "#ffde59",
+        "color_hsv": [
+            48,
+            65,
+            100
+        ],
+        "deuteranopia": "#ffdaa8",
+        "tritanopia": "#ffd5e0",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            222,
+            89
+        ],
+        "color_hsl": [
+            48.1,
+            100.0,
+            67.5
+        ]
+    },
+    {
+        "nom": "Castellers de Sydney",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Sydney",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Daurat",
+        "codi_color": "#f8c624",
+        "color_hsv": [
+            46,
+            85,
+            97
+        ],
+        "deuteranopia": "#ffc241",
+        "tritanopia": "#ffbac7",
+        "fundacio": "2016",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            248,
+            198,
+            36
+        ],
+        "color_hsl": [
+            45.8,
+            93.8,
+            55.7
+        ]
+    },
+    {
+        "nom": "Castellers de Tokyo",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Tokyo&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Granat",
+        "codi_color": "#a02c4c",
+        "color_hsv": [
+            343,
+            72,
+            63
+        ],
+        "deuteranopia": "#685646",
+        "tritanopia": "#9f3134",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            160,
+            44,
+            76
+        ],
+        "color_hsl": [
+            343.4,
+            56.9,
+            40.0
+        ]
+    },
+    {
+        "nom": "Castellers de Tolosa",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Tolosa&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Vermell Totxo",
+        "codi_color": "#d8583f",
+        "color_hsv": [
+            10,
+            71,
+            85
+        ],
+        "deuteranopia": "#a17b38",
+        "tritanopia": "#d9555a",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            216,
+            88,
+            63
+        ],
+        "color_hsl": [
+            9.8,
+            66.2,
+            54.7
+        ]
+    },
+    {
+        "nom": "Castellers de Zürich",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Z%C3%BCrich&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Blanc Provisional",
+        "codi_color": "#fefefe",
+        "color_hsv": [
+            0,
+            0,
+            99
+        ],
+        "deuteranopia": "#fffefe",
+        "tritanopia": "#fefeff",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            254,
+            254,
+            254
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            99.6
+        ]
+    },
+    {
+        "nom": "Castellers of London",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_of_London",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#cf1817",
+        "color_hsv": [
+            0,
+            89,
+            81
+        ],
+        "deuteranopia": "#866400",
+        "tritanopia": "#cf1913",
+        "fundacio": "2015",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            207,
+            24,
+            23
+        ],
+        "color_hsl": [
+            0.3,
+            80.0,
+            45.1
+        ]
+    },
+    {
+        "nom": "Colla Castellera d'Edinburgh",
+        "url": "https://ca.wikipedia.org/wiki/Colla_Castellera_d%27Edinburgh",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Blau marí",
+        "codi_color": "#010080",
+        "color_hsv": [
+            240,
+            100,
+            50
+        ],
+        "deuteranopia": "#002842",
+        "tritanopia": "#002b2d",
+        "fundacio": "2016",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            1,
+            0,
+            128
+        ],
+        "color_hsl": [
+            240.5,
+            100.0,
+            25.1
+        ]
+    },
+    {
+        "nom": "Colla Castellera de Madrid",
+        "url": "https://ca.wikipedia.org/wiki/Castellers_de_Madrid",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#c80000",
+        "color_hsv": [
+            0,
+            100,
+            78
+        ],
+        "deuteranopia": "#7f6000",
+        "tritanopia": "#c61300",
+        "fundacio": "21 gener 2017",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            200,
+            0,
+            0
+        ],
+        "color_hsl": [
+            0.0,
+            100.0,
+            39.2
+        ]
+    },
+    {
+        "nom": "Euskal Herriko Casteller Taldea",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Euskal_Herriko_Casteller_Taldea&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Morat",
+        "codi_color": "#592744",
+        "color_hsv": [
+            325,
+            56,
+            35
+        ],
+        "deuteranopia": "#3b3841",
+        "tritanopia": "#572c2f",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            89,
+            39,
+            68
+        ],
+        "color_hsl": [
+            325.2,
+            39.1,
+            25.1
+        ]
+    },
+    {
+        "nom": "Koales de Melbourne",
+        "url": "https://ca.wikipedia.org/wiki/Koales_de_Melbourne",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Blau naval",
+        "codi_color": "#023866",
+        "color_hsv": [
+            208,
+            98,
+            40
+        ],
+        "deuteranopia": "#003864",
+        "tritanopia": "#003e42",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            2,
+            56,
+            102
+        ],
+        "color_hsl": [
+            207.6,
+            96.2,
+            20.4
+        ]
+    },
+    {
+        "nom": "Mannekes de Brussel·les",
+        "url": "https://ca.wikipedia.org/wiki/Mannekes_de_Brussel%C2%B7les",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Groc",
+        "codi_color": "#F9F20E",
+        "color_hsv": [
+            58,
+            94,
+            98
+        ],
+        "deuteranopia": "#ffe8cb",
+        "tritanopia": "#ffe5f0",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            249,
+            242,
+            14
+        ],
+        "color_hsl": [
+            58.2,
+            95.1,
+            51.6
+        ]
+    },
+    {
+        "nom": "Mataresos de l'Alguer",
+        "url": "https://ca.wikipedia.org/wiki/Mataresos_de_l%27Alguer",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Vermell",
+        "codi_color": "#fe4040",
+        "color_hsv": [
+            0,
+            75,
+            100
+        ],
+        "deuteranopia": "#ab8333",
+        "tritanopia": "#fe4042",
+        "fundacio": "2023",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            254,
+            64,
+            64
+        ],
+        "color_hsl": [
+            0.0,
+            99.0,
+            62.4
+        ]
+    },
+    {
+        "nom": "Xiquets de Copenhagen",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_Copenhagen",
+        "tipus": "internacional",
+        "estat": "activa",
+        "color_camisa": "Blau marí",
+        "codi_color": "#2d3a66",
+        "color_hsv": [
+            226,
+            56,
+            40
+        ],
+        "deuteranopia": "#1f3d65",
+        "tritanopia": "#214146",
+        "fundacio": "2014",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            45,
+            58,
+            102
+        ],
+        "color_hsl": [
+            226.3,
+            38.8,
+            28.8
+        ]
+    },
+    {
+        "nom": "Califòrnia Kids",
+        "url": "https://ca.wikipedia.org/wiki/Calif%C3%B2rnia_Kids",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Taronja Llampant",
+        "codi_color": "#ff6600",
+        "color_hsv": [
+            24,
+            100,
+            100
+        ],
+        "deuteranopia": "#bf8f00",
+        "tritanopia": "#ff6167",
+        "fundacio": "2004",
+        "desaparicio": "Desconegut",
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            102,
+            0
+        ],
+        "color_hsl": [
+            24.0,
+            100.0,
+            50.0
+        ]
+    },
+    {
+        "nom": "Castellers de Cerro Navia",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Cerro_Navia&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Vermell",
+        "codi_color": "#fa0100",
+        "color_hsv": [
+            0,
+            100,
+            98
+        ],
+        "deuteranopia": "#9f7800",
+        "tritanopia": "#f81700",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            250,
+            1,
+            0
+        ],
+        "color_hsl": [
+            0.2,
+            100.0,
+            49.0
+        ]
+    },
+    {
+        "nom": "Castellers de la Usach",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_la_Usach&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau",
+        "codi_color": "#06429d",
+        "color_hsv": [
+            216,
+            96,
+            62
+        ],
+        "deuteranopia": "#00497e",
+        "tritanopia": "#005054",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            6,
+            66,
+            157
+        ],
+        "color_hsl": [
+            216.2,
+            92.6,
+            32.0
+        ]
+    },
+    {
+        "nom": "Castellers de Talca",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_de_Talca&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Desconegut",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Castellers do Brasil",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Castellers_do_Brasil&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Desconegut",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Colla Castellera de Castelar",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Castellera_Les_Quatre_Barres&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau Cel",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Colla Castellera del Casal Virolai de Querétaro",
+        "url": "https://ca.wikipedia.org/w/index.php?title=Colla_Castellera_del_Casal_Virolai_de_Quer%C3%A9taro&action=edit&redlink=1",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Lila",
+        "codi_color": "#ffffff",
+        "color_hsv": [
+            0,
+            0,
+            100
+        ],
+        "deuteranopia": "#",
+        "tritanopia": "#",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            255,
+            255,
+            255
+        ],
+        "color_hsl": [
+            0.0,
+            0.0,
+            100.0
+        ]
+    },
+    {
+        "nom": "Xiquets de Hangzhou",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_Hangzhou",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Rosat",
+        "codi_color": "#d77577",
+        "color_hsv": [
+            359,
+            46,
+            84
+        ],
+        "deuteranopia": "#aa8c73",
+        "tritanopia": "#d7747d",
+        "fundacio": "2010",
+        "desaparicio": "2020",
+        "refundacio": null,
+        "color_rgb": [
+            215,
+            117,
+            119
+        ],
+        "color_hsl": [
+            358.8,
+            55.1,
+            65.1
+        ]
+    },
+    {
+        "nom": "Xiquets de l'Alster",
+        "url": "https://ca.wikipedia.org/wiki/Xiquets_de_l%27Alster",
+        "tipus": "internacional",
+        "estat": "desapareguda",
+        "color_camisa": "Blau-verd clar",
+        "codi_color": "#70cbba",
+        "color_hsv": [
+            169,
+            45,
+            80
+        ],
+        "deuteranopia": "#cab4bf",
+        "tritanopia": "#78c7d7",
+        "fundacio": "juny 2013",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            112,
+            203,
+            186
+        ],
+        "color_hsl": [
+            168.8,
+            46.7,
+            61.8
+        ]
+    },
+    {
+        "nom": "Descargolats de l'EEBE",
+        "url": "Nul",
+        "tipus": "universitaria",
+        "estat": "formacio",
+        "color_camisa": "Rosa",
+        "codi_color": "#ea4e97",
+        "color_hsv": [
+            332,
+            67,
+            92
+        ],
+        "deuteranopia": "#95868f",
+        "tritanopia": "#e65b61",
+        "fundacio": "Desconegut",
+        "desaparicio": null,
+        "refundacio": null,
+        "color_rgb": [
+            234,
+            78,
+            151
+        ],
+        "color_hsl": [
+            331.9,
+            78.8,
+            61.2
+        ]
+    }
+]

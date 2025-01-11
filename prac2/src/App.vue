@@ -1,27 +1,37 @@
 <template>
   <div id="app">
-  <b-navbar toggleable="lg" type="dark" class="vermell">
+    
+
+  <b-navbar toggleable="md" type="dark" class="vermell justify-content-md-center">
+    <div class="d-flex d-md-flex col-12 col-lg-12 col-xl-8 justify-content-between flex-wrap">
     <b-navbar-brand href="\"><img src="./assets/Mosaic-Logo.png" width="50rem" class="mx-3">Mosaic Casteller</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
-    <b-collapse id="nav-collapse " is-nav>
+    <b-collapse id="nav-collapse" is-nav>
       <b-navbar-nav >
-        <b-nav-item ><router-link to="./">Mosaic</router-link></b-nav-item>
+        
+        <b-nav-item to="./">Mosaic</b-nav-item>
         <b-nav-item-dropdown right>
           <!-- Using 'button-content' slot -->
           <template #button-content>
             Daltonisme
           </template>
-          <b-dropdown-item ><router-link to="/deuteranopia">Deuteranopia</router-link></b-dropdown-item>
-          <b-dropdown-item ><router-link to="/tritanopia">Tritanopia</router-link></b-dropdown-item>
-          <b-dropdown-item><router-link to="#">Achromatopsia</router-link></b-dropdown-item>
+         <b-dropdown-item to="/deuteranopia">Deuteranopia</b-dropdown-item>
+          <b-dropdown-item to="/tritanopia">Tritanopia</b-dropdown-item>
+          <b-dropdown-item to="/achromatopsia">Achromatopsia</b-dropdown-item>
         </b-nav-item-dropdown>
-        <b-nav-item ><router-link to="/about">Sobre el Mosaic</router-link></b-nav-item>
-        <b-nav-item ><router-link to="/hello">HelloWorld</router-link></b-nav-item>
+        
+        <b-nav-item to="/baixavisio">Baixa Visió</b-nav-item>
+        
+        <b-nav-item to="./cognitiu">Cognitiu</b-nav-item>
+        <b-nav-item to="/motriu">Motriu</b-nav-item>
+        
+        <b-nav-item to="/about">Sobre el Mosaic</b-nav-item>
+        <!--<b-nav-item ><router-link to="/hello">HelloWorld</router-link></b-nav-item>-->
       </b-navbar-nav>
 
-      <!-- Right aligned nav items -->
+      <!-- Right aligned nav items 
       <b-navbar-nav class="ml-auto">
 
         <b-nav-item-dropdown text="Idioma" right>
@@ -31,11 +41,15 @@
         </b-nav-item-dropdown>
 
       
-      </b-navbar-nav>
+      </b-navbar-nav>-->
     </b-collapse>
+    
+</div>
   </b-navbar>
   <main>
+
     <router-view/>
+
   </main>
   <footer class="vermell text-white pt-4 d-flex justify-content-center">
     <div class="row container" >
@@ -125,6 +139,11 @@ input[type="range"]::-moz-range-thumb{
 
 .form-control{
   border-radius: 0px
+}
+
+.custom-control-input:checked ~ .custom-control-label::before{
+    background-color:#dd1725;
+    border-color:#dd1725
 }
 
 

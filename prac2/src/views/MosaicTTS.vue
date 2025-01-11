@@ -248,14 +248,3 @@ export default{
             },
             }
 </script>
-
-<style scoped>
-.casella{
-    padding:0px;
-}
-
-.casella:hover{
-    padding:0px;
-}
-
-</style>

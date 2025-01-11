@@ -35,6 +35,31 @@ const routes = [
     name: 'tritanopia',
     component: () => import('../views/MosaicTritanopia.vue')
 
+  },
+  {
+    path: '/achromatopsia',
+    name: 'achromatopsia',
+    component: () => import('../views/MosaicAchromatopsia.vue')
+
+  },
+  {
+    path: '/baixavisio',
+    name: 'baixavisio',
+    component: () => import('../views/MosaicBaixaVisió.vue')
+
+  },
+  {
+    path: '/cognitiu',
+    name: 'cognitiu',
+    component: () => import('../views/MosaicCognitiu.vue')
+
+  },
+
+  {
+    path: '/motriu',
+    name: 'motriu',
+    component: () => import('../views/MosaicMotriu.vue')
+
   }
 ]
 

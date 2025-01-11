@@ -19,12 +19,12 @@
             <div id="opcions-l2" class="text-left">
                 <div class="d-md-flex justify-content-between">
                     <h4>Mostra:</h4>
-                <div class=" col-md-8 col-12 d-md-flex text-nowrap align-items-center justify-content-end" >
+                <div class=" col-md-8 col-12 d-md-flex text-nowrap align-items-center justify-content-end" id="control-mida">
                     <label for="mida_rajoles" class="mb-0">Mida tessel·les:</label>
-                    <div class="d-flex align-items-center justify-content-end">
-                    <b-form-input id="mida_rajoles" type="range" v-model="mida" min="5" max="200" class="mx-2"></b-form-input>
-                    <b-form-input class="form-control-sm col-1" style="min-width: 2.6rem;" v-model="mida" :placeholder="mida"></b-form-input>
-                    <p class="mb-0">px</p>
+                    <div class="d-flex align-items-center justify-content-end" >
+                        <b-form-input id="mida_rajoles" type="range" v-model="mida" min="5" max="200" class="mx-2"></b-form-input>
+                        <b-form-input class="form-control-sm col-1" style="min-width: 2.6rem;" v-model="mida" :placeholder="mida"></b-form-input>
+                        <p class="mb-0">px</p>
                     </div>
                 </div>
                 </div>
@@ -75,6 +75,7 @@
                     id="convencional"
                     :tipus="['convencional']"
                     :estat="estat"
+                    :perfil_color="perfil_color"
 
                 />
                 </div>
@@ -89,6 +90,7 @@
                     id="universitaria"
                     :tipus="['universitaria']"
                     :estat="estat"
+                    :perfil_color="perfil_color"
                 />
                 </div>
                     <div  v-if="tipus.includes('internacional')">
@@ -102,6 +104,7 @@
                         id="internacional"
                         :tipus="['internacional']"
                         :estat="estat"
+                    :perfil_color="perfil_color"
                     />
                 </div>
             </div>
@@ -119,6 +122,7 @@
                         id="activa"
                         :tipus="tipus"
                         :estat="['activa']"
+                    :perfil_color="perfil_color"
                     />
                 </div>
                 <div  v-if="estat.includes('formacio')">
@@ -132,6 +136,7 @@
                         id="formacio"
                         :tipus="tipus"
                         :estat="['formacio']"
+                    :perfil_color="perfil_color"
                     />
                 </div>
                 <div  v-if="estat.includes('desapareguda')">
@@ -145,6 +150,7 @@
                         id="desapareguda"
                         :tipus="tipus"
                         :estat="['desapareguda']"
+                        :perfil_color="perfil_color"
                         />
                 </div>
             </div>
@@ -160,6 +166,7 @@
                     id="coneguts"
                     :tipus="tipus"
                     :estat="estat"
+                    :perfil_color="perfil_color"
                     
                 />  
             </div>
@@ -212,7 +219,7 @@ export default{
                 this.dades_ordenades.sort((a,b)=>(a.color_hsv[1]<=10) - (b.color_hsv[1]<=10))
             },
             ordenarLlum(){
-                this.dades_ordenades.sort((a,b)=>a.color_hsl[2] - b.color_hsl[2])
+                this.dades_ordenades.sort((a,b)=>a.color_hsv[2] - b.color_hsv[2])
             },
             ordenarNomColor(){
                 this.dades_ordenades.sort((a,b)=>a.color_camisa.localeCompare(b.color_camisa))
@@ -250,12 +257,24 @@ export default{
 </script>
 
 <style scoped>
-.casella{
-    padding:0px;
-}
+    .custom-checkbox:hover, input:hover, .form-control:hover, .opcions-l2:hover{  
+        margin-top: 4rem;
+        position:absolute;
+        display:block;
+    }
 
-.casella:hover{
-    padding:0px;
-}
+    #mosaic:hover{
+        margin-top: 7rem;
+        flex-direction: column;
+        
+        max-height: 50rem;
+        align-content: flex-start;
+
+    }
+    
+    #control-mida:hover{
+        position:absolute;
+    }
+
 
 </style>
