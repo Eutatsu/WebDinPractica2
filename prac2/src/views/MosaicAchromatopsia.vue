@@ -63,6 +63,7 @@
         
         </div>
          <!--Seccions segons Tipus-->
+         <div class="container-fluid">
          <div v-if="seccions_tipus==true && seccions_estat==false">
                 <div  v-if="tipus.includes('convencional')">
                 <h5 class="mt-3">Colles Convencionals</h5>
@@ -182,7 +183,7 @@
         :tipus="tipus"
         :estat="estat"
         />
-        
+    </div>
     </div>
 </template>
 

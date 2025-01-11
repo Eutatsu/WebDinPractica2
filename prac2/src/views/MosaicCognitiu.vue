@@ -62,6 +62,8 @@
        
         
         </div>
+
+        <div class="container-fluid">
          <!--Seccions segons Tipus-->
          <div v-if="seccions_tipus==true && seccions_estat==false">
                 <div  v-if="tipus.includes('convencional')">
@@ -178,7 +180,7 @@
 
 
 
-        
+        </div>
     </div>
 </template>
 

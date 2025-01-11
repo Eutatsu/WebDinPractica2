@@ -62,6 +62,7 @@
        
         
         </div>
+        <div class="container-fluid">
          <!--Seccions segons Tipus-->
          <div v-if="seccions_tipus==true && seccions_estat==false">
                 <div  v-if="tipus.includes('convencional')">
@@ -175,7 +176,7 @@
         :tipus="tipus"
         :estat="estat"
         />
-
+    </div>
 
         <svg height="0">
   <filter id="f1">

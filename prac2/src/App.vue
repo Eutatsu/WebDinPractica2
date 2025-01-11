@@ -4,7 +4,7 @@
 
   <b-navbar toggleable="md" type="dark" class="vermell justify-content-md-center">
     <div class="d-flex d-md-flex col-12 col-lg-12 col-xl-8 justify-content-between flex-wrap">
-    <b-navbar-brand href="\"><img src="./assets/Mosaic-Logo.png" width="50rem" class="mx-3">Mosaic Casteller</b-navbar-brand>
+    <b-navbar-brand href="./"><img src="./assets/Mosaic-Logo.png" width="50rem" class="mx-3">Mosaic Casteller</b-navbar-brand>
 
     <b-navbar-toggle target="nav-collapse"></b-navbar-toggle>
 
@@ -83,7 +83,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color: #1a242e;
   
   min-height: 100vh;
   display:grid;
@@ -146,5 +146,12 @@ input[type="range"]::-moz-range-thumb{
     border-color:#dd1725
 }
 
+.casella p{
+  color:white
+}
+
+.casella p.desconegut{
+  color: #1a242e;
+}
 
 </style>

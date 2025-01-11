@@ -11,7 +11,11 @@
             backgroundColor: perfilColor(colla)
             }">
 
-            <p v-if="seleccio=='desconeguts'||perfil_color=='tritanopia'||perfil_color=='deuteranopia'||perfil_color=='monocrom'" 
+            <p class="desconegut" v-if="seleccio=='desconeguts'" 
+            :style="{fontSize:text+'px'}">
+            {{ colla.color_camisa }}
+        </p>
+        <p v-if="perfil_color=='tritanopia'||perfil_color=='deuteranopia'||perfil_color=='monocrom'" 
             :style="{fontSize:text+'px'}">
             {{ colla.color_camisa }}
         </p>
