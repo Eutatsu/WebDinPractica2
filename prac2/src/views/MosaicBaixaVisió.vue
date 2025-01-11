@@ -11,7 +11,7 @@
                     <b-form-select-option value="color">Color</b-form-select-option>
                     <b-form-select-option value="nomcolor">Nom Color</b-form-select-option>
                     <b-form-select-option value="llum">Lluminositat</b-form-select-option>
-                    <b-form-select-option value="default">Default</b-form-select-option>
+                   <!--<b-form-select-option value="default">Default</b-form-select-option>-->
                 </select>
                 </div>
             </div>
