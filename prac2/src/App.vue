@@ -107,10 +107,6 @@ nav {
 }
 
 
-.about p{
-    text-align: left !important;
-  }
-
 main{
 
   flex:1
