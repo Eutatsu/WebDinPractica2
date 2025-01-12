@@ -2,7 +2,7 @@
   <div id="app">
     
 
-  <b-navbar toggleable="lg" type="dark" class="vermell justify-content-md-center">
+  <b-navbar toggleable="md" type="dark" class="vermell justify-content-md-center">
     <div class="d-flex d-md-flex col-12 col-lg-12 col-xl-8 justify-content-between flex-wrap">
     <b-navbar-brand href="./"><img src="./assets/Mosaic-Logo-SF.png" width="50rem" class="mx-3">Mosaic Casteller</b-navbar-brand>
 
@@ -65,7 +65,7 @@
     <div class="col-sm d-flex">
       <b-nav vertical class="text-white col-6">
       <h6>Principal:</h6>
-      <b-nav-item href="/mosaic">Mosaic</b-nav-item>
+      <b-nav-item href="/">Mosaic</b-nav-item>
       <b-nav-item href="/about">Sobre el Mosaic</b-nav-item>
       </b-nav>
       <div>
