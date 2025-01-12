@@ -55,12 +55,12 @@
     <div class="row container" >
       <div class="col-sm">
       <h5>Creat per:</h5>
-      <p>Eudald Cardozo Vallhonrat<br>@eutatsu</p>
-      <p>David Garcia Aybar<br>@david_dga05</p>
+      <p>Eudald Cardozo Vallhonrat<br><a href="https://www.instagram.com/eutatsu/">@eutatsu</a></p>
+      <p>David Garcia Aybar<br><a href="https://www.instagram.com/david_dga05/">@david_dga05</a></p>
     </div>
     <div class="col-sm">
       <h5>Referencies:</h5>
-      <p>Dades extretes de ca.wikipedia.org</p>
+      <p>Dades extretes de <a href="https://ca.wikipedia.org/wiki/Llista_de_colles_castelleres">ca.wikipedia.org</a></p>
     </div>
     <div class="col-sm d-flex">
       <b-nav vertical class="text-white col-6">

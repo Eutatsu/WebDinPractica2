@@ -50,6 +50,10 @@
   <h4>Barreres Auditives</h4>
   <p class="text-left">El video que es presenta en aquesta mateixa pàgina per defecte es presenta sense volum, i en la seva major part manca subtitols, tret dels automatics de YouTube, nomes estan incorporats a les parts on els entrevistats parlen altres idiomes</p>
   <p class="text-left">A més d'això, alguns dels paragrafs d'aquesta pagina estan justificats de maneres poc convencionals, dificultant-ne la comprensió.</p>
+
+  <h3>Conclusions i reflexions</h3>
+  <p class="text-left">La realització d’aquesta pràctica ha sigut un repte, no només per tota la documentació i procés de creació de la web en si, sinó en la investigació de les discapacitats i com aquestes persones s’enfronten a les dificultats a l’hora de navegar per la web. Buscar maneres d’implementar aquestes barreres i que siguin coherents amb el tema principal de la pàgina ha sigut difícil, no només en l’apartat tècnic, sinó també en trobar una manera de representar correctament per a les persones sense discapacitats els problemes que poden tindre les persones que sí que en tenen.  
+  </p>
 </div>
 </template>
 
